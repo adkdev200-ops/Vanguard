@@ -1,0 +1,209 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link [ref=e4] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=e5]
+      - search [ref=e6]:
+        - button "Search" [ref=e9] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=e10]: AI news
+        - button "Search using an image" [ref=e16] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=e18]:
+      - button "Microsoft Rewards" [ref=e19] [cursor=pointer]
+      - link [ref=e20] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - button "Sign in" [ref=e23]
+      - button "Settings and quick links" [ref=e24] [cursor=pointer]
+    - navigation "Search Filter" [ref=e25]:
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - link "All" [ref=e28] [cursor=pointer]:
+            - /url: /search?q=AI+news&FORM=HDRSC1
+        - listitem [ref=e29]:
+          - link "Search" [ref=e30] [cursor=pointer]:
+            - /url: /copilotsearch?q=AI+news&FORM=CSSCOP
+        - listitem [ref=e33]:
+          - link "Images" [ref=e34] [cursor=pointer]:
+            - /url: /images/search?q=AI+news&FORM=HDRSC3
+        - listitem [ref=e35]:
+          - link "Videos" [ref=e36] [cursor=pointer]:
+            - /url: /videos/search?q=AI+news&FORM=HDRSC4
+        - listitem [ref=e37]:
+          - link "Maps" [ref=e38] [cursor=pointer]:
+            - /url: /maps?q=AI+news&FORM=HDRSC6
+        - listitem [ref=e39]:
+          - link "Copilot" [ref=e40] [cursor=pointer]:
+            - /url: /chat?prompt=AI+news&sendquery=1&FORM=SCCODX
+        - listitem [ref=e41]:
+          - link "News" [ref=e42] [cursor=pointer]:
+            - /url: /?scope=news&FORM=HDRSC7
+        - listitem [ref=e43]:
+          - button [ref=e44] [cursor=pointer]
+  - generic [ref=e48]:
+    - tabpanel [ref=e49]:
+      - navigation "Category Bar" [ref=e50]:
+        - tablist [ref=e51]:
+          - tab "Search news about Top stories" [ref=e53] [cursor=pointer]:
+            - generic "Top stories" [ref=e54]
+            - generic [ref=e57]: Top stories
+          - tab "Search news about World" [ref=e59] [cursor=pointer]:
+            - generic "World" [ref=e60]
+            - generic [ref=e63]: World
+          - tab "Search news about Business" [ref=e65] [cursor=pointer]:
+            - generic "Business" [ref=e66]
+            - generic [ref=e69]: Business
+          - tab "Search news about Politics" [ref=e71] [cursor=pointer]:
+            - generic "Politics" [ref=e72]
+            - generic [ref=e75]: Politics
+          - tab "Search news about Entertainment" [ref=e77] [cursor=pointer]:
+            - generic "Entertainment" [ref=e78]
+            - generic [ref=e81]: Entertainment
+          - tab "Search news about Sports" [ref=e83] [cursor=pointer]:
+            - generic "Sports" [ref=e84]
+            - generic [ref=e87]: Sports
+          - tab "Search news about Sci/Tech" [ref=e89] [cursor=pointer]:
+            - generic "Sci/Tech" [ref=e90]
+            - generic [ref=e95]: Sci/Tech
+    - generic [ref=e100]:
+      - complementary [ref=e101]:
+        - generic [ref=e102]: Order by
+        - generic [ref=e103] [cursor=pointer]: Best match
+        - link "Most fresh" [ref=e104] [cursor=pointer]:
+          - /url: /news/search?q=AI+news&qft=sortbydate%3d%221%22&form=YFNR
+        - generic [ref=e107]:
+          - list:
+            - listitem [ref=e108] [cursor=pointer]:
+              - button "Any time" [ref=e109]
+      - main [ref=e112]:
+        - main "News" [ref=e113]:
+          - generic "What is 'pink-slime' journalism and has it infiltrated Australian media?" [ref=e114]:
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e118]:
+                - generic [ref=e119]:
+                  - link "Search news from Australian Broadcasting Corporation" [ref=e120]:
+                    - /url: /news/search?q=site%3awww.abc.net.au&FORM=NWBCLM
+                    - text: Australian Broadcasting Corporation
+                  - generic [ref=e121]: ·
+                  - generic "21/05/2026" [ref=e123]: 1mon
+                - link [ref=e125]:
+                  - /url: https://www.abc.net.au/news/2026-05-22/pink-slime-journalism-regional-australia-ai/106639600
+                  - heading "What is 'pink-slime' journalism and has it infiltrated Australian media?" [level=2] [ref=e126]
+              - generic "Experts say a series of AI-generated online mastheads masquerading as regional news outlets is likely the first instance of \"pink-slime\" journalism in Australia. The sites, which appeared in February, ..." [ref=e127]
+          - 'generic "Fox News AI newsletter: Microsoft cuts thousands of jobs" [ref=e128]':
+            - generic [ref=e129] [cursor=pointer]:
+              - link [ref=e131]:
+                - /url: https://www.msn.com/en-us/news/technology/fox-news-ai-newsletter-microsoft-cuts-thousands-of-jobs/ar-AA27EgtZ?ocid=BingNewsVerp
+              - generic [ref=e134]:
+                - generic [ref=e135]:
+                  - generic [ref=e136]:
+                    - img "Fox News on MSN.com" [ref=e138]
+                    - generic [ref=e139]:
+                      - generic [ref=e140]: ·
+                      - text: 8d
+                      - generic [ref=e142]: ·
+                      - text: on MSN
+                  - link [ref=e144]:
+                    - /url: https://www.msn.com/en-us/news/technology/fox-news-ai-newsletter-microsoft-cuts-thousands-of-jobs/ar-AA27EgtZ?ocid=BingNewsVerp
+                    - 'heading "Fox News AI newsletter: Microsoft cuts thousands of jobs" [level=2] [ref=e145]'
+                - generic "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and ..." [ref=e146]
+          - generic "Only 15% Of Americans Trust AI Companies (The AI News You Missed)" [ref=e147]:
+            - generic [ref=e150] [cursor=pointer]:
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - link "Search news from Forbes" [ref=e153]:
+                    - /url: /news/search?q=site%3awww.forbes.com&FORM=NWBCLM
+                    - text: Forbes
+                  - generic [ref=e154]: ·
+                  - generic "22/06/2026" [ref=e156]: 26d
+                - link [ref=e158]:
+                  - /url: https://www.forbes.com/sites/jodiecook/2026/06/22/only-15-of-americans-trust-ai-companies-the-ai-news-you-missed/
+                  - heading "Only 15% Of Americans Trust AI Companies (The AI News You Missed)" [level=2] [ref=e159]
+              - generic "Forbes contributors publish independent expert analyses and insights. Jodie Cook covers AI and founder-led growth for business owners. June saw significant shifts in the AI landscape. A survey ..." [ref=e160]
+          - 'generic "AI Update, May 1, 2026: AI News and Views From the Past Week" [ref=e161]':
+            - generic [ref=e164] [cursor=pointer]:
+              - generic [ref=e165]:
+                - generic [ref=e166]:
+                  - link "Search news from Marketing" [ref=e167]:
+                    - /url: /news/search?q=site%3awww.marketingprofs.com&FORM=NWBCLM
+                    - text: Marketing
+                  - generic [ref=e168]: ·
+                  - generic "01/05/2026" [ref=e170]: 2mon
+                - link [ref=e172]:
+                  - /url: https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week
+                  - 'heading "AI Update, May 1, 2026: AI News and Views From the Past Week" [level=2] [ref=e173]'
+              - 'generic "Catch up on select AI news and developments from the past week or so: OpenAI positions GPT-5.5 as foundation for agent-driven ''compute-powered economy''. OpenAI''s GPT-5.5 represents a shift from ..." [ref=e174]'
+          - generic "OpenAI Just Proposed A 4-Day Work Week (What April’s AI News Means For You)" [ref=e175]:
+            - generic [ref=e178] [cursor=pointer]:
+              - generic [ref=e179]:
+                - generic [ref=e180]:
+                  - link "Search news from Forbes" [ref=e181]:
+                    - /url: /news/search?q=site%3awww.forbes.com&FORM=NWBCLM
+                    - text: Forbes
+                  - generic [ref=e182]: ·
+                  - generic "28/04/2026" [ref=e184]: 2mon
+                - link [ref=e186]:
+                  - /url: https://www.forbes.com/sites/jodiecook/2026/04/28/openai-just-proposed-a-4-day-work-week-what-aprils-ai-news-means-for-you/
+                  - heading "OpenAI Just Proposed A 4-Day Work Week (What April’s AI News Means For You)" [level=2] [ref=e187]
+              - generic "OpenAI proposes a 32-hour work week, while a two-person company is on track for $1.8B revenue, demonstrating AI's immense potential. Stanford data confirms widespread adoption, and new AI tools ..." [ref=e188]
+          - generic "This chatbot wants to solve AI’s news problem" [ref=e189]:
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e193]:
+                - generic [ref=e194]:
+                  - link "Search news from CNN" [ref=e195]:
+                    - /url: /news/search?q=site%3awww.cnn.com&FORM=NWBCLM
+                    - text: CNN
+                  - generic [ref=e196]: ·
+                  - generic "22/06/2026" [ref=e198]: 26d
+                - link [ref=e200]:
+                  - /url: https://www.cnn.com/2026/06/22/media/newsguard-ai-chatbot-news-atlantic-publisher
+                  - heading "This chatbot wants to solve AI’s news problem" [level=2] [ref=e201]
+              - generic "AI chatbots are fast becoming a way people find news. But the systems are only as reliable as their sources, and are prone to misinformation and manipulation. Meanwhile, the rise of AI threatens the ..." [ref=e202]
+          - generic "Seven to use AI to write news articles following mass redundancy fallout" [ref=e203]:
+            - generic [ref=e206] [cursor=pointer]:
+              - generic [ref=e207]:
+                - generic [ref=e208]:
+                  - link "Search news from Crikey" [ref=e209]:
+                    - /url: /news/search?q=site%3awww.crikey.com.au&FORM=NWBCLM
+                    - text: Crikey
+                  - generic [ref=e212]: ·
+                  - generic "18/06/2026" [ref=e214]: 1mon
+                - link [ref=e216]:
+                  - /url: https://www.crikey.com.au/2026/06/18/seven-network-ai-news-tool-clippy-mass-redundancies/
+                  - heading "Seven to use AI to write news articles following mass redundancy fallout" [level=2] [ref=e217]
+              - generic "Seven staff have been introduced to an AI tool with a retro codename to help write news articles based off existing TV scripts, Crikey can reveal." [ref=e218]
+          - generic "Google Says Hackers Used AI to Build Zero-Day Exploit" [ref=e219]:
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e223]:
+                - generic [ref=e224]:
+                  - link "Search news from TechRepublic" [ref=e225]:
+                    - /url: /news/search?q=site%3awww.techrepublic.com&FORM=NWBCLM
+                    - text: TechRepublic
+                  - generic [ref=e226]: ·
+                  - generic "12/05/2026" [ref=e228]: 2mon
+                - link [ref=e230]:
+                  - /url: https://www.techrepublic.com/article/news-google-hackers-ai-zero-day-exploit/
+                  - heading "Google Says Hackers Used AI to Build Zero-Day Exploit" [level=2] [ref=e231]
+              - generic "Google says hackers used AI to help build a zero-day exploit targeting 2FA, raising concerns about AI-assisted hacking. Google says hackers used AI to help build a zero-day exploit, then stopped it ..." [ref=e232]
+          - generic "Confused by Google's New AI Features? Here's the Free vs. Paid Breakdown and What You Can Try Right Now" [ref=e233]:
+            - generic [ref=e236] [cursor=pointer]:
+              - generic [ref=e237]:
+                - generic [ref=e238]:
+                  - link "Search news from PC Magazine" [ref=e239]:
+                    - /url: /news/search?q=site%3awww.pcmag.com&FORM=NWBCLM
+                    - text: PC Magazine
+                  - generic [ref=e240]: ·
+                  - generic "20/05/2026" [ref=e242]: 1mon
+                - link [ref=e244]:
+                  - /url: https://www.pcmag.com/news/google-io-new-ai-features-whats-paid-free-available-to-try-right-now
+                  - heading "Confused by Google's New AI Features? Here's the Free vs. Paid Breakdown and What You Can Try Right Now" [level=2] [ref=e245]
+              - generic "Google I/O included a blitz of AI news across Search, YouTube, and Gemini. We sort through it to determine when the new features launch and which ones require a premium AI subscription. I’m PCMag’s ..." [ref=e246]
+  - button "Feedback" [ref=e249] [cursor=pointer]
+  - contentinfo [ref=e251]:
+    - generic [ref=e252]:
+      - list:
+        - listitem [ref=e253]:
+          - link "Privacy" [ref=e254] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+        - listitem [ref=e255]:
+          - link "Terms" [ref=e256] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkID=246338

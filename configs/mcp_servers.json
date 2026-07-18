@@ -1,0 +1,31 @@
+{
+    "playwright": {
+        "transport": "stdio",
+        "command": "npx",
+        "args": ["-y", "@playwright/mcp@latest"]
+    },
+    "filesystem": {
+        "transport": "stdio",
+        "command": "npx",
+        "args": [
+            "-y",
+            "@modelcontextprotocol/server-filesystem",
+            "/home/legion/Documents/BitsBot/outputs"
+        ]
+    },
+    "sequential-thinking": {
+        "transport": "stdio",
+        "command": "npx",
+        "args": [
+            "-y",
+            "@modelcontextprotocol/server-sequential-thinking"
+        ]
+    },
+    "desktop-commander": {
+        "transport": "stdio",
+        "command": "desktop-commander",
+        "args": [
+            "--no-onboarding"
+        ]
+    }
+}

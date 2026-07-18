@@ -1,0 +1,2035 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Google News" [ref=e7] [cursor=pointer]:
+        - /url: ./?hl=en-US&gl=US&ceid=US%3Aen
+        - generic [ref=e9]: News
+      - generic [ref=e10]:
+        - search [ref=e12]:
+          - combobox "Search for topics, locations & sources" [ref=e19]: AI news this week
+          - button [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic "Advanced search" [ref=e22]
+              - tooltip [ref=e25]: Advanced search
+          - button "Clear search" [ref=e26] [cursor=pointer]
+          - button "Search" [ref=e30] [cursor=pointer]
+        - generic [ref=e34]:
+          - generic [ref=e39]:
+            - button "Help" [ref=e40] [cursor=pointer]
+            - tooltip [ref=e44]: Help
+          - generic [ref=e49]:
+            - button "Settings" [ref=e50] [cursor=pointer]
+            - tooltip [ref=e55]: Settings
+      - generic [ref=e57]:
+        - button "Google apps" [ref=e61] [cursor=pointer]
+        - link "Sign in" [ref=e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/search?q%3DAI%2Bnews%2Bthis%2Bweek%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/search?q%3DAI%2Bnews%2Bthis%2Bweek%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+    - navigation [ref=e68]:
+      - tablist [ref=e69]:
+        - tab [ref=e70] [cursor=pointer]:
+          - tab "Home" [ref=e71]
+        - tab [ref=e72] [cursor=pointer]:
+          - tab "For you" [ref=e73]
+        - tab [ref=e74] [cursor=pointer]:
+          - tab "Following" [ref=e75]
+        - tab [ref=e78] [cursor=pointer]:
+          - tab "U.S." [ref=e79]
+        - tab [ref=e80] [cursor=pointer]:
+          - tab "World" [ref=e81]
+        - tab [ref=e82] [cursor=pointer]:
+          - tab "Local" [ref=e83]
+        - tab [ref=e84] [cursor=pointer]:
+          - tab "Business" [ref=e85]
+        - tab [ref=e86] [cursor=pointer]:
+          - tab "Technology" [ref=e87]
+      - generic [ref=e91]:
+        - button "More" [ref=e92] [cursor=pointer]
+        - tooltip [ref=e96]: More
+  - main [ref=e100]:
+    - generic [ref=e102]:
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - link [ref=e108] [cursor=pointer]:
+            - /url: ./read/CBMihAFBVV95cUxOX2tiV1RTWFN5SEtKakZGV1ZwZTd1VjBEdVJkUHF5bHJ0UGNqR0lhV28ycjdBZEpEZ3l1bkV3OU5UWG40bmthd1NQTU01UV9pMHJBS05xVjlpX0ZoOHZOUk9mUVFqRjJMSkNYaEpiWHBmekpjNG5RNTBsbXVfOXdGSGhqdWs?hl=en-US&gl=US&ceid=US%3Aen
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Yahoo Finance
+              - generic [ref=e118]:
+                - generic:
+                  - button "More - This week's AI winners and losers" [ref=e119] [cursor=pointer]
+                  - tooltip [ref=e123]: More
+            - link "This week's AI winners and losers - Yahoo Finance - 1 hour ago - By Daniel Howley" [ref=e124] [cursor=pointer]:
+              - /url: ./read/CBMihAFBVV95cUxOX2tiV1RTWFN5SEtKakZGV1ZwZTd1VjBEdVJkUHF5bHJ0UGNqR0lhV28ycjdBZEpEZ3l1bkV3OU5UWG40bmthd1NQTU01UV9pMHJBS05xVjlpX0ZoOHZOUk9mUVFqRjJMSkNYaEpiWHBmekpjNG5RNTBsbXVfOXdGSGhqdWs?hl=en-US&gl=US&ceid=US%3Aen
+              - text: This week's AI winners and losers
+          - figure [ref=e125]
+        - generic [ref=e126]:
+          - time [ref=e127]: 1 hour ago
+          - separator [ref=e128]
+          - generic [ref=e129]: By Daniel Howley
+      - generic [ref=e130]:
+        - separator [ref=e132]
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - link [ref=e137] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxNbXI2QnVOX0E5MEt0VkN4SGMwWHoxbEVQendBV3JUbVFUQ0VrRlJZT2NVTVk0M1BrUEM1SnlyS2hGUVFUbUZXTXl6NlR4ZHNOOGVNWkswQlpnX3JyTHZVdHVqVF9LNE9FRElDcFlUTHl2Q0luZEoxYTlKLTluZjFrX3VUMUl5V2E1bmNGOTRDcDZLNjR2ampEb25IdDVSbWFsLVE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e139]:
+              - generic [ref=e140]:
+                - generic [ref=e141]: Solutions Review
+                - generic [ref=e147]:
+                  - generic:
+                    - button "More - AI News for the Week of July 17; Updates from Alation, Cloudera, VAST & More" [ref=e148] [cursor=pointer]
+                    - tooltip [ref=e152]: More
+              - link "AI News for the Week of July 17; Updates from Alation, Cloudera, VAST & More - Solutions Review - 15 hours ago - By Tim King" [ref=e153] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxNbXI2QnVOX0E5MEt0VkN4SGMwWHoxbEVQendBV3JUbVFUQ0VrRlJZT2NVTVk0M1BrUEM1SnlyS2hGUVFUbUZXTXl6NlR4ZHNOOGVNWkswQlpnX3JyTHZVdHVqVF9LNE9FRElDcFlUTHl2Q0luZEoxYTlKLTluZjFrX3VUMUl5V2E1bmNGOTRDcDZLNjR2ampEb25IdDVSbWFsLVE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of July 17; Updates from Alation, Cloudera, VAST & More
+            - figure [ref=e154]
+          - generic [ref=e155]:
+            - time [ref=e156]: 15 hours ago
+            - separator [ref=e157]
+            - generic [ref=e158]: By Tim King
+      - generic [ref=e159]:
+        - separator [ref=e161]
+        - generic [ref=e163]:
+          - generic [ref=e164]:
+            - link [ref=e166] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxNYzZBbHlHMHNxOTlfal9mZ3RzdGNuMXBTUzZ3VDNicENBTjFPZE9vMEU0dklUYWh2RGxyVWk1VmIwU3Mybjk3RkxRbjZUZDFwd1VKekRkQWY2ell1bTM1czd2MHpzTi01aF83ejAzRS05N2Y5cXZFc1IyUVdpQThTOTBJa2J5ZW5jd0lRUXIzVTY?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e168]:
+              - generic [ref=e169]:
+                - generic [ref=e170]: Crunchbase News
+                - generic [ref=e176]:
+                  - generic:
+                    - 'button "More - The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI" [ref=e177] [cursor=pointer]'
+                    - tooltip [ref=e181]: More
+              - 'link "The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI - Crunchbase News - 19 hours ago - By Joanna Glasner" [ref=e182] [cursor=pointer]':
+                - /url: ./read/CBMikAFBVV95cUxNYzZBbHlHMHNxOTlfal9mZ3RzdGNuMXBTUzZ3VDNicENBTjFPZE9vMEU0dklUYWh2RGxyVWk1VmIwU3Mybjk3RkxRbjZUZDFwd1VKekRkQWY2ell1bTM1czd2MHpzTi01aF83ejAzRS05N2Y5cXZFc1IyUVdpQThTOTBJa2J5ZW5jd0lRUXIzVTY?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI"
+            - figure [ref=e183]
+          - generic [ref=e184]:
+            - time [ref=e185]: 19 hours ago
+            - separator [ref=e186]
+            - generic [ref=e187]: By Joanna Glasner
+      - generic [ref=e188]:
+        - separator [ref=e190]
+        - generic [ref=e192]:
+          - generic [ref=e193]:
+            - link [ref=e195] [cursor=pointer]:
+              - /url: ./read/CBMivwFBVV95cUxPZ2xEWjdNSzBNZ19zN2RxOUlOSnNONUFCWkdyM0xDa2N3Ym9DR3A3RldtOGdXeVNiU1p1UGJwcnNsQm9xWWRyN0ItWWttRG5WSWpHdW5PUzBYVjRpQlZjZjRQd0N4UFNoMGxMMWd3LWx1Y3hIMWZUaE1rR25xeE1yaE1WRVhNcThzc2w4dktkaDZ2bjE4bjVldmlCWEhsQkh0OW9fU1R5aGJKWVM2dGlVSkZocDdZd2w4UzB3OU1vUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e199]: Detroit Free Press
+                - generic [ref=e205]:
+                  - generic:
+                    - button "More - AI selloff hits Wall Street despite good inflation news" [ref=e206] [cursor=pointer]
+                    - tooltip [ref=e210]: More
+              - link "AI selloff hits Wall Street despite good inflation news - Detroit Free Press - 4 hours ago" [ref=e211] [cursor=pointer]:
+                - /url: ./read/CBMivwFBVV95cUxPZ2xEWjdNSzBNZ19zN2RxOUlOSnNONUFCWkdyM0xDa2N3Ym9DR3A3RldtOGdXeVNiU1p1UGJwcnNsQm9xWWRyN0ItWWttRG5WSWpHdW5PUzBYVjRpQlZjZjRQd0N4UFNoMGxMMWd3LWx1Y3hIMWZUaE1rR25xeE1yaE1WRVhNcThzc2w4dktkaDZ2bjE4bjVldmlCWEhsQkh0OW9fU1R5aGJKWVM2dGlVSkZocDdZd2w4UzB3OU1vUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI selloff hits Wall Street despite good inflation news
+            - figure [ref=e212]
+          - time [ref=e214]: 4 hours ago
+      - generic [ref=e215]:
+        - separator [ref=e217]
+        - generic [ref=e219]:
+          - generic [ref=e220]:
+            - link [ref=e222] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxPdDdnVlBfQTdDRXBFSmx3eklTTE1mMXppdzdhWDVXX3ZEM2FTaXloV3c1ZTYwcFphY3JXa3Y0SmdBZFBROEFOcjlWa01OZDN0TzFtTFUwRWVKMFFWTmZSXzVCbUtNSUxab2ptS3FIblpOSWtsQjBUYThZcTdXQ1NhZzhYcGNSRlVubXFNbVB5cDVGWnN3ekM4OG1PNTlzbFl4UFdGOTE2a3ZSMU8tdnhvWlQwcw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - generic [ref=e226]: 24/7 Wall St.
+                - generic [ref=e232]:
+                  - generic:
+                    - button "More - A Weekly 35% Yield Meets the AI Boom. Genius Combo or Ticking Clock?" [ref=e233] [cursor=pointer]
+                    - tooltip [ref=e237]: More
+              - link "A Weekly 35% Yield Meets the AI Boom. Genius Combo or Ticking Clock? - 24/7 Wall St. - 1 hour ago - By Omor Ibne Ehsan" [ref=e238] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxPdDdnVlBfQTdDRXBFSmx3eklTTE1mMXppdzdhWDVXX3ZEM2FTaXloV3c1ZTYwcFphY3JXa3Y0SmdBZFBROEFOcjlWa01OZDN0TzFtTFUwRWVKMFFWTmZSXzVCbUtNSUxab2ptS3FIblpOSWtsQjBUYThZcTdXQ1NhZzhYcGNSRlVubXFNbVB5cDVGWnN3ekM4OG1PNTlzbFl4UFdGOTE2a3ZSMU8tdnhvWlQwcw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: A Weekly 35% Yield Meets the AI Boom. Genius Combo or Ticking Clock?
+            - figure [ref=e239]
+          - generic [ref=e240]:
+            - time [ref=e241]: 1 hour ago
+            - separator [ref=e242]
+            - generic [ref=e243]: By Omor Ibne Ehsan
+      - generic [ref=e244]:
+        - separator [ref=e246]
+        - generic [ref=e248]:
+          - generic [ref=e249]:
+            - link [ref=e251] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxOeDl5VFRiWmlvRmwyMURMQjhZdmRzMy1vVURMWnhSV2tyMl9ybnZwMjd6ZV9LZzhpeWpOLVFJdElJVDdtbHpMejZ3bnA0bW51VkotVG5hd215N2ViMkdUTUxPSlcwWmQ4b2lON3U1VkhpTnYtOFl3ZFBZa2hHZi04UmM0S3Z5M0cyTTRzVWtpdnZZakM1?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e253]:
+              - generic [ref=e254]:
+                - generic [ref=e255]: Seeking Alpha
+                - generic [ref=e261]:
+                  - generic:
+                    - 'button "More - This Week''s Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock" [ref=e262] [cursor=pointer]'
+                    - tooltip [ref=e266]: More
+              - 'link "This Week''s Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock - Seeking Alpha - 9 hours ago - By Ryan J. Puplava" [ref=e267] [cursor=pointer]':
+                - /url: ./read/CBMilAFBVV95cUxOeDl5VFRiWmlvRmwyMURMQjhZdmRzMy1vVURMWnhSV2tyMl9ybnZwMjd6ZV9LZzhpeWpOLVFJdElJVDdtbHpMejZ3bnA0bW51VkotVG5hd215N2ViMkdUTUxPSlcwWmQ4b2lON3U1VkhpTnYtOFl3ZFBZa2hHZi04UmM0S3Z5M0cyTTRzVWtpdnZZakM1?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock"
+            - figure [ref=e268]
+          - generic [ref=e269]:
+            - time [ref=e270]: 9 hours ago
+            - separator [ref=e271]
+            - generic [ref=e272]: By Ryan J. Puplava
+      - generic [ref=e273]:
+        - separator [ref=e275]
+        - generic [ref=e277]:
+          - generic [ref=e278]:
+            - link [ref=e280] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxPSXBLd3owVnZENU9mMVBIZUg5UjJoT1RtdmJ6UkdJNzJOVmxXdVFtT2FWYzU4c1pQSzkybmNBRHUwMnBxeURFY01ZQ3ptMkg0TFR2dGpQblJSSWRNVThEYlBXZWNVZjQtTWswdUdLR2M4SXhXWGtRNER2UlgyU1ctQkR6Y0ZSWWYzV2tyc2FtMHhfZGNMU0xZdlRGN0hXYXVkRWk0QkdpV0o4dEU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e282]:
+              - generic [ref=e283]:
+                - generic [ref=e284]: Reuters
+                - generic [ref=e290]:
+                  - generic:
+                    - button "More - Wall St ends lower for the day and week as chip selloff broadens" [ref=e291] [cursor=pointer]
+                    - tooltip [ref=e295]: More
+              - link "Wall St ends lower for the day and week as chip selloff broadens - Reuters - 16 hours ago - By Ragini Mathur & Stephen Culp" [ref=e296] [cursor=pointer]:
+                - /url: ./read/CBMiqwFBVV95cUxPSXBLd3owVnZENU9mMVBIZUg5UjJoT1RtdmJ6UkdJNzJOVmxXdVFtT2FWYzU4c1pQSzkybmNBRHUwMnBxeURFY01ZQ3ptMkg0TFR2dGpQblJSSWRNVThEYlBXZWNVZjQtTWswdUdLR2M4SXhXWGtRNER2UlgyU1ctQkR6Y0ZSWWYzV2tyc2FtMHhfZGNMU0xZdlRGN0hXYXVkRWk0QkdpV0o4dEU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Wall St ends lower for the day and week as chip selloff broadens
+            - figure [ref=e297]
+          - generic [ref=e298]:
+            - time [ref=e299]: 16 hours ago
+            - separator [ref=e300]
+            - generic [ref=e301]: By Ragini Mathur & Stephen Culp
+      - generic [ref=e302]:
+        - separator [ref=e304]
+        - generic [ref=e306]:
+          - generic [ref=e307]:
+            - link [ref=e309] [cursor=pointer]:
+              - /url: ./read/CBMixAFBVV95cUxOSXl1RGZyTHhoTXVVZDR5N3FKbzlBaHEtTmhJMzJ5cDY1cU4yUDh4Q2xVZmcxalNFVzFDbGFmR3NqRm5BeXNLOWpTc3dWdDk1d2F4SnJfajBBczVsVFBlbWpzMVJFS2VqNkJOekdCVGhOTTN1NlZjVXRjWTY5RGlUSVM0MTZJSUpPQWt0UVRkZ2xXamtjdVJpVkRxZ3ZDVGlBY0VVYU9TUGQxNVJJcHVzV1UwNE5hOExld3JIekFFVGxpY3Fj0gHKAUFVX3lxTE9FaXZpSXl3YUtfSmhuVmtpWll1bTFoSTdmY1JDYnpfdmpjS1pCczVpbVZ2Vk5obVpQYWpMZzJrV2c0cE8ta1RxOW00MlpHdHJNYmptQmxmNXBadzZOSnZnLUhtZjM3M3hMTUlUQXprLU85bEwyWk9hbi1qcEgydFBDZ3UyRElxd3ZSa3BOb3FtTmdmYmgxX055VzZHQ1p6eThNczdWbnJYc210dmx3Uml1STNISUd5Zm1sU2JOTzVrUmFlQ3VVcm40c1E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e311]:
+              - generic [ref=e312]:
+                - generic [ref=e313]: NEWS10 ABC
+                - generic [ref=e319]:
+                  - generic:
+                    - 'button "More - Empire State Weekly: Data center moratorium to impact AI in NY" [ref=e320] [cursor=pointer]'
+                    - tooltip [ref=e324]: More
+              - 'link "Empire State Weekly: Data center moratorium to impact AI in NY - NEWS10 ABC - 18 hours ago - By Michael Prentice" [ref=e325] [cursor=pointer]':
+                - /url: ./read/CBMixAFBVV95cUxOSXl1RGZyTHhoTXVVZDR5N3FKbzlBaHEtTmhJMzJ5cDY1cU4yUDh4Q2xVZmcxalNFVzFDbGFmR3NqRm5BeXNLOWpTc3dWdDk1d2F4SnJfajBBczVsVFBlbWpzMVJFS2VqNkJOekdCVGhOTTN1NlZjVXRjWTY5RGlUSVM0MTZJSUpPQWt0UVRkZ2xXamtjdVJpVkRxZ3ZDVGlBY0VVYU9TUGQxNVJJcHVzV1UwNE5hOExld3JIekFFVGxpY3Fj0gHKAUFVX3lxTE9FaXZpSXl3YUtfSmhuVmtpWll1bTFoSTdmY1JDYnpfdmpjS1pCczVpbVZ2Vk5obVpQYWpMZzJrV2c0cE8ta1RxOW00MlpHdHJNYmptQmxmNXBadzZOSnZnLUhtZjM3M3hMTUlUQXprLU85bEwyWk9hbi1qcEgydFBDZ3UyRElxd3ZSa3BOb3FtTmdmYmgxX055VzZHQ1p6eThNczdWbnJYc210dmx3Uml1STNISUd5Zm1sU2JOTzVrUmFlQ3VVcm40c1E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Empire State Weekly: Data center moratorium to impact AI in NY"
+            - figure [ref=e326]
+          - generic [ref=e327]:
+            - time [ref=e328]: 18 hours ago
+            - separator [ref=e329]
+            - generic [ref=e330]: By Michael Prentice
+      - generic [ref=e331]:
+        - separator [ref=e333]
+        - generic [ref=e335]:
+          - generic [ref=e336]:
+            - link [ref=e338] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxOYzRvSXFFbGM4WFNOMFoyaC1EcTZDbGo0bVkyYk9nQzJZU1RPNmMtSnJuejIwaFMzVjRHVEVWc2JkdGFUUjY0cHMzS1dDVTJOLUQ3RlpfVEREeDZ0YU1oNWhQbk5IY29JSl9fNEwyZW94LVQydEE0aFg1cGphYmtrZC1uQmQ0WWM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e340]:
+              - generic [ref=e341]:
+                - generic [ref=e342]: AI Magazine
+                - generic [ref=e348]:
+                  - generic:
+                    - 'button "More - Microsoft, IFS, TSMC: This Week''s Top Five Stories in AI" [ref=e349] [cursor=pointer]'
+                    - tooltip [ref=e353]: More
+              - 'link "Microsoft, IFS, TSMC: This Week''s Top Five Stories in AI - AI Magazine - 7 hours ago - By Tom Chapman" [ref=e354] [cursor=pointer]':
+                - /url: ./read/CBMihwFBVV95cUxOYzRvSXFFbGM4WFNOMFoyaC1EcTZDbGo0bVkyYk9nQzJZU1RPNmMtSnJuejIwaFMzVjRHVEVWc2JkdGFUUjY0cHMzS1dDVTJOLUQ3RlpfVEREeDZ0YU1oNWhQbk5IY29JSl9fNEwyZW94LVQydEE0aFg1cGphYmtrZC1uQmQ0WWM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Microsoft, IFS, TSMC: This Week's Top Five Stories in AI"
+            - figure [ref=e355]
+          - generic [ref=e356]:
+            - time [ref=e357]: 7 hours ago
+            - separator [ref=e358]
+            - generic [ref=e359]: By Tom Chapman
+      - generic [ref=e360]:
+        - separator [ref=e362]
+        - generic [ref=e364]:
+          - generic [ref=e365]:
+            - link [ref=e367] [cursor=pointer]:
+              - /url: ./read/CBMigAFBVV95cUxOV2Q0QkoyYl9PRUhCLXFRNUxWTGNVT0tnSUpjRzEzRlk4QUFlbG12YWFodHpqc2VEek9obmZjbmpxMXE4NzRUbmlwY2hlQlpuMGNTM1huUi1yUVJwSDF6SExScmdxb0dvcXJWR3FmdmE4bDU5Rm10SjFaWG12RGd1Sg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - generic [ref=e371]: Transparency Coalition
+                - generic [ref=e377]:
+                  - generic:
+                    - 'button "More - AI Legislative Update: July 17, 2026" [ref=e378] [cursor=pointer]'
+                    - tooltip [ref=e382]: More
+              - 'link "AI Legislative Update: July 17, 2026 - Transparency Coalition - Yesterday - By Bruce Barcott" [ref=e383] [cursor=pointer]':
+                - /url: ./read/CBMigAFBVV95cUxOV2Q0QkoyYl9PRUhCLXFRNUxWTGNVT0tnSUpjRzEzRlk4QUFlbG12YWFodHpqc2VEek9obmZjbmpxMXE4NzRUbmlwY2hlQlpuMGNTM1huUi1yUVJwSDF6SExScmdxb0dvcXJWR3FmdmE4bDU5Rm10SjFaWG12RGd1Sg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI Legislative Update: July 17, 2026"
+            - figure [ref=e384]
+          - generic [ref=e385]:
+            - time [ref=e386]: Yesterday
+            - separator [ref=e387]
+            - generic [ref=e388]: By Bruce Barcott
+      - generic [ref=e389]:
+        - separator [ref=e391]
+        - generic [ref=e393]:
+          - generic [ref=e394]:
+            - link [ref=e396] [cursor=pointer]:
+              - /url: ./read/CBMioAFBVV95cUxOdy1JaTgyWjA2NWhFdnc0a09uaHl6UkVDNUhiZnA3S1RlMENBbGtZX1doamtXS0ZITDBXQUVDem9IQkRfdDVlajJCa0NtNFVWcXN1M0x3dEdSTnZIbWdXbXlpcExVc2Z2bnBpUm1pcVhhaWk4SDZLc2JJYU9HZkxraXZ6RjRwbHV2d2NQYXhqWWlKa3ZwSmt6RHpBMmJIX2t5?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e398]:
+              - generic [ref=e399]:
+                - generic [ref=e400]: PCMag
+                - generic [ref=e406]:
+                  - generic:
+                    - button "More - Don't Want to Give AI Agents Your Logins? Here's How to Avoid It With 1Password for Claude" [ref=e407] [cursor=pointer]
+                    - tooltip [ref=e411]: More
+              - link "Don't Want to Give AI Agents Your Logins? Here's How to Avoid It With 1Password for Claude - PCMag - 1 hour ago - By Will Mccurdy" [ref=e412] [cursor=pointer]:
+                - /url: ./read/CBMioAFBVV95cUxOdy1JaTgyWjA2NWhFdnc0a09uaHl6UkVDNUhiZnA3S1RlMENBbGtZX1doamtXS0ZITDBXQUVDem9IQkRfdDVlajJCa0NtNFVWcXN1M0x3dEdSTnZIbWdXbXlpcExVc2Z2bnBpUm1pcVhhaWk4SDZLc2JJYU9HZkxraXZ6RjRwbHV2d2NQYXhqWWlKa3ZwSmt6RHpBMmJIX2t5?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Don't Want to Give AI Agents Your Logins? Here's How to Avoid It With 1Password for Claude
+            - figure [ref=e413]
+          - generic [ref=e414]:
+            - time [ref=e415]: 1 hour ago
+            - separator [ref=e416]
+            - generic [ref=e417]: By Will Mccurdy
+      - generic [ref=e418]:
+        - separator [ref=e420]
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - link [ref=e425] [cursor=pointer]:
+              - /url: ./read/CBMiygFBVV95cUxNSDJGN0ZMYkltRzVyVXBIaGo5Y19oT1JVNFJXN2M1aEVwWk5Rczkwc1VlUDduSlVpUURxY3prUjBKcTYyWlcyTzdMRllKTm1XY0FLUGY0b3FFdERGUU1xVVd4QTF4UGRsTG9yOF9jSnhzS1ZqVGR3MHB0RkdRZTluY2hnRWNXMG0yUWlNdUt5dDVabjJDaktTZFJRLVBKNUZoZEp0OGFfTkNpTmZBMDBwQjVDbFZseGtwMU1wMHJxcE00UmxZWVloTmh3?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e427]:
+              - generic [ref=e428]:
+                - generic [ref=e429]: Fierce Healthcare
+                - generic [ref=e435]:
+                  - generic:
+                    - 'button "More - Weekly Rundown: SpotitEarly partners with HITLAB" [ref=e436] [cursor=pointer]'
+                    - tooltip [ref=e440]: More
+              - 'link "Weekly Rundown: SpotitEarly partners with HITLAB - Fierce Healthcare - 20 hours ago - By Cailey Gleeson" [ref=e441] [cursor=pointer]':
+                - /url: ./read/CBMiygFBVV95cUxNSDJGN0ZMYkltRzVyVXBIaGo5Y19oT1JVNFJXN2M1aEVwWk5Rczkwc1VlUDduSlVpUURxY3prUjBKcTYyWlcyTzdMRllKTm1XY0FLUGY0b3FFdERGUU1xVVd4QTF4UGRsTG9yOF9jSnhzS1ZqVGR3MHB0RkdRZTluY2hnRWNXMG0yUWlNdUt5dDVabjJDaktTZFJRLVBKNUZoZEp0OGFfTkNpTmZBMDBwQjVDbFZseGtwMU1wMHJxcE00UmxZWVloTmh3?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Weekly Rundown: SpotitEarly partners with HITLAB"
+            - figure [ref=e442]
+          - generic [ref=e443]:
+            - time [ref=e444]: 20 hours ago
+            - separator [ref=e445]
+            - generic [ref=e446]: By Cailey Gleeson
+      - generic [ref=e447]:
+        - separator [ref=e449]
+        - generic [ref=e451]:
+          - generic [ref=e452]:
+            - link [ref=e454] [cursor=pointer]:
+              - /url: ./read/CBMigwFBVV95cUxNQUpBRmdoTHYxT3hudV8zd2FMc1hwU1M1U1Brc3NXWGo2ekU2blBENThGbGh1dmtBUklOSHlmYjBOTGc0VmR5SGdKWnJhUlhucWVLeXhSVlRqaVpPVmtkX0FKS2Q1NjFmTDFQbV9FbllvQXVGMG5fU3JCUGt3b0g1Rl9iNA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e456]:
+              - generic [ref=e457]:
+                - generic [ref=e458]: AI Business
+                - generic [ref=e464]:
+                  - generic:
+                    - 'button "More - Prompt: Enterprise AI Must Prove Its Value Beyond Deployment" [ref=e465] [cursor=pointer]'
+                    - tooltip [ref=e469]: More
+              - 'link "Prompt: Enterprise AI Must Prove Its Value Beyond Deployment - AI Business - 18 hours ago - By Liz Hughes" [ref=e470] [cursor=pointer]':
+                - /url: ./read/CBMigwFBVV95cUxNQUpBRmdoTHYxT3hudV8zd2FMc1hwU1M1U1Brc3NXWGo2ekU2blBENThGbGh1dmtBUklOSHlmYjBOTGc0VmR5SGdKWnJhUlhucWVLeXhSVlRqaVpPVmtkX0FKS2Q1NjFmTDFQbV9FbllvQXVGMG5fU3JCUGt3b0g1Rl9iNA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Prompt: Enterprise AI Must Prove Its Value Beyond Deployment"
+            - figure [ref=e471]
+          - generic [ref=e472]:
+            - time [ref=e473]: 18 hours ago
+            - separator [ref=e474]
+            - generic [ref=e475]: By Liz Hughes
+      - generic [ref=e476]:
+        - separator [ref=e478]
+        - generic [ref=e480]:
+          - generic [ref=e481]:
+            - link [ref=e483] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTE5GcUlkUFAwT18wNHdSZ0NyOEdqcXVwODNVZ1JFWDNKa1Jpd2dSNkdDcW90R1VNMHJXS3ZyRGsxRVFHWjk5TklrZ2M0ZDREckpXY09hckFZbEhfb1lKek1zWlhCQjhXRThyN0cwcE1ZNmZBc0RudXktNw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e485]:
+              - generic [ref=e486]:
+                - generic [ref=e487]: ABC News - Breaking News, Latest News and Videos
+                - generic [ref=e493]:
+                  - generic:
+                    - button "More - What to know about the AI chip stock selloff" [ref=e494] [cursor=pointer]
+                    - tooltip [ref=e498]: More
+              - link "What to know about the AI chip stock selloff - ABC News - Breaking News, Latest News and Videos - 17 hours ago - By Max Zahn" [ref=e499] [cursor=pointer]:
+                - /url: ./read/CBMieEFVX3lxTE5GcUlkUFAwT18wNHdSZ0NyOEdqcXVwODNVZ1JFWDNKa1Jpd2dSNkdDcW90R1VNMHJXS3ZyRGsxRVFHWjk5TklrZ2M0ZDREckpXY09hckFZbEhfb1lKek1zWlhCQjhXRThyN0cwcE1ZNmZBc0RudXktNw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: What to know about the AI chip stock selloff
+            - figure [ref=e500]
+          - generic [ref=e501]:
+            - time [ref=e502]: 17 hours ago
+            - separator [ref=e503]
+            - generic [ref=e504]: By Max Zahn
+      - generic [ref=e505]:
+        - separator [ref=e507]
+        - generic [ref=e509]:
+          - generic [ref=e510]:
+            - link [ref=e512] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxOUHNPTWw4ZnU2LXdWc3N1Qmh0Y0Z2OG9JeG12TDA5dDktTHVQcUZZdnJiUTYxc3kyRWpqUDNfWi1BcTZuUFhERDJlTkdEQVdoeTEzOHJfZzlxTzdhZzUxNktCOVVheGpCQk4ycWN6MTJld25zZU9WUWJmVy00WWNDUUUxX0F1TUJEQ0cycndmQmFNY0VHUUJBM3ZKeXdRV1RXZms2TTlZVGtSQ0dEZVdrYg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e514]:
+              - generic [ref=e515]:
+                - generic [ref=e516]: Bloomberg.com
+                - generic [ref=e522]:
+                  - generic:
+                    - button "More - US Stocks End Week Lower on Fears of Another ‘DeepSeek Moment’" [ref=e523] [cursor=pointer]
+                    - tooltip [ref=e527]: More
+              - link "US Stocks End Week Lower on Fears of Another ‘DeepSeek Moment’ - Bloomberg.com - 18 hours ago - By Joel Leon" [ref=e528] [cursor=pointer]:
+                - /url: ./read/CBMisAFBVV95cUxOUHNPTWw4ZnU2LXdWc3N1Qmh0Y0Z2OG9JeG12TDA5dDktTHVQcUZZdnJiUTYxc3kyRWpqUDNfWi1BcTZuUFhERDJlTkdEQVdoeTEzOHJfZzlxTzdhZzUxNktCOVVheGpCQk4ycWN6MTJld25zZU9WUWJmVy00WWNDUUUxX0F1TUJEQ0cycndmQmFNY0VHUUJBM3ZKeXdRV1RXZms2TTlZVGtSQ0dEZVdrYg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: US Stocks End Week Lower on Fears of Another ‘DeepSeek Moment’
+            - figure [ref=e529]
+          - generic [ref=e530]:
+            - time [ref=e531]: 18 hours ago
+            - separator [ref=e532]
+            - generic [ref=e533]: By Joel Leon
+      - generic [ref=e534]:
+        - separator [ref=e536]
+        - generic [ref=e538]:
+          - generic [ref=e539]:
+            - link [ref=e541] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxNT2ptSWtEUllqRF9wUTQtX2hEclZyOHFwSFhWVVVmYmJtTDNHSks0OTFpSzdtbnJ0Zjd4RjhBQnYtRVRIVXhmQXNvM0dnZUZuT0o0Z3V5R3AtRmdvaEFzNFdpM1FzWFh2UEpGaWttNkFrcjVwLWZLN3hTSlAzVzJTT3pGSXcycjg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e543]:
+              - generic [ref=e544]:
+                - generic [ref=e545]: Dezeen
+                - generic [ref=e551]:
+                  - generic:
+                    - button "More - This week Nokia unveiled dumbphones with AI-powered buttons" [ref=e552] [cursor=pointer]
+                    - tooltip [ref=e556]: More
+              - link "This week Nokia unveiled dumbphones with AI-powered buttons - Dezeen - 10 hours ago - By Jane Englefield" [ref=e557] [cursor=pointer]:
+                - /url: ./read/CBMihwFBVV95cUxNT2ptSWtEUllqRF9wUTQtX2hEclZyOHFwSFhWVVVmYmJtTDNHSks0OTFpSzdtbnJ0Zjd4RjhBQnYtRVRIVXhmQXNvM0dnZUZuT0o0Z3V5R3AtRmdvaEFzNFdpM1FzWFh2UEpGaWttNkFrcjVwLWZLN3hTSlAzVzJTT3pGSXcycjg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: This week Nokia unveiled dumbphones with AI-powered buttons
+            - figure [ref=e558]
+          - generic [ref=e559]:
+            - time [ref=e560]: 10 hours ago
+            - separator [ref=e561]
+            - generic [ref=e562]: By Jane Englefield
+      - generic [ref=e563]:
+        - separator [ref=e565]
+        - generic [ref=e567]:
+          - generic [ref=e568]:
+            - link [ref=e570] [cursor=pointer]:
+              - /url: ./read/CBMi7wFBVV95cUxONFA4Vk55d3ZISV9JNzM2aVZWZTN1c1ZUVnl0TkE4bk9iLXRjRWZFWTBiTDdiaFk5bFNLdi12QWxKa2dyc0EwNTNnOFZCRmk5cG0xZUltRU1tQ0xMVmRsSkticHVlR1ZvYUV5TjZYMTFuNE04SmlJN19HamxlRjBjRTVlOUtMYUpPMXRxY1NPUmxoeHNqWkJHbWo1c0I3dEtBT3AyRWZBSXhzaloyUHM1NVIxS2FoSVktZm5OYnBEVzBaeTdwUDVtWWlHZjAwT2VuRHY3azJOeHhHUl9uWGhGRTI2OFhYbU9GcDhNY0dVdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e572]:
+              - generic [ref=e573]:
+                - generic [ref=e574]: PR Newswire
+                - generic [ref=e580]:
+                  - generic:
+                    - button "More - Lantern achieves SOC2 Type 1 compliance in 8 weeks, validating security-first approach to AI-native ERP" [ref=e581] [cursor=pointer]
+                    - tooltip [ref=e585]: More
+              - link "Lantern achieves SOC2 Type 1 compliance in 8 weeks, validating security-first approach to AI-native ERP - PR Newswire - Yesterday" [ref=e586] [cursor=pointer]:
+                - /url: ./read/CBMi7wFBVV95cUxONFA4Vk55d3ZISV9JNzM2aVZWZTN1c1ZUVnl0TkE4bk9iLXRjRWZFWTBiTDdiaFk5bFNLdi12QWxKa2dyc0EwNTNnOFZCRmk5cG0xZUltRU1tQ0xMVmRsSkticHVlR1ZvYUV5TjZYMTFuNE04SmlJN19HamxlRjBjRTVlOUtMYUpPMXRxY1NPUmxoeHNqWkJHbWo1c0I3dEtBT3AyRWZBSXhzaloyUHM1NVIxS2FoSVktZm5OYnBEVzBaeTdwUDVtWWlHZjAwT2VuRHY3azJOeHhHUl9uWGhGRTI2OFhYbU9GcDhNY0dVdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Lantern achieves SOC2 Type 1 compliance in 8 weeks, validating security-first approach to AI-native ERP
+            - figure [ref=e587]
+          - time [ref=e589]: Yesterday
+      - generic [ref=e590]:
+        - separator [ref=e592]
+        - generic [ref=e594]:
+          - generic [ref=e595]:
+            - link [ref=e597] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxOR1k3WWp3X0NnNU1GclhXU2lpMXgwd1lId2FJa0Q4WEdmVWs3LW1tQkhDVlJ1X3VxZjRuZGJHeXk0NV91ZGlGVlhscC1HSFZrdEMyc282a1djaG9qRlRuMWpJTmc0ZHkyVnFjanU2YVdQUWNVTWh1aWtVWVFlMkJ1cEZKMXdLNUtCTFZ2U0pRbGpGWmtLX0lV?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e599]:
+              - generic [ref=e600]:
+                - generic [ref=e601]: Healthcare Digital
+                - generic [ref=e607]:
+                  - generic:
+                    - 'button "More - This Week''s Top 5: Weight Loss, AI Drug Discovery & Fedex" [ref=e608] [cursor=pointer]'
+                    - tooltip [ref=e612]: More
+              - 'link "This Week''s Top 5: Weight Loss, AI Drug Discovery & Fedex - Healthcare Digital - 8 hours ago - By Chloe Williment" [ref=e613] [cursor=pointer]':
+                - /url: ./read/CBMilwFBVV95cUxOR1k3WWp3X0NnNU1GclhXU2lpMXgwd1lId2FJa0Q4WEdmVWs3LW1tQkhDVlJ1X3VxZjRuZGJHeXk0NV91ZGlGVlhscC1HSFZrdEMyc282a1djaG9qRlRuMWpJTmc0ZHkyVnFjanU2YVdQUWNVTWh1aWtVWVFlMkJ1cEZKMXdLNUtCTFZ2U0pRbGpGWmtLX0lV?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "This Week's Top 5: Weight Loss, AI Drug Discovery & Fedex"
+            - figure [ref=e614]
+          - generic [ref=e615]:
+            - time [ref=e616]: 8 hours ago
+            - separator [ref=e617]
+            - generic [ref=e618]: By Chloe Williment
+      - generic [ref=e619]:
+        - separator [ref=e621]
+        - generic [ref=e623]:
+          - generic [ref=e624]:
+            - link [ref=e626] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxONEpraWR3MkhKa1R0dDlkLTJsYXVWU0NsQjIySnpzcTA1dkFyVGNKcGk0RFNjbmF2dnRQZ2ZnR0lGb2thTEdwb3RLRVQyRWdxYmtFV2QxOVVQcHBocEsxVUoyYnJBa0JlZlBZRkRfY0trdGJnRkFOWEljYXowWWNrLXlVQm1sYkJoT2NzMVlMcDV1cWdDSHRjQUpZalFpdHN5cjZyWkxkOXVDMllxR2RiekFTYw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e628]:
+              - generic [ref=e629]:
+                - generic [ref=e630]: Reuters
+                - generic [ref=e636]:
+                  - generic:
+                    - button "More - Chip stock pullback sparks worries about AI rally strength, leveraged trades" [ref=e637] [cursor=pointer]
+                    - tooltip [ref=e641]: More
+              - link "Chip stock pullback sparks worries about AI rally strength, leveraged trades - Reuters - 18 hours ago - By Johann M Cherian, Lewis Krauskopf & Saqib Ahmed" [ref=e642] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxONEpraWR3MkhKa1R0dDlkLTJsYXVWU0NsQjIySnpzcTA1dkFyVGNKcGk0RFNjbmF2dnRQZ2ZnR0lGb2thTEdwb3RLRVQyRWdxYmtFV2QxOVVQcHBocEsxVUoyYnJBa0JlZlBZRkRfY0trdGJnRkFOWEljYXowWWNrLXlVQm1sYkJoT2NzMVlMcDV1cWdDSHRjQUpZalFpdHN5cjZyWkxkOXVDMllxR2RiekFTYw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Chip stock pullback sparks worries about AI rally strength, leveraged trades
+            - figure [ref=e643]
+          - generic [ref=e644]:
+            - time [ref=e645]: 18 hours ago
+            - separator [ref=e646]
+            - generic [ref=e647]: By Johann M Cherian, Lewis Krauskopf & Saqib Ahmed
+      - generic [ref=e648]:
+        - separator [ref=e650]
+        - generic [ref=e652]:
+          - generic [ref=e653]:
+            - link [ref=e655] [cursor=pointer]:
+              - /url: ./read/CBMivAFBVV95cUxNUmJhQmIyVFFQQ2FDdzIwZThieC00dE9yZEZNMVRSb20tRFAxVlZLYURkU1VYMC1ESlpFZ1poUnFoU0hJbno2VEd1VTB4Nl96YThVdTZUcDJiSmhWbFJhc0dzT0xnZE10aW9jZHRhdmRlWEE4cXF1MlNsdjNVTzZEZmtxLUFtLWN3YUJrbVB5eDd0cVkwaGJrTnVuLUwyeTBjUERETjNfMUZ3cWlzTklCeDJOTDd3SnVYaGNuUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e657]:
+              - generic [ref=e658]:
+                - generic [ref=e659]: Reuters
+                - generic [ref=e665]:
+                  - generic:
+                    - button "More - Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up" [ref=e666] [cursor=pointer]
+                    - tooltip [ref=e670]: More
+              - link "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters - 17 hours ago - By Lewis Krauskopf" [ref=e671] [cursor=pointer]:
+                - /url: ./read/CBMivAFBVV95cUxNUmJhQmIyVFFQQ2FDdzIwZThieC00dE9yZEZNMVRSb20tRFAxVlZLYURkU1VYMC1ESlpFZ1poUnFoU0hJbno2VEd1VTB4Nl96YThVdTZUcDJiSmhWbFJhc0dzT0xnZE10aW9jZHRhdmRlWEE4cXF1MlNsdjNVTzZEZmtxLUFtLWN3YUJrbVB5eDd0cVkwaGJrTnVuLUwyeTBjUERETjNfMUZ3cWlzTklCeDJOTDd3SnVYaGNuUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up
+            - figure [ref=e672]
+          - generic [ref=e673]:
+            - time [ref=e674]: 17 hours ago
+            - separator [ref=e675]
+            - generic [ref=e676]: By Lewis Krauskopf
+      - generic [ref=e677]:
+        - separator [ref=e679]
+        - generic [ref=e681]:
+          - generic [ref=e682]:
+            - link [ref=e684] [cursor=pointer]:
+              - /url: ./read/CBMiswFBVV95cUxQWTA0aTUxQWZreVNrVmR2NS1hb0JfalJET01GSGt0SlhyN3pJdG1aMGJSZFpZQWc2M3dKZk13UW9CV043LWdjNzREWDNsQVFUTHhSVUxMV2pqdjYtQkJQa1VIdFVwb3JwQVFyRHlReFotNXkycFUtLTR5YUNXQkVIczZhMi1yQ2ZfV001NEp1SXNuQ3JyNkRiLWZvS0Y3d1pPWDE2QWNZMTBCSVlWelF6RlNrOA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e686]:
+              - generic [ref=e687]:
+                - generic [ref=e688]: Staffing Industry Analysts
+                - generic [ref=e694]:
+                  - generic:
+                    - button "More - Almost a third of European workers use AI at least weekly" [ref=e695] [cursor=pointer]
+                    - tooltip [ref=e699]: More
+              - link "Almost a third of European workers use AI at least weekly - Staffing Industry Analysts - Yesterday - By Danny Romero" [ref=e700] [cursor=pointer]:
+                - /url: ./read/CBMiswFBVV95cUxQWTA0aTUxQWZreVNrVmR2NS1hb0JfalJET01GSGt0SlhyN3pJdG1aMGJSZFpZQWc2M3dKZk13UW9CV043LWdjNzREWDNsQVFUTHhSVUxMV2pqdjYtQkJQa1VIdFVwb3JwQVFyRHlReFotNXkycFUtLTR5YUNXQkVIczZhMi1yQ2ZfV001NEp1SXNuQ3JyNkRiLWZvS0Y3d1pPWDE2QWNZMTBCSVlWelF6RlNrOA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Almost a third of European workers use AI at least weekly
+            - figure [ref=e701]
+          - generic [ref=e702]:
+            - time [ref=e703]: Yesterday
+            - separator [ref=e704]
+            - generic [ref=e705]: By Danny Romero
+      - generic [ref=e706]:
+        - separator [ref=e708]
+        - generic [ref=e710]:
+          - generic [ref=e711]:
+            - link [ref=e713] [cursor=pointer]:
+              - /url: ./read/CBMiywFBVV95cUxPOHNmdnZCVXEwMHZKSEpfT00wUVRxc2pUUTNXWTROaTVrb2ZSUERIZ0tXbmxLeDFRN2xsSnJPRnhFY3N3ak1uWXlYZ243UzhRLWVzaUx5M0cwVmdQelNXLUE5NE1CWnVjSUhoT0FjTUF4WXg0cUU3R1pBcEozcU9fMk5wek51QmRheEdQd2lFZ05ZNHdvV3NxaThJZVYzd2FMUmU2Tkt0eUM5VnpUUHVhbEFpSFhqT2Zwcjl4WVIzRmN6WWlSMzhaNThhcw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e715]:
+              - generic [ref=e716]:
+                - generic [ref=e717]: TradingKey
+                - generic [ref=e723]:
+                  - generic:
+                    - button "More - AMD Stock Down 17% From Peak — Can July 22 Advancing AI Save It?" [ref=e724] [cursor=pointer]
+                    - tooltip [ref=e728]: More
+              - link "AMD Stock Down 17% From Peak — Can July 22 Advancing AI Save It? - TradingKey - 1 hour ago" [ref=e729] [cursor=pointer]:
+                - /url: ./read/CBMiywFBVV95cUxPOHNmdnZCVXEwMHZKSEpfT00wUVRxc2pUUTNXWTROaTVrb2ZSUERIZ0tXbmxLeDFRN2xsSnJPRnhFY3N3ak1uWXlYZ243UzhRLWVzaUx5M0cwVmdQelNXLUE5NE1CWnVjSUhoT0FjTUF4WXg0cUU3R1pBcEozcU9fMk5wek51QmRheEdQd2lFZ05ZNHdvV3NxaThJZVYzd2FMUmU2Tkt0eUM5VnpUUHVhbEFpSFhqT2Zwcjl4WVIzRmN6WWlSMzhaNThhcw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AMD Stock Down 17% From Peak — Can July 22 Advancing AI Save It?
+            - figure [ref=e730]
+          - time [ref=e732]: 1 hour ago
+      - generic [ref=e733]:
+        - separator [ref=e735]
+        - generic [ref=e737]:
+          - generic [ref=e738]:
+            - link [ref=e740] [cursor=pointer]:
+              - /url: ./read/CBMiqwFBVV95cUxPeHN2UGlGTEdJN1E3bERWeVNNbGU4aXZfTXJRY3VGTlN3NjR0eW12MWJXRVBnc2ZaY010NTJ0bWRhaUVkOE1GNmo0RF9Eb1ctek1QeGFWd245UzBsc21VbnNRUnZXVVI3dXVLTzdtUnhJOXFiOVpiTFhiQzFNMFd0a0tYLXloWmZ2OEFQU1NzUHJLV3d3MkEzcl9fd2FHQU9XSzZDVHhRQl9fQkU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e742]:
+              - generic [ref=e743]:
+                - generic [ref=e744]: Benzinga
+                - generic [ref=e750]:
+                  - generic:
+                    - button "More - AI Selloff Hits Wall Street Despite Best Inflation News - IBM (NYSE:IBM), VanEck Semiconductor ETF (NASDA" [ref=e751] [cursor=pointer]
+                    - tooltip [ref=e755]: More
+              - link "AI Selloff Hits Wall Street Despite Best Inflation News - IBM (NYSE:IBM), VanEck Semiconductor ETF (NASDA - Benzinga - 19 hours ago - By Piero Cingari" [ref=e756] [cursor=pointer]:
+                - /url: ./read/CBMiqwFBVV95cUxPeHN2UGlGTEdJN1E3bERWeVNNbGU4aXZfTXJRY3VGTlN3NjR0eW12MWJXRVBnc2ZaY010NTJ0bWRhaUVkOE1GNmo0RF9Eb1ctek1QeGFWd245UzBsc21VbnNRUnZXVVI3dXVLTzdtUnhJOXFiOVpiTFhiQzFNMFd0a0tYLXloWmZ2OEFQU1NzUHJLV3d3MkEzcl9fd2FHQU9XSzZDVHhRQl9fQkU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI Selloff Hits Wall Street Despite Best Inflation News - IBM (NYSE:IBM), VanEck Semiconductor ETF (NASDA
+            - figure [ref=e757]
+          - generic [ref=e758]:
+            - time [ref=e759]: 19 hours ago
+            - separator [ref=e760]
+            - generic [ref=e761]: By Piero Cingari
+      - generic [ref=e762]:
+        - separator [ref=e764]
+        - generic [ref=e766]:
+          - generic [ref=e767]:
+            - link [ref=e769] [cursor=pointer]:
+              - /url: ./read/CBMigwFBVV95cUxPQi1DS2hvYkhOdHdGWHFIVmU3U01MYmxRaW9qUjc3anZENXBCWWNxeUIzV2QyeVV5SGtRVThyZF9LakpfQTBXQXJSenpxa2Z3WU9yOHd6cE5mQjhDTjA3TTdwZ3h0MWdwU1F6Vy1GN1dOejY3Y1BZd1lIT0tKV1RjMEFYTQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e771]:
+              - generic [ref=e772]:
+                - generic [ref=e773]: O'Reilly Media
+                - generic [ref=e779]:
+                  - generic:
+                    - 'button "More - This Week in AI: A First for Agentic Ransomware" [ref=e780] [cursor=pointer]'
+                    - tooltip [ref=e784]: More
+              - 'link "This Week in AI: A First for Agentic Ransomware - O&#39;Reilly Media - 23 hours ago" [ref=e785] [cursor=pointer]':
+                - /url: ./read/CBMigwFBVV95cUxPQi1DS2hvYkhOdHdGWHFIVmU3U01MYmxRaW9qUjc3anZENXBCWWNxeUIzV2QyeVV5SGtRVThyZF9LakpfQTBXQXJSenpxa2Z3WU9yOHd6cE5mQjhDTjA3TTdwZ3h0MWdwU1F6Vy1GN1dOejY3Y1BZd1lIT0tKV1RjMEFYTQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "This Week in AI: A First for Agentic Ransomware"
+          - time [ref=e787]: 23 hours ago
+      - generic [ref=e788]:
+        - separator [ref=e790]
+        - generic [ref=e792]:
+          - generic [ref=e793]:
+            - link [ref=e795] [cursor=pointer]:
+              - /url: ./read/CBMi4AFBVV95cUxPUEl2cVJFcDhrSEV0NGhVYktKbF9GS2l3a00xV0VtSDBLYzVncG1sd040eXhvcXFiRzI2eE1KSEZzZTloWm9KNkhEX19sNlptQUZZRE1URnNnY2FVNTI5Um9oRkFoWW41bkkwR2R2MHZtZ1pWVFl4TmxTU0xiMHFJdEVyWlFKV3A0a1JPRy1UdUtaQWZHR0FFRzg3T29VX3NsQlZQSlhfc0xRSFp6UXFLalV1ckFaY0Z0X0Z3MWFiVnZabmZrYjBQLXFadm5meF9QTjA5RDQ5Umd4dnNwUC1CTQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e797]:
+              - generic [ref=e798]:
+                - generic [ref=e799]: TradingView
+                - generic [ref=e805]:
+                  - generic:
+                    - 'button "More - Weekly Recap: NinjaTrader-Alpha Futures Split; FundedNext Brings AI to Prop Trading" [ref=e806] [cursor=pointer]'
+                    - tooltip [ref=e810]: More
+              - 'link "Weekly Recap: NinjaTrader-Alpha Futures Split; FundedNext Brings AI to Prop Trading - TradingView - 18 hours ago" [ref=e811] [cursor=pointer]':
+                - /url: ./read/CBMi4AFBVV95cUxPUEl2cVJFcDhrSEV0NGhVYktKbF9GS2l3a00xV0VtSDBLYzVncG1sd040eXhvcXFiRzI2eE1KSEZzZTloWm9KNkhEX19sNlptQUZZRE1URnNnY2FVNTI5Um9oRkFoWW41bkkwR2R2MHZtZ1pWVFl4TmxTU0xiMHFJdEVyWlFKV3A0a1JPRy1UdUtaQWZHR0FFRzg3T29VX3NsQlZQSlhfc0xRSFp6UXFLalV1ckFaY0Z0X0Z3MWFiVnZabmZrYjBQLXFadm5meF9QTjA5RDQ5Umd4dnNwUC1CTQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Weekly Recap: NinjaTrader-Alpha Futures Split; FundedNext Brings AI to Prop Trading"
+            - figure [ref=e812]
+          - time [ref=e814]: 18 hours ago
+      - generic [ref=e815]:
+        - separator [ref=e817]
+        - generic [ref=e819]:
+          - generic [ref=e820]:
+            - link [ref=e822] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTE0weXpCSGxWZmUyRXB4YnNFTkI3MGJDUGFNLUtwejhXbExLckMzOWxBdzd3SUo2eUZlTi1FeXhrTzhpcmZ6QXZSZ2tvT3Jib0xWY1hNME95Z2tidjRKYjZBQndSMlhDNXZob0dtOUNsSnFTVVRlaXg5LQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e824]:
+              - generic [ref=e825]:
+                - generic [ref=e826]: Investor's Business Daily
+                - generic [ref=e832]:
+                  - generic:
+                    - button "More - Oracle Stock Slides To 52-Week Low Amid AI Spending Fears" [ref=e833] [cursor=pointer]
+                    - tooltip [ref=e837]: More
+              - link "Oracle Stock Slides To 52-Week Low Amid AI Spending Fears - Investor&#39;s Business Daily - 2 days ago - By Ryan Deffenbaugh" [ref=e838] [cursor=pointer]:
+                - /url: ./read/CBMieEFVX3lxTE0weXpCSGxWZmUyRXB4YnNFTkI3MGJDUGFNLUtwejhXbExLckMzOWxBdzd3SUo2eUZlTi1FeXhrTzhpcmZ6QXZSZ2tvT3Jib0xWY1hNME95Z2tidjRKYjZBQndSMlhDNXZob0dtOUNsSnFTVVRlaXg5LQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Oracle Stock Slides To 52-Week Low Amid AI Spending Fears
+            - figure [ref=e839]
+          - generic [ref=e840]:
+            - time [ref=e841]: 2 days ago
+            - separator [ref=e842]
+            - generic [ref=e843]: By Ryan Deffenbaugh
+      - generic [ref=e844]:
+        - separator [ref=e846]
+        - generic [ref=e848]:
+          - generic [ref=e849]:
+            - link [ref=e851] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxQcmJvblJzbmY2d1RsU2RMOU54ek5fSUhSQ3FqakZpbkNvZkxick1kaTc3SHBNcWVJMU1XdmdMVVlFdVZaS3Vrb0VsVW1VeGw0d1lrY2lGeFpaMEh3d0JfcTU1azZJc1lsTTlpQUJwTUdSOHFmNzJFa3pvTzFCNjNoV0lZWVZEUzlwdzFfZUp5blk1X0lNMlZhVXFwdHJEdjVqbFFSUnpydWJIbWFjUWc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e853]:
+              - generic [ref=e854]:
+                - generic [ref=e855]: CoinMarketCap
+                - generic [ref=e861]:
+                  - generic:
+                    - 'button "More - AI News: Bittensor Leads Booming AI Sector Amid Agentic Finance Hype" [ref=e862] [cursor=pointer]'
+                    - tooltip [ref=e866]: More
+              - 'link "AI News: Bittensor Leads Booming AI Sector Amid Agentic Finance Hype - CoinMarketCap - 14 hours ago" [ref=e867] [cursor=pointer]':
+                - /url: ./read/CBMirgFBVV95cUxQcmJvblJzbmY2d1RsU2RMOU54ek5fSUhSQ3FqakZpbkNvZkxick1kaTc3SHBNcWVJMU1XdmdMVVlFdVZaS3Vrb0VsVW1VeGw0d1lrY2lGeFpaMEh3d0JfcTU1azZJc1lsTTlpQUJwTUdSOHFmNzJFa3pvTzFCNjNoV0lZWVZEUzlwdzFfZUp5blk1X0lNMlZhVXFwdHJEdjVqbFFSUnpydWJIbWFjUWc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI News: Bittensor Leads Booming AI Sector Amid Agentic Finance Hype"
+            - figure [ref=e868]
+          - time [ref=e870]: 14 hours ago
+      - generic [ref=e871]:
+        - separator [ref=e873]
+        - generic [ref=e875]:
+          - generic [ref=e876]:
+            - link [ref=e878] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxPZTVZS3VBUUVHTEpPSFdHY0Frcm1Ba2xtTmxVdUNocURoeWtTRDNyLVEtLXc3dl9qdEhMWHowRWxndXhpMFN0a2F4d0YtMVVrSGc5X0FqTGV5bHpHdEF2b25mUFZWV096WEpDck5yUVVOakdQblgwUVBZYnl4QXRWS3dzY3VjRUZCUUVBTnBKM2VJSGdEa3RvVmtCS0tnX1JocmZVVmVjTXFtZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e880]:
+              - generic [ref=e881]:
+                - generic [ref=e882]: Bloomberg.com
+                - generic [ref=e888]:
+                  - generic:
+                    - button "More - Watch Wall Street Week | Inflation Meets AI, Navy Buildout Challenges, Tariff Refund Fight" [ref=e889] [cursor=pointer]
+                    - tooltip [ref=e893]: More
+              - link "Watch Wall Street Week | Inflation Meets AI, Navy Buildout Challenges, Tariff Refund Fight - Bloomberg.com - 15 hours ago" [ref=e894] [cursor=pointer]:
+                - /url: ./read/CBMiqgFBVV95cUxPZTVZS3VBUUVHTEpPSFdHY0Frcm1Ba2xtTmxVdUNocURoeWtTRDNyLVEtLXc3dl9qdEhMWHowRWxndXhpMFN0a2F4d0YtMVVrSGc5X0FqTGV5bHpHdEF2b25mUFZWV096WEpDck5yUVVOakdQblgwUVBZYnl4QXRWS3dzY3VjRUZCUUVBTnBKM2VJSGdEa3RvVmtCS0tnX1JocmZVVmVjTXFtZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Watch Wall Street Week | Inflation Meets AI, Navy Buildout Challenges, Tariff Refund Fight
+            - figure [ref=e895]
+          - time [ref=e897]: 15 hours ago
+      - generic [ref=e898]:
+        - separator [ref=e900]
+        - generic [ref=e902]:
+          - generic [ref=e903]:
+            - link [ref=e905] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTE9uSTJyYzBNanRNeUV6M1pQeXgyR3VLc2p3Y29JcDlPRFhocFNkbHk4ck96bUlJRFVMSmdMWFllZmttQkdMYUFhWVptckdpcGFGUHEyUEw1WWh1WTQtOGNrc25jR2h3Zy1tY3JzMjh1dlJ3cS1OaVJvYQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e907]:
+              - generic [ref=e908]:
+                - generic [ref=e909]: AI Business
+                - generic [ref=e915]:
+                  - generic:
+                    - button "More - Chinese AI Startup Releases Massive Open Weight Model" [ref=e916] [cursor=pointer]
+                    - tooltip [ref=e920]: More
+              - link "Chinese AI Startup Releases Massive Open Weight Model - AI Business - 22 hours ago - By Esther Shittu" [ref=e921] [cursor=pointer]:
+                - /url: ./read/CBMieEFVX3lxTE9uSTJyYzBNanRNeUV6M1pQeXgyR3VLc2p3Y29JcDlPRFhocFNkbHk4ck96bUlJRFVMSmdMWFllZmttQkdMYUFhWVptckdpcGFGUHEyUEw1WWh1WTQtOGNrc25jR2h3Zy1tY3JzMjh1dlJ3cS1OaVJvYQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Chinese AI Startup Releases Massive Open Weight Model
+            - figure [ref=e922]
+          - generic [ref=e923]:
+            - time [ref=e924]: 22 hours ago
+            - separator [ref=e925]
+            - generic [ref=e926]: By Esther Shittu
+      - generic [ref=e927]:
+        - separator [ref=e929]
+        - generic [ref=e931]:
+          - generic [ref=e932]:
+            - link [ref=e934] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxNay1QTS1Cb3Q4dXRlN21IYlZhTUFoZFYxV3ZSTjM2aVlUbWVvM1FXM0NzOTFTSWRhbzFod1RrU0Y4cUUzYkxjalNEUEw3UTc3M2padUhHNHBEQ29tRl85dVQzdXNmSFJFNEtZYXk4U2czVXNvZmE2UVo2WUV4b3ZTVC04QjJWTUhjblZjV1RiZ3JmT0h6b3c?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e936]:
+              - generic [ref=e937]:
+                - generic [ref=e938]: CoinMarketCap
+                - generic [ref=e944]:
+                  - generic:
+                    - 'button "More - AI News: Tradoor Sinks, TAO Stabilizes, USD.AI Surges" [ref=e945] [cursor=pointer]'
+                    - tooltip [ref=e949]: More
+              - 'link "AI News: Tradoor Sinks, TAO Stabilizes, USD.AI Surges - CoinMarketCap - 2 days ago" [ref=e950] [cursor=pointer]':
+                - /url: ./read/CBMilgFBVV95cUxNay1QTS1Cb3Q4dXRlN21IYlZhTUFoZFYxV3ZSTjM2aVlUbWVvM1FXM0NzOTFTSWRhbzFod1RrU0Y4cUUzYkxjalNEUEw3UTc3M2padUhHNHBEQ29tRl85dVQzdXNmSFJFNEtZYXk4U2czVXNvZmE2UVo2WUV4b3ZTVC04QjJWTUhjblZjV1RiZ3JmT0h6b3c?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI News: Tradoor Sinks, TAO Stabilizes, USD.AI Surges"
+            - figure [ref=e951]
+          - time [ref=e953]: 2 days ago
+      - generic [ref=e954]:
+        - separator [ref=e956]
+        - generic [ref=e958]:
+          - generic [ref=e959]:
+            - link [ref=e961] [cursor=pointer]:
+              - /url: ./read/CBMizgFBVV95cUxOWVBiTUFWdHRaMjlhUk1EYlRTaGYyOHBoVXdybkx0VndEY2JqalphUU1XQUlTZ0l3N1pka1dWT1VMN085S0RpN1NaNUpQeXNFTG5CMFZzQkZVMGNzY3J0cmJpYWNHNnVMOTJpeHdvUDJjVG1GODh2bFdFMjctMXRqbFViOUxiMHd2WkdoMUJJRnBjNlJLSm9ha0lTWXZkWjIwTlFJVlp4RkdYLVBuaGtXY1BJdWFwU3NSWmQyNnhGQlJHT2dMMl9NckdIR0h3Zw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e963]:
+              - generic [ref=e964]:
+                - generic [ref=e965]: Investing.com
+                - generic [ref=e971]:
+                  - generic:
+                    - button "More - Stocks snap two-week win streak as AI-trade bleeds, pushing chips into bear market" [ref=e972] [cursor=pointer]
+                    - tooltip [ref=e976]: More
+              - link "Stocks snap two-week win streak as AI-trade bleeds, pushing chips into bear market - Investing.com - Yesterday - By Anuron Mitra" [ref=e977] [cursor=pointer]:
+                - /url: ./read/CBMizgFBVV95cUxOWVBiTUFWdHRaMjlhUk1EYlRTaGYyOHBoVXdybkx0VndEY2JqalphUU1XQUlTZ0l3N1pka1dWT1VMN085S0RpN1NaNUpQeXNFTG5CMFZzQkZVMGNzY3J0cmJpYWNHNnVMOTJpeHdvUDJjVG1GODh2bFdFMjctMXRqbFViOUxiMHd2WkdoMUJJRnBjNlJLSm9ha0lTWXZkWjIwTlFJVlp4RkdYLVBuaGtXY1BJdWFwU3NSWmQyNnhGQlJHT2dMMl9NckdIR0h3Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Stocks snap two-week win streak as AI-trade bleeds, pushing chips into bear market
+            - figure [ref=e978]
+          - generic [ref=e979]:
+            - time [ref=e980]: Yesterday
+            - separator [ref=e981]
+            - generic [ref=e982]: By Anuron Mitra
+      - generic [ref=e983]:
+        - separator [ref=e985]
+        - generic [ref=e987]:
+          - generic [ref=e988]:
+            - link [ref=e990] [cursor=pointer]:
+              - /url: ./read/CBMimwFBVV95cUxQempja1ZKdmNHVVBpMDJ4V2YwRlRFQ0gyVE51TWVDM21UTXk2b2V6SThzem1DWV9qR0d4RkZfcDVqNlBWTk9MUmNwLUdLeXVQSlhlMW1rakxwNTVKREI5eG9KLXc5QWI1RWE1ekl0S2NwVE5qQWpJNno4a1psZFY1WWhUWi0wdGRSWDAzNXNUOFdjcndaS09tdGpqZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e992]:
+              - generic [ref=e993]:
+                - generic [ref=e994]: The Week
+                - generic [ref=e1000]:
+                  - generic:
+                    - 'button "More - Ai Weiwei: Button Up! – an exhibition of ‘extraordinary’ courage" [ref=e1001] [cursor=pointer]'
+                    - tooltip [ref=e1005]: More
+              - 'link "Ai Weiwei: Button Up! – an exhibition of ‘extraordinary’ courage - The Week - Yesterday" [ref=e1006] [cursor=pointer]':
+                - /url: ./read/CBMimwFBVV95cUxQempja1ZKdmNHVVBpMDJ4V2YwRlRFQ0gyVE51TWVDM21UTXk2b2V6SThzem1DWV9qR0d4RkZfcDVqNlBWTk9MUmNwLUdLeXVQSlhlMW1rakxwNTVKREI5eG9KLXc5QWI1RWE1ekl0S2NwVE5qQWpJNno4a1psZFY1WWhUWi0wdGRSWDAzNXNUOFdjcndaS09tdGpqZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Ai Weiwei: Button Up! – an exhibition of ‘extraordinary’ courage"
+            - figure [ref=e1007]
+          - time [ref=e1009]: Yesterday
+      - generic [ref=e1010]:
+        - separator [ref=e1012]
+        - generic [ref=e1014]:
+          - generic [ref=e1015]:
+            - link [ref=e1017] [cursor=pointer]:
+              - /url: ./read/CBMia0FVX3lxTE85T056bm9BQjJwTzk4MjRwdE5oaVlZZUJzaHdRdHVTWGhGTmcwVlVhOU13OFN3QWN2NGltVjhfUUlYcnBHNjlobjVwNXRNeW1mTXFMSHJHSC1NRHg2dHFkdjlQaHR4NTJZRmpn?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1019]:
+              - generic [ref=e1020]:
+                - generic [ref=e1021]: EyeWorld
+                - generic [ref=e1027]:
+                  - generic:
+                    - button "More - EyeWorld Weekly, July 17, 2026" [ref=e1028] [cursor=pointer]
+                    - tooltip [ref=e1032]: More
+              - link "EyeWorld Weekly, July 17, 2026 - EyeWorld - 23 hours ago" [ref=e1033] [cursor=pointer]:
+                - /url: ./read/CBMia0FVX3lxTE85T056bm9BQjJwTzk4MjRwdE5oaVlZZUJzaHdRdHVTWGhGTmcwVlVhOU13OFN3QWN2NGltVjhfUUlYcnBHNjlobjVwNXRNeW1mTXFMSHJHSC1NRHg2dHFkdjlQaHR4NTJZRmpn?hl=en-US&gl=US&ceid=US%3Aen
+                - text: EyeWorld Weekly, July 17, 2026
+            - figure [ref=e1034]
+          - time [ref=e1036]: 23 hours ago
+      - generic [ref=e1037]:
+        - separator [ref=e1039]
+        - generic [ref=e1041]:
+          - generic [ref=e1042]:
+            - link [ref=e1044] [cursor=pointer]:
+              - /url: ./read/CBMihAFBVV95cUxPeXRLaFRlQTh3SUQzbXRMRmpmZ1FOaTdNMG9WSDFlRHQ5TVgxZGJ6cUJhZ25uSXd1T2JUc0VwZUx6MzIzR2xmb3hFOERjYmh3VExwdGFRdHJTZGdsamRjOTJmZUxjQ3pJdEtJV1piVGNsdVY1S2JOLW1KcWR4R0JOMXNOZUU?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1046]:
+              - generic [ref=e1047]:
+                - generic [ref=e1048]: Financial Times
+                - generic [ref=e1054]:
+                  - generic:
+                    - button "More - US chip stocks notch up worst week in more than a year" [ref=e1055] [cursor=pointer]
+                    - tooltip [ref=e1059]: More
+              - link "US chip stocks notch up worst week in more than a year - Financial Times - Yesterday - By Emily Herbert, Ian Smith & William Sandlund" [ref=e1060] [cursor=pointer]:
+                - /url: ./read/CBMihAFBVV95cUxPeXRLaFRlQTh3SUQzbXRMRmpmZ1FOaTdNMG9WSDFlRHQ5TVgxZGJ6cUJhZ25uSXd1T2JUc0VwZUx6MzIzR2xmb3hFOERjYmh3VExwdGFRdHJTZGdsamRjOTJmZUxjQ3pJdEtJV1piVGNsdVY1S2JOLW1KcWR4R0JOMXNOZUU?hl=en-US&gl=US&ceid=US%3Aen
+                - text: US chip stocks notch up worst week in more than a year
+            - figure [ref=e1061]
+          - generic [ref=e1062]:
+            - time [ref=e1063]: Yesterday
+            - separator [ref=e1064]
+            - generic [ref=e1065]: By Emily Herbert, Ian Smith & William Sandlund
+      - generic [ref=e1066]:
+        - separator [ref=e1068]
+        - generic [ref=e1070]:
+          - generic [ref=e1071]:
+            - link [ref=e1073] [cursor=pointer]:
+              - /url: ./read/CBMic0FVX3lxTE5UVkhlcGpxZlUxbFltOGNWeXl5R3ZOREg0bEdPd21uRWdpdEhaQzRuVzFveE9OemlLVzJHRDdwMGo1ZTFrcGd2NWo0Njl2TnRkOWNZS3J6ZHNzeEpjUlZFZnRGc0wwbDBzQXYxdk9uM3Y2d0U?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1075]:
+              - generic [ref=e1076]:
+                - generic [ref=e1077]: AI Weekly
+                - generic [ref=e1083]:
+                  - generic:
+                    - button "More - Managers Don't Need More AI News. They Need Precedent." [ref=e1084] [cursor=pointer]
+                    - tooltip [ref=e1088]: More
+              - link "Managers Don't Need More AI News. They Need Precedent. - AI Weekly - 4 days ago" [ref=e1089] [cursor=pointer]:
+                - /url: ./read/CBMic0FVX3lxTE5UVkhlcGpxZlUxbFltOGNWeXl5R3ZOREg0bEdPd21uRWdpdEhaQzRuVzFveE9OemlLVzJHRDdwMGo1ZTFrcGd2NWo0Njl2TnRkOWNZS3J6ZHNzeEpjUlZFZnRGc0wwbDBzQXYxdk9uM3Y2d0U?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Managers Don't Need More AI News. They Need Precedent.
+          - time [ref=e1091]: 4 days ago
+      - generic [ref=e1092]:
+        - separator [ref=e1094]
+        - generic [ref=e1096]:
+          - generic [ref=e1097]:
+            - link [ref=e1099] [cursor=pointer]:
+              - /url: ./read/CBMi1AFBVV95cUxQTi04WEM5azAzbFM2bHBBdTZNN3pkeHhWY2xITDBjRk9pZGtUNE1heUd2cm9MdmhLV1lVUEJaUURidmpqaXFNTlNTRHJ0cFlsVWpYWFgzSVQ2czg2YWd4MXFCRmFsWVlJY1RUdjlZeEpwcjlUTmQzY2NwMUo4V2EwLWc2S0MxVjBFdDJwUVpOblJ0YW5aQVFIX1dURUtkYXRuNmFRZXVQTm00eDg3VS1yM19odHN1NjRaUUNtNzlnandqZGNhejVEdjEtd1p1SERlRGFRcQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1101]:
+              - generic [ref=e1102]:
+                - generic [ref=e1103]: HDFC Sky
+                - generic [ref=e1109]:
+                  - generic:
+                    - 'button "More - Weekly Wrap Up: Dow Holds Steady as Nasdaq Plunges 2.5% on AI Chip Wipeout and IBM''s Historic 25% Crash" [ref=e1110] [cursor=pointer]'
+                    - tooltip [ref=e1114]: More
+              - 'link "Weekly Wrap Up: Dow Holds Steady as Nasdaq Plunges 2.5% on AI Chip Wipeout and IBM''s Historic 25% Crash - HDFC Sky - 7 hours ago" [ref=e1115] [cursor=pointer]':
+                - /url: ./read/CBMi1AFBVV95cUxQTi04WEM5azAzbFM2bHBBdTZNN3pkeHhWY2xITDBjRk9pZGtUNE1heUd2cm9MdmhLV1lVUEJaUURidmpqaXFNTlNTRHJ0cFlsVWpYWFgzSVQ2czg2YWd4MXFCRmFsWVlJY1RUdjlZeEpwcjlUTmQzY2NwMUo4V2EwLWc2S0MxVjBFdDJwUVpOblJ0YW5aQVFIX1dURUtkYXRuNmFRZXVQTm00eDg3VS1yM19odHN1NjRaUUNtNzlnandqZGNhejVEdjEtd1p1SERlRGFRcQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Weekly Wrap Up: Dow Holds Steady as Nasdaq Plunges 2.5% on AI Chip Wipeout and IBM's Historic 25% Crash"
+            - figure [ref=e1116]
+          - time [ref=e1118]: 7 hours ago
+      - generic [ref=e1119]:
+        - separator [ref=e1121]
+        - generic [ref=e1123]:
+          - generic [ref=e1124]:
+            - link [ref=e1126] [cursor=pointer]:
+              - /url: ./read/CBMilgFBVV95cUxNOVZBSjZUTVVVNGl1MlBQd3M0QVF3TEFSSGV1bFV0eWhrNVdId3k1NnZ3bFNVQUNNODZLTTJiLWc4MC12Sy0ydXYyM0hpSFBIZGl2UVRuMGhWMmNvT1gtM3VGRG9jbWYySGhpU0NJMnd1NUp1TjZPZDNNUk9fNzllaEh1Y2o5WEhqcFhQa2ctOHVuTDdHMFE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1128]:
+              - generic [ref=e1129]:
+                - generic [ref=e1130]: Yahoo Finance
+                - generic [ref=e1136]:
+                  - generic:
+                    - button "More - NOK Stock Faces Worst Week In 5 Years – But Retail Traders Are Not Giving Up On Nokia’s 'AI RAN Technology' Push" [ref=e1137] [cursor=pointer]
+                    - tooltip [ref=e1141]: More
+              - link "NOK Stock Faces Worst Week In 5 Years – But Retail Traders Are Not Giving Up On Nokia’s 'AI RAN Technology' Push - Yahoo Finance - Yesterday - By Shivani Kumaresan" [ref=e1142] [cursor=pointer]:
+                - /url: ./read/CBMilgFBVV95cUxNOVZBSjZUTVVVNGl1MlBQd3M0QVF3TEFSSGV1bFV0eWhrNVdId3k1NnZ3bFNVQUNNODZLTTJiLWc4MC12Sy0ydXYyM0hpSFBIZGl2UVRuMGhWMmNvT1gtM3VGRG9jbWYySGhpU0NJMnd1NUp1TjZPZDNNUk9fNzllaEh1Y2o5WEhqcFhQa2ctOHVuTDdHMFE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NOK Stock Faces Worst Week In 5 Years – But Retail Traders Are Not Giving Up On Nokia’s 'AI RAN Technology' Push
+            - figure [ref=e1143]
+          - generic [ref=e1144]:
+            - time [ref=e1145]: Yesterday
+            - separator [ref=e1146]
+            - generic [ref=e1147]: By Shivani Kumaresan
+      - generic [ref=e1148]:
+        - separator [ref=e1150]
+        - generic [ref=e1152]:
+          - generic [ref=e1153]:
+            - link [ref=e1155] [cursor=pointer]:
+              - /url: ./read/CBMickFVX3lxTFB2dVVyNGtwaWxsSjVlZE1qOHpFWi11THdxUmtEWWxtWk5NZTItcUhtelBYaHRoZGR0YVJnckJOTU5RUmhZY1hBUEFwSXlmWTBEVGhjOTRFRXl5MU9BenhELXhkNElFODdZY1BERllval9Qdw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1157]:
+              - generic [ref=e1158]:
+                - generic [ref=e1159]: eciks.org
+                - generic [ref=e1165]:
+                  - generic:
+                    - button "More - Apple secures China approval for AI features, stock hits 52-week high" [ref=e1166] [cursor=pointer]
+                    - tooltip [ref=e1170]: More
+              - link "Apple secures China approval for AI features, stock hits 52-week high - eciks.org - Yesterday - By Chris Martin" [ref=e1171] [cursor=pointer]:
+                - /url: ./read/CBMickFVX3lxTFB2dVVyNGtwaWxsSjVlZE1qOHpFWi11THdxUmtEWWxtWk5NZTItcUhtelBYaHRoZGR0YVJnckJOTU5RUmhZY1hBUEFwSXlmWTBEVGhjOTRFRXl5MU9BenhELXhkNElFODdZY1BERllval9Qdw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Apple secures China approval for AI features, stock hits 52-week high
+            - figure [ref=e1172]
+          - generic [ref=e1173]:
+            - time [ref=e1174]: Yesterday
+            - separator [ref=e1175]
+            - generic [ref=e1176]: By Chris Martin
+      - generic [ref=e1177]:
+        - separator [ref=e1179]
+        - generic [ref=e1181]:
+          - generic [ref=e1182]:
+            - link [ref=e1184] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxNRGFjX29YYzZPV3F2RGljajJZOUE0ZENtWjhJSXRaVkZzaXZjdkZHbS1MRllYaGVGSzBSTlpoZFEwVzlfbERHNDAyNlhjeFNYekhtdGROYjVLZjI3MnFkM1FqMHZKQ0VveHZpSGlZVzhwZldyQnZLbjVTLWFRWFJWOGFxQ0J0aXN2T1VxYkF1N0JLSjFPdlktY3JaVnFnZDFNZDQxTA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1186]:
+              - generic [ref=e1187]:
+                - generic [ref=e1188]: Enterprise Times
+                - generic [ref=e1194]:
+                  - generic:
+                    - button "More - Security and AI news from the week beginning 6 July 2026 -" [ref=e1195] [cursor=pointer]
+                    - tooltip [ref=e1199]: More
+              - link "Security and AI news from the week beginning 6 July 2026 - - Enterprise Times - 5 days ago - By Ian Murphy" [ref=e1200] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxNRGFjX29YYzZPV3F2RGljajJZOUE0ZENtWjhJSXRaVkZzaXZjdkZHbS1MRllYaGVGSzBSTlpoZFEwVzlfbERHNDAyNlhjeFNYekhtdGROYjVLZjI3MnFkM1FqMHZKQ0VveHZpSGlZVzhwZldyQnZLbjVTLWFRWFJWOGFxQ0J0aXN2T1VxYkF1N0JLSjFPdlktY3JaVnFnZDFNZDQxTA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Security and AI news from the week beginning 6 July 2026 -
+            - figure [ref=e1201]
+          - generic [ref=e1202]:
+            - time [ref=e1203]: 5 days ago
+            - separator [ref=e1204]
+            - generic [ref=e1205]: By Ian Murphy
+      - generic [ref=e1206]:
+        - separator [ref=e1208]
+        - generic [ref=e1210]:
+          - generic [ref=e1211]:
+            - link [ref=e1213] [cursor=pointer]:
+              - /url: ./read/CBMiU0FVX3lxTE9icFR2SC1vNVZOYXFGNTFlcm03QkZ4d0J5aXNfekprUEx1MEJTTVlycjZCUG9iMXVVX0o0MUxpbnY5cW0tVkVXNEtfdEE0WV9rMmMw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1215]:
+              - generic [ref=e1216]:
+                - generic [ref=e1217]: Wowtale
+                - generic [ref=e1223]:
+                  - generic:
+                    - 'button "More - [Korean Startup Weekly News #127] AI Investment Wave Reshapes Korea" [ref=e1224] [cursor=pointer]'
+                    - tooltip [ref=e1228]: More
+              - 'link "[Korean Startup Weekly News #127] AI Investment Wave Reshapes Korea - Wowtale - 12 hours ago" [ref=e1229] [cursor=pointer]':
+                - /url: ./read/CBMiU0FVX3lxTE9icFR2SC1vNVZOYXFGNTFlcm03QkZ4d0J5aXNfekprUEx1MEJTTVlycjZCUG9iMXVVX0o0MUxpbnY5cW0tVkVXNEtfdEE0WV9rMmMw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "[Korean Startup Weekly News #127] AI Investment Wave Reshapes Korea"
+            - figure [ref=e1230]
+          - time [ref=e1232]: 12 hours ago
+      - generic [ref=e1233]:
+        - separator [ref=e1235]
+        - generic [ref=e1237]:
+          - generic [ref=e1238]:
+            - link [ref=e1240] [cursor=pointer]:
+              - /url: ./read/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1242]:
+              - generic [ref=e1243]:
+                - generic [ref=e1244]: News On AIR
+                - generic [ref=e1250]:
+                  - generic:
+                    - button "More - Top world leaders to attend India-AI Impact Summit in New Delhi next week" [ref=e1251] [cursor=pointer]
+                    - tooltip [ref=e1255]: More
+              - link "Top world leaders to attend India-AI Impact Summit in New Delhi next week - News On AIR - 1 hour ago" [ref=e1256] [cursor=pointer]:
+                - /url: ./read/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Top world leaders to attend India-AI Impact Summit in New Delhi next week
+            - figure [ref=e1257]
+          - time [ref=e1259]: 1 hour ago
+      - generic [ref=e1260]:
+        - separator [ref=e1262]
+        - generic [ref=e1264]:
+          - generic [ref=e1265]:
+            - link [ref=e1267] [cursor=pointer]:
+              - /url: ./read/CBMieEFVX3lxTE1GVlVQVHdETmd4R1duTjNsZEE0SlVicGJmWkpoSDFpbVQxbXNrak9MTkFQVGh0TEhnVVZ5RmRERHlPQ2lDM2l5WHdQcU1JaHM1WEQ4TExva21sOE5ZdUJPcmcwaEdNWXBQTXVtenBMZllxamR0cDJzNQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1269]:
+              - generic [ref=e1270]:
+                - generic [ref=e1271]: KDnuggets
+                - generic [ref=e1277]:
+                  - generic:
+                    - button "More - 10 YouTube Channels Keeping You Ahead in AI" [ref=e1278] [cursor=pointer]
+                    - tooltip [ref=e1282]: More
+              - link "10 YouTube Channels Keeping You Ahead in AI - KDnuggets - 2 days ago - By Vinod Chugani" [ref=e1283] [cursor=pointer]:
+                - /url: ./read/CBMieEFVX3lxTE1GVlVQVHdETmd4R1duTjNsZEE0SlVicGJmWkpoSDFpbVQxbXNrak9MTkFQVGh0TEhnVVZ5RmRERHlPQ2lDM2l5WHdQcU1JaHM1WEQ4TExva21sOE5ZdUJPcmcwaEdNWXBQTXVtenBMZllxamR0cDJzNQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: 10 YouTube Channels Keeping You Ahead in AI
+            - figure [ref=e1284]
+          - generic [ref=e1285]:
+            - time [ref=e1286]: 2 days ago
+            - separator [ref=e1287]
+            - generic [ref=e1288]: By Vinod Chugani
+      - generic [ref=e1289]:
+        - separator [ref=e1291]
+        - generic [ref=e1293]:
+          - generic [ref=e1294]:
+            - link [ref=e1296] [cursor=pointer]:
+              - /url: ./read/CBMisgFBVV95cUxPNHVKQkQxN2FPUHg2Um90bHhwdEgxZ2JsTUdMSmV0TkRDR3RTYmtBVS1UU1h1UXpaZ2MtX01HbzY2clp6OWNhdEtUTFFkYkd2Yml3WGxiQUljOVVySVFLY3JtaVBaWVEzXzNyb2VUeVAyN2FRTmUwZ2dlODdteDRvZnFCQ2hVajJTdzMxWmplNG5OWk5TVzhQLUZiMk1pd0JhVzlCS1pVSDhBSG9iRl9kS05R?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1298]:
+              - generic [ref=e1299]:
+                - generic [ref=e1300]: Solutions Review
+                - generic [ref=e1306]:
+                  - generic:
+                    - button "More - AI News for the Week of July 10; Updates from Accenture, Google Cloud, Supermicro & More" [ref=e1307] [cursor=pointer]
+                    - tooltip [ref=e1311]: More
+              - link "AI News for the Week of July 10; Updates from Accenture, Google Cloud, Supermicro & More - Solutions Review - 7 days ago - By Tim King" [ref=e1312] [cursor=pointer]:
+                - /url: ./read/CBMisgFBVV95cUxPNHVKQkQxN2FPUHg2Um90bHhwdEgxZ2JsTUdMSmV0TkRDR3RTYmtBVS1UU1h1UXpaZ2MtX01HbzY2clp6OWNhdEtUTFFkYkd2Yml3WGxiQUljOVVySVFLY3JtaVBaWVEzXzNyb2VUeVAyN2FRTmUwZ2dlODdteDRvZnFCQ2hVajJTdzMxWmplNG5OWk5TVzhQLUZiMk1pd0JhVzlCS1pVSDhBSG9iRl9kS05R?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of July 10; Updates from Accenture, Google Cloud, Supermicro & More
+            - figure [ref=e1313]
+          - generic [ref=e1314]:
+            - time [ref=e1315]: 7 days ago
+            - separator [ref=e1316]
+            - generic [ref=e1317]: By Tim King
+      - generic [ref=e1318]:
+        - separator [ref=e1320]
+        - generic [ref=e1322]:
+          - generic [ref=e1323]:
+            - link [ref=e1325] [cursor=pointer]:
+              - /url: ./read/CBMi4AFBVV95cUxONlFZdTN1N3J0X3BLZWM5SlkwRndFU0d5eWItRXM5U0pfWXRRZTRfd291WWpLRE1KcndMdjJJNEtkTko3LVNzQkFncko0ZDdlLThUQnhYWXNjenlpY2NfZ21mQkFLeTV0dGVHaGZwZ3ZKWHBJdGZhSEFZcHhWXzhKa0JteElzdkVqZFV5TlE0Q3d2RWF2QWJzMVVMNXl0d1hyY0NhaXhPdW91a19WZ3FDYmplNHBQenM1WnVqM3dBZ21ONnEwa2VQZ2RTUzdYWGJta0tqVHU3WXQ0T0Q3NlNUUg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1327]:
+              - generic [ref=e1328]:
+                - generic [ref=e1329]: TradingView
+                - generic [ref=e1335]:
+                  - generic:
+                    - button "More - Asian tech stocks slide as AI rally unwinds, oil set for biggest weekly gain since April" [ref=e1336] [cursor=pointer]
+                    - tooltip [ref=e1340]: More
+              - link "Asian tech stocks slide as AI rally unwinds, oil set for biggest weekly gain since April - TradingView - Yesterday" [ref=e1341] [cursor=pointer]:
+                - /url: ./read/CBMi4AFBVV95cUxONlFZdTN1N3J0X3BLZWM5SlkwRndFU0d5eWItRXM5U0pfWXRRZTRfd291WWpLRE1KcndMdjJJNEtkTko3LVNzQkFncko0ZDdlLThUQnhYWXNjenlpY2NfZ21mQkFLeTV0dGVHaGZwZ3ZKWHBJdGZhSEFZcHhWXzhKa0JteElzdkVqZFV5TlE0Q3d2RWF2QWJzMVVMNXl0d1hyY0NhaXhPdW91a19WZ3FDYmplNHBQenM1WnVqM3dBZ21ONnEwa2VQZ2RTUzdYWGJta0tqVHU3WXQ0T0Q3NlNUUg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Asian tech stocks slide as AI rally unwinds, oil set for biggest weekly gain since April
+            - figure [ref=e1342]
+          - time [ref=e1344]: Yesterday
+      - generic [ref=e1345]:
+        - separator [ref=e1347]
+        - generic [ref=e1349]:
+          - generic [ref=e1350]:
+            - link [ref=e1352] [cursor=pointer]:
+              - /url: ./read/CBMijgFBVV95cUxONFN6RW5nVUZ3bUQ3T3hfQzlIaG90UVpyZzF4ZVc0X3lUaEphcVJSWW1NdVFrR0F1UXU2YXFydlRCc2xIdDA5RndXc214c3BXNWJjc052RmJLSEsyU1dpSUEtai16ZjRJM21XM0g0YlBLVWVOd1M4al9seEwyTy1wQmRtZnJucHpHZ2RwRFln?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1354]:
+              - generic [ref=e1355]:
+                - generic [ref=e1356]: Crunchbase News
+                - generic [ref=e1362]:
+                  - generic:
+                    - 'button "More - The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way" [ref=e1363] [cursor=pointer]'
+                    - tooltip [ref=e1367]: More
+              - 'link "The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way - Crunchbase News - 16 days ago - By Joanna Glasner" [ref=e1368] [cursor=pointer]':
+                - /url: ./read/CBMijgFBVV95cUxONFN6RW5nVUZ3bUQ3T3hfQzlIaG90UVpyZzF4ZVc0X3lUaEphcVJSWW1NdVFrR0F1UXU2YXFydlRCc2xIdDA5RndXc214c3BXNWJjc052RmJLSEsyU1dpSUEtai16ZjRJM21XM0g0YlBLVWVOd1M4al9seEwyTy1wQmRtZnJucHpHZ2RwRFln?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way"
+            - figure [ref=e1369]
+          - generic [ref=e1370]:
+            - time [ref=e1371]: 16 days ago
+            - separator [ref=e1372]
+            - generic [ref=e1373]: By Joanna Glasner
+      - generic [ref=e1374]:
+        - separator [ref=e1376]
+        - generic [ref=e1378]:
+          - generic [ref=e1379]:
+            - link [ref=e1381] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxPalRUMGVCaldlVjk3V3pWX09MVkFUenFjenVvN0p6dXpnWGxsQlpPVlZpaVhuZGhmSzBuNzNJWk1kd1dDMF95OS1keWNxQ01Samh4X0F4ZnhaUTlfelBoU05DMzEzUFVaSzF0WndTVUViOEZOOFhlSExZQ0ltNXJGYkZuMm1qdU84SWhwc1BIVGpHN19Rek0wNGcyNGRwNkdQNUE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1383]:
+              - generic [ref=e1384]:
+                - generic [ref=e1385]: Solutions Review
+                - generic [ref=e1391]:
+                  - generic:
+                    - button "More - AI News for the Week of June 19; Updates from Arcade, IBM, NeuBird AI & More" [ref=e1392] [cursor=pointer]
+                    - tooltip [ref=e1396]: More
+              - link "AI News for the Week of June 19; Updates from Arcade, IBM, NeuBird AI & More - Solutions Review - Jun 19 - By Tim King" [ref=e1397] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxPalRUMGVCaldlVjk3V3pWX09MVkFUenFjenVvN0p6dXpnWGxsQlpPVlZpaVhuZGhmSzBuNzNJWk1kd1dDMF95OS1keWNxQ01Samh4X0F4ZnhaUTlfelBoU05DMzEzUFVaSzF0WndTVUViOEZOOFhlSExZQ0ltNXJGYkZuMm1qdU84SWhwc1BIVGpHN19Rek0wNGcyNGRwNkdQNUE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of June 19; Updates from Arcade, IBM, NeuBird AI & More
+            - figure [ref=e1398]
+          - generic [ref=e1399]:
+            - time [ref=e1400]: Jun 19
+            - separator [ref=e1401]
+            - generic [ref=e1402]: By Tim King
+      - generic [ref=e1403]:
+        - separator [ref=e1405]
+        - generic [ref=e1407]:
+          - generic [ref=e1408]:
+            - link [ref=e1410] [cursor=pointer]:
+              - /url: ./read/CBMikAFBVV95cUxPcDVpbkliX3NKUi1lYWp1aUpWMVNZeWozdkdoM2ZoYklDak9XUEU2eWY0bDBiZl9WS3JvZVBaSmlCdU5CbFM5dkcxS0FWVWd4YmF0UXRPV1JTNEtJVDR4X1ZSSWJ6b3pZeklTbWFvME5OUE5YYWZrSHFpUDExalRzcHJqX2U1clFzVjRCaklsLXM?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1412]:
+              - generic [ref=e1413]:
+                - generic [ref=e1414]: StartupHub.ai
+                - generic [ref=e1420]:
+                  - generic:
+                    - button "More - New Data Scientists hiring now (July 17, 2026)" [ref=e1421] [cursor=pointer]
+                    - tooltip [ref=e1425]: More
+              - link "New Data Scientists hiring now (July 17, 2026) - StartupHub.ai - Yesterday" [ref=e1426] [cursor=pointer]:
+                - /url: ./read/CBMikAFBVV95cUxPcDVpbkliX3NKUi1lYWp1aUpWMVNZeWozdkdoM2ZoYklDak9XUEU2eWY0bDBiZl9WS3JvZVBaSmlCdU5CbFM5dkcxS0FWVWd4YmF0UXRPV1JTNEtJVDR4X1ZSSWJ6b3pZeklTbWFvME5OUE5YYWZrSHFpUDExalRzcHJqX2U1clFzVjRCaklsLXM?hl=en-US&gl=US&ceid=US%3Aen
+                - text: New Data Scientists hiring now (July 17, 2026)
+            - figure [ref=e1427]
+          - time [ref=e1429]: Yesterday
+      - generic [ref=e1430]:
+        - separator [ref=e1432]
+        - generic [ref=e1434]:
+          - generic [ref=e1435]:
+            - link [ref=e1437] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTFB6VGxwWEdBX0UwU0t0X3BhSnFLcDE5Wnhub0lFcE01VHNoYkpLcnNjcjh4Vl9zM0ptYWgwQUdRbHZzNk1NTTZ5bjZyT0UyUUpETFJjZnpsenhZQQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1439]:
+              - generic [ref=e1440]:
+                - generic [ref=e1441]: BBC
+                - generic [ref=e1447]:
+                  - generic:
+                    - button "More - Australia dock workers call for 28-hour week in AI talks" [ref=e1448] [cursor=pointer]
+                    - tooltip [ref=e1452]: More
+              - link "Australia dock workers call for 28-hour week in AI talks - BBC - 11 days ago - By Osmond Chia" [ref=e1453] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTFB6VGxwWEdBX0UwU0t0X3BhSnFLcDE5Wnhub0lFcE01VHNoYkpLcnNjcjh4Vl9zM0ptYWgwQUdRbHZzNk1NTTZ5bjZyT0UyUUpETFJjZnpsenhZQQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Australia dock workers call for 28-hour week in AI talks
+            - figure [ref=e1454]
+          - generic [ref=e1455]:
+            - time [ref=e1456]: 11 days ago
+            - separator [ref=e1457]
+            - generic [ref=e1458]: By Osmond Chia
+      - generic [ref=e1459]:
+        - separator [ref=e1461]
+        - generic [ref=e1463]:
+          - generic [ref=e1464]:
+            - link [ref=e1466] [cursor=pointer]:
+              - /url: ./read/CBMitAFBVV95cUxPX1lNUW1ydUswdGNabG9sejV6bmVHZ082Q3RYVXlJRkNGWWtFZzkyM1psdU91dWtwb0dfZ281R2lpRkhQMThaOFJkNWpVNkJEOGFodVFPT2ZaVkVrd2RPX2pEM0E2aEYyT2t5YVBJbEV0bk1ER2FmejNFS2V3SjlUUmRfMVFUWlRMMUpzekZaVzZiQ1dkVVQtSDZVNnBhejVNcDltNFpVU1E3Sm1nNE5JUzFnUjI?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1468]:
+              - generic [ref=e1469]:
+                - generic [ref=e1470]: CoinMarketCap
+                - generic [ref=e1476]:
+                  - generic:
+                    - button "More - An AI Agent Just Launched Its Own Company & Opened a Bank Account, All Without Humans" [ref=e1477] [cursor=pointer]
+                    - tooltip [ref=e1481]: More
+              - link "An AI Agent Just Launched Its Own Company & Opened a Bank Account, All Without Humans - CoinMarketCap - 5 days ago - By Phillips Daniel" [ref=e1482] [cursor=pointer]:
+                - /url: ./read/CBMitAFBVV95cUxPX1lNUW1ydUswdGNabG9sejV6bmVHZ082Q3RYVXlJRkNGWWtFZzkyM1psdU91dWtwb0dfZ281R2lpRkhQMThaOFJkNWpVNkJEOGFodVFPT2ZaVkVrd2RPX2pEM0E2aEYyT2t5YVBJbEV0bk1ER2FmejNFS2V3SjlUUmRfMVFUWlRMMUpzekZaVzZiQ1dkVVQtSDZVNnBhejVNcDltNFpVU1E3Sm1nNE5JUzFnUjI?hl=en-US&gl=US&ceid=US%3Aen
+                - text: An AI Agent Just Launched Its Own Company & Opened a Bank Account, All Without Humans
+            - figure [ref=e1483]
+          - generic [ref=e1484]:
+            - time [ref=e1485]: 5 days ago
+            - separator [ref=e1486]
+            - generic [ref=e1487]: By Phillips Daniel
+      - generic [ref=e1488]:
+        - separator [ref=e1490]
+        - generic [ref=e1492]:
+          - generic [ref=e1493]:
+            - link [ref=e1495] [cursor=pointer]:
+              - /url: ./read/CBMiXkFVX3lxTE5Pd0w3OHhYb3FZbEJiMXJvN3FkcnlQbVN3NnBXaFRuXzFPSVdpT0RJS1F2bGR2YS0wQkpwWWV0eG1NVUprX3NVVzI1YjNIVXdmTjNJY2stMXZpa1B6RUE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1497]:
+              - generic [ref=e1498]:
+                - generic [ref=e1499]: Sharjah24
+                - generic [ref=e1505]:
+                  - generic:
+                    - button "More - Mleiha Club wraps up AI week with standout summer activities" [ref=e1506] [cursor=pointer]
+                    - tooltip [ref=e1510]: More
+              - link "Mleiha Club wraps up AI week with standout summer activities - Sharjah24 - 5 hours ago" [ref=e1511] [cursor=pointer]:
+                - /url: ./read/CBMiXkFVX3lxTE5Pd0w3OHhYb3FZbEJiMXJvN3FkcnlQbVN3NnBXaFRuXzFPSVdpT0RJS1F2bGR2YS0wQkpwWWV0eG1NVUprX3NVVzI1YjNIVXdmTjNJY2stMXZpa1B6RUE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Mleiha Club wraps up AI week with standout summer activities
+            - figure [ref=e1512]
+          - time [ref=e1514]: 5 hours ago
+      - generic [ref=e1515]:
+        - separator [ref=e1517]
+        - generic [ref=e1519]:
+          - generic [ref=e1520]:
+            - link [ref=e1522] [cursor=pointer]:
+              - /url: ./read/CBMikgFBVV95cUxNbHV1amRGRlNueW1IOWdlZktXdkVBWmRuN1RsQ19odXlMTHVmTExzYVRQU01PQUFRZWRrb2dUSkVOQlJNcGRqcXFwUFVtZTZiZW1GUVRvUUhVa29KV3JQU2x2S1BRUExtQkFWQWZJY1Rmbkx2UlVoY2d1bmtDRmZfejdwSDJTZkNjbzhfOE9jdGZQUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1524]:
+              - generic [ref=e1525]:
+                - generic [ref=e1526]: CBS News
+                - generic [ref=e1532]:
+                  - generic:
+                    - button "More - Big Tech is spending trillions on AI. Investors now want proof it will pay off." [ref=e1533] [cursor=pointer]
+                    - tooltip [ref=e1537]: More
+              - link "Big Tech is spending trillions on AI. Investors now want proof it will pay off. - CBS News - Jun 26 - By Aimee Picchi" [ref=e1538] [cursor=pointer]:
+                - /url: ./read/CBMikgFBVV95cUxNbHV1amRGRlNueW1IOWdlZktXdkVBWmRuN1RsQ19odXlMTHVmTExzYVRQU01PQUFRZWRrb2dUSkVOQlJNcGRqcXFwUFVtZTZiZW1GUVRvUUhVa29KV3JQU2x2S1BRUExtQkFWQWZJY1Rmbkx2UlVoY2d1bmtDRmZfejdwSDJTZkNjbzhfOE9jdGZQUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Big Tech is spending trillions on AI. Investors now want proof it will pay off.
+            - figure [ref=e1539]
+          - generic [ref=e1540]:
+            - time [ref=e1541]: Jun 26
+            - separator [ref=e1542]
+            - generic [ref=e1543]: By Aimee Picchi
+      - generic [ref=e1544]:
+        - separator [ref=e1546]
+        - generic [ref=e1548]:
+          - generic [ref=e1549]:
+            - link [ref=e1551] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxNRmVfQ2xXdHlUM0lfeWhtQl9uQ2pxWlQxWDYtT3FtYTc3am9KcEZJLTJFcXlnR21OVjBDLWhaUHh2cmhaVUw5dUM0Ui1tTEhtTkJXc2pESjkyVG1pS2RnaWwtN3hnb09fZ05lX0ptdktscTFpYTh5d3lFQkhkbV9abk15YkpoSEJsWXBzcnZjcw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1553]:
+              - generic [ref=e1554]:
+                - generic [ref=e1555]: Yahoo
+                - generic [ref=e1561]:
+                  - generic:
+                    - 'button "More - Funny old world: the week''s offbeat news" [ref=e1562] [cursor=pointer]'
+                    - tooltip [ref=e1566]: More
+              - 'link "Funny old world: the week''s offbeat news - Yahoo - Yesterday" [ref=e1567] [cursor=pointer]':
+                - /url: ./read/CBMijwFBVV95cUxNRmVfQ2xXdHlUM0lfeWhtQl9uQ2pxWlQxWDYtT3FtYTc3am9KcEZJLTJFcXlnR21OVjBDLWhaUHh2cmhaVUw5dUM0Ui1tTEhtTkJXc2pESjkyVG1pS2RnaWwtN3hnb09fZ05lX0ptdktscTFpYTh5d3lFQkhkbV9abk15YkpoSEJsWXBzcnZjcw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Funny old world: the week's offbeat news"
+            - figure [ref=e1568]
+          - time [ref=e1570]: Yesterday
+      - generic [ref=e1571]:
+        - separator [ref=e1573]
+        - generic [ref=e1575]:
+          - generic [ref=e1576]:
+            - link [ref=e1578] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxPQ0c0RTJ3QUFuUDJEU3F3Z1ZXVWJPamkxU3p4Uk05SEFFWFVHZXpLcG1jaGpJUjQzRWI5NkRQTy1zdVRfWGxpcEdlQmxwSllxOU1STnBoSmFPVFJuNkxZMml4Vnp4UWdQVlJOelV5bDdKSmN1bUFDcUFzQk1YSTBCbXVRYVJZV0NhYm04ckdVNUhpemZabGVReTROT3ZTWTZXSVY5cEpybWdBVUQt?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1580]:
+              - generic [ref=e1581]:
+                - generic [ref=e1582]: CoinMarketCap
+                - generic [ref=e1588]:
+                  - generic:
+                    - 'button "More - AI News: Anthropic ‘Mythos’ Leak, BlackRock Comments, & Top AI Tokens" [ref=e1589] [cursor=pointer]'
+                    - tooltip [ref=e1593]: More
+              - 'link "AI News: Anthropic ‘Mythos’ Leak, BlackRock Comments, & Top AI Tokens - CoinMarketCap - 9 days ago" [ref=e1594] [cursor=pointer]':
+                - /url: ./read/CBMirAFBVV95cUxPQ0c0RTJ3QUFuUDJEU3F3Z1ZXVWJPamkxU3p4Uk05SEFFWFVHZXpLcG1jaGpJUjQzRWI5NkRQTy1zdVRfWGxpcEdlQmxwSllxOU1STnBoSmFPVFJuNkxZMml4Vnp4UWdQVlJOelV5bDdKSmN1bUFDcUFzQk1YSTBCbXVRYVJZV0NhYm04ckdVNUhpemZabGVReTROT3ZTWTZXSVY5cEpybWdBVUQt?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI News: Anthropic ‘Mythos’ Leak, BlackRock Comments, & Top AI Tokens"
+            - figure [ref=e1595]
+          - time [ref=e1597]: 9 days ago
+      - generic [ref=e1598]:
+        - separator [ref=e1600]
+        - generic [ref=e1602]:
+          - generic [ref=e1603]:
+            - link [ref=e1605] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxPeVN1azRReEIyME1hS1k0OXk4TlVFS19yOUtZUHZyS2MxdV9YdU5CS05QT2VGTUFVME1UWlRQVVdsUkRqV1FUZFdQTnp2MlFBZGNIMFRidWtubXVGbmZteUZtUGRvRTRwRHJqVElmd2VJUFl1RTFoSmQwb3YwaS15M0U0WEtkRHhfMnRDUzNDdlRJd25vbmphWkloZ2ZUMVBWc0V6TERSbi1QbXZzeEw4?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1607]:
+              - generic [ref=e1608]:
+                - generic [ref=e1609]: CoinMarketCap
+                - generic [ref=e1615]:
+                  - generic:
+                    - 'button "More - AI News: Majors Stall, Trending Tokens Pump, Bittensor Governance Reset" [ref=e1616] [cursor=pointer]'
+                    - tooltip [ref=e1620]: More
+              - 'link "AI News: Majors Stall, Trending Tokens Pump, Bittensor Governance Reset - CoinMarketCap - 10 days ago" [ref=e1621] [cursor=pointer]':
+                - /url: ./read/CBMirwFBVV95cUxPeVN1azRReEIyME1hS1k0OXk4TlVFS19yOUtZUHZyS2MxdV9YdU5CS05QT2VGTUFVME1UWlRQVVdsUkRqV1FUZFdQTnp2MlFBZGNIMFRidWtubXVGbmZteUZtUGRvRTRwRHJqVElmd2VJUFl1RTFoSmQwb3YwaS15M0U0WEtkRHhfMnRDUzNDdlRJd25vbmphWkloZ2ZUMVBWc0V6TERSbi1QbXZzeEw4?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI News: Majors Stall, Trending Tokens Pump, Bittensor Governance Reset"
+            - figure [ref=e1622]
+          - time [ref=e1624]: 10 days ago
+      - generic [ref=e1625]:
+        - separator [ref=e1627]
+        - generic [ref=e1629]:
+          - generic [ref=e1630]:
+            - link [ref=e1632] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxQTjJobzhEeV9QTHpXeDZSNHhzQ1ROZURydUJfbkV5c3AybzI3YTJDTGYwamVUX3hwcXRib1c5T0c3aVRRak9jaXdNbDM0TmNjek9qdkJvVjJsVFgtbnNYX09LdkRiM3RsUjZtclRpb29TdzdJcEFydFJDUjBpcmdMNWx5QVE0clMtM2xZRVdfQzRQTm1vMDBnTTFXYmZXY0V0dDNTY3hR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1634]:
+              - generic [ref=e1635]:
+                - generic [ref=e1636]: Enterprise Times
+                - generic [ref=e1642]:
+                  - generic:
+                    - button "More - Security and AI news from the week beginning 29 June 2026 -" [ref=e1643] [cursor=pointer]
+                    - tooltip [ref=e1647]: More
+              - link "Security and AI news from the week beginning 29 June 2026 - - Enterprise Times - 12 days ago - By Ian Murphy" [ref=e1648] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxQTjJobzhEeV9QTHpXeDZSNHhzQ1ROZURydUJfbkV5c3AybzI3YTJDTGYwamVUX3hwcXRib1c5T0c3aVRRak9jaXdNbDM0TmNjek9qdkJvVjJsVFgtbnNYX09LdkRiM3RsUjZtclRpb29TdzdJcEFydFJDUjBpcmdMNWx5QVE0clMtM2xZRVdfQzRQTm1vMDBnTTFXYmZXY0V0dDNTY3hR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Security and AI news from the week beginning 29 June 2026 -
+            - figure [ref=e1649]
+          - generic [ref=e1650]:
+            - time [ref=e1651]: 12 days ago
+            - separator [ref=e1652]
+            - generic [ref=e1653]: By Ian Murphy
+      - generic [ref=e1654]:
+        - separator [ref=e1656]
+        - generic [ref=e1658]:
+          - generic [ref=e1659]:
+            - link [ref=e1661] [cursor=pointer]:
+              - /url: ./read/CBMiigFBVV95cUxOamRMSVNKeWN6YnVsbDlVa0ZBY294aURORzNxMnczdHRadlNtTFJzOW11aklJVjhmYW83X3BndEdsaUV1a1F6WjdrdDBGT2hteFRJajNzT1Ezbms3OG9udzZ4OEhQVDR0WGpESkpuNzM5ZF9XNEtuSkZTWjdmNXROZzN5UExJZ1NQeFE?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1663]:
+              - generic [ref=e1664]:
+                - generic [ref=e1665]: Pluang
+                - generic [ref=e1671]:
+                  - generic:
+                    - button "More - AI-focused ETF BAI drops 6% in a week amid risi..." [ref=e1672] [cursor=pointer]
+                    - tooltip [ref=e1676]: More
+              - link "AI-focused ETF BAI drops 6% in a week amid risi... - Pluang - 3 days ago" [ref=e1677] [cursor=pointer]:
+                - /url: ./read/CBMiigFBVV95cUxOamRMSVNKeWN6YnVsbDlVa0ZBY294aURORzNxMnczdHRadlNtTFJzOW11aklJVjhmYW83X3BndEdsaUV1a1F6WjdrdDBGT2hteFRJajNzT1Ezbms3OG9udzZ4OEhQVDR0WGpESkpuNzM5ZF9XNEtuSkZTWjdmNXROZzN5UExJZ1NQeFE?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI-focused ETF BAI drops 6% in a week amid risi...
+          - time [ref=e1679]: 3 days ago
+      - generic [ref=e1680]:
+        - separator [ref=e1682]
+        - generic [ref=e1684]:
+          - generic [ref=e1685]:
+            - link [ref=e1687] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1689]:
+              - generic [ref=e1690]:
+                - generic [ref=e1691]: BBC
+                - generic [ref=e1697]:
+                  - generic:
+                    - button "More - Meta pulls new AI image feature after days of backlash" [ref=e1698] [cursor=pointer]
+                    - tooltip [ref=e1702]: More
+              - link "Meta pulls new AI image feature after days of backlash - BBC - 7 days ago - By Kali Hays" [ref=e1703] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Meta pulls new AI image feature after days of backlash
+            - figure [ref=e1704]
+          - generic [ref=e1705]:
+            - time [ref=e1706]: 7 days ago
+            - separator [ref=e1707]
+            - generic [ref=e1708]: By Kali Hays
+      - generic [ref=e1709]:
+        - separator [ref=e1711]
+        - generic [ref=e1713]:
+          - generic [ref=e1714]:
+            - link [ref=e1716] [cursor=pointer]:
+              - /url: ./read/CBMigAFBVV95cUxOaEM5c2l1NGRfVGUyVnFOZnNfQ0lVcjI5a3JRbllybFRBaEdnd18zSDRkNGdLcXdrMUJfb0NBWXl0YnJmb0E3UkpUQVRORkp2OUNUa212UzlvSWhuSVhSN1ZoS0tSR3FNenpHdTNkS0RpSXUzOXo5dU4wNzRlQ3lWSw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1718]:
+              - generic [ref=e1719]:
+                - generic [ref=e1720]: Stanford Medicine
+                - generic [ref=e1726]:
+                  - generic:
+                    - button "More - The big ideas from Stanford Health AI week" [ref=e1727] [cursor=pointer]
+                    - tooltip [ref=e1731]: More
+              - link "The big ideas from Stanford Health AI week - Stanford Medicine - Jun 11 - By Hanae Armitage" [ref=e1732] [cursor=pointer]:
+                - /url: ./read/CBMigAFBVV95cUxOaEM5c2l1NGRfVGUyVnFOZnNfQ0lVcjI5a3JRbllybFRBaEdnd18zSDRkNGdLcXdrMUJfb0NBWXl0YnJmb0E3UkpUQVRORkp2OUNUa212UzlvSWhuSVhSN1ZoS0tSR3FNenpHdTNkS0RpSXUzOXo5dU4wNzRlQ3lWSw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The big ideas from Stanford Health AI week
+            - figure [ref=e1733]
+          - generic [ref=e1734]:
+            - time [ref=e1735]: Jun 11
+            - separator [ref=e1736]
+            - generic [ref=e1737]: By Hanae Armitage
+      - generic [ref=e1738]:
+        - separator [ref=e1740]
+        - generic [ref=e1742]:
+          - generic [ref=e1743]:
+            - link [ref=e1745] [cursor=pointer]:
+              - /url: ./read/CBMingFBVV95cUxPQ25sUS1WQXBKeGhoQTdPZ3JnTHMyYklyQzgtdHRGcDNIRnRiaHZldVYxZkZ3T2Vjd096cE90ZHE0bUpUWHlzRG5HSi1xQ0IxVFI0UGcxYW96WEhYdURtaHZGUlU5WVhFanRRNGNPRVFCQzJjODQwVE13akxmQk5pSjdKaG1uZDJJRUtOM1JKNFI2ZVhEbFV6TXJzbXllUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1747]:
+              - generic [ref=e1748]:
+                - generic [ref=e1749]: CoinMarketCap
+                - generic [ref=e1755]:
+                  - generic:
+                    - 'button "More - AI News: Agentic Frameworks Expand as Crypto AI Rebounds" [ref=e1756] [cursor=pointer]'
+                    - tooltip [ref=e1760]: More
+              - 'link "AI News: Agentic Frameworks Expand as Crypto AI Rebounds - CoinMarketCap - 8 days ago" [ref=e1761] [cursor=pointer]':
+                - /url: ./read/CBMingFBVV95cUxPQ25sUS1WQXBKeGhoQTdPZ3JnTHMyYklyQzgtdHRGcDNIRnRiaHZldVYxZkZ3T2Vjd096cE90ZHE0bUpUWHlzRG5HSi1xQ0IxVFI0UGcxYW96WEhYdURtaHZGUlU5WVhFanRRNGNPRVFCQzJjODQwVE13akxmQk5pSjdKaG1uZDJJRUtOM1JKNFI2ZVhEbFV6TXJzbXllUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI News: Agentic Frameworks Expand as Crypto AI Rebounds"
+            - figure [ref=e1762]
+          - time [ref=e1764]: 8 days ago
+      - generic [ref=e1765]:
+        - separator [ref=e1767]
+        - generic [ref=e1769]:
+          - generic [ref=e1770]:
+            - link [ref=e1772] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxPTTBPcVZRR18wV095LWJjWlB2aDNoanY3TU9vcTVIT1p5NkhZQ2d2cDBFU1luVm9nNzRId0tDd0ZudUVqVE9YdzhIaUpxS3VNUVZtcEVKd09xRzlWd0hhTFl4dFFNN1hDMWhjNER1MHJSYVk3MVAyeUxPQUE5VWpTX1JULUxxaWZCcHh0YmhjVUVYUVNNSGxwMFVKcHFsbTNKQk5ybUNNYkcxell1?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1774]:
+              - generic [ref=e1775]:
+                - generic [ref=e1776]: MarketingProfs
+                - generic [ref=e1782]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence - AI Update, May 8, 2026: AI News and Views From the Past Week" [ref=e1783] [cursor=pointer]'
+                    - tooltip [ref=e1787]: More
+              - 'link "Artificial Intelligence - AI Update, May 8, 2026: AI News and Views From the Past Week - MarketingProfs - May 8" [ref=e1788] [cursor=pointer]':
+                - /url: ./read/CBMirAFBVV95cUxPTTBPcVZRR18wV095LWJjWlB2aDNoanY3TU9vcTVIT1p5NkhZQ2d2cDBFU1luVm9nNzRId0tDd0ZudUVqVE9YdzhIaUpxS3VNUVZtcEVKd09xRzlWd0hhTFl4dFFNN1hDMWhjNER1MHJSYVk3MVAyeUxPQUE5VWpTX1JULUxxaWZCcHh0YmhjVUVYUVNNSGxwMFVKcHFsbTNKQk5ybUNNYkcxell1?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence - AI Update, May 8, 2026: AI News and Views From the Past Week"
+          - time [ref=e1790]: May 8
+      - generic [ref=e1791]:
+        - separator [ref=e1793]
+        - generic [ref=e1795]:
+          - generic [ref=e1796]:
+            - link [ref=e1798] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxOOVVpQ1MzVHF2YVJhdXRVVm14bUtKZkd4aW54ZmZQS1QyUEZ3Ty05ZDRPUVRZa2V5b0lPNERkLVB3NTlQaWxpeFljeUZzSVVBVnBKMEJ2emtJRm93NnFCdlFveGFtZkgzNDlXZXFPdXJGMGtvV1FjVVpSX1lRSk1EbjJTdk1JdkpBSTlhYzVEUmtlOTRlS0g1M2k1THk?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1800]:
+              - generic [ref=e1801]:
+                - generic [ref=e1802]: Solutions Review
+                - generic [ref=e1808]:
+                  - generic:
+                    - button "More - AI News for the Week of May 8; Updates from Anthropic, Cribl, IBM & More" [ref=e1809] [cursor=pointer]
+                    - tooltip [ref=e1813]: More
+              - link "AI News for the Week of May 8; Updates from Anthropic, Cribl, IBM & More - Solutions Review - May 8 - By Tim King" [ref=e1814] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxOOVVpQ1MzVHF2YVJhdXRVVm14bUtKZkd4aW54ZmZQS1QyUEZ3Ty05ZDRPUVRZa2V5b0lPNERkLVB3NTlQaWxpeFljeUZzSVVBVnBKMEJ2emtJRm93NnFCdlFveGFtZkgzNDlXZXFPdXJGMGtvV1FjVVpSX1lRSk1EbjJTdk1JdkpBSTlhYzVEUmtlOTRlS0g1M2k1THk?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of May 8; Updates from Anthropic, Cribl, IBM & More
+            - figure [ref=e1815]
+          - generic [ref=e1816]:
+            - time [ref=e1817]: May 8
+            - separator [ref=e1818]
+            - generic [ref=e1819]: By Tim King
+      - generic [ref=e1820]:
+        - separator [ref=e1822]
+        - generic [ref=e1824]:
+          - generic [ref=e1825]:
+            - link [ref=e1827] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxPa2g2Sm83c1pfT2MtY2Z1YU5fbHVnSGRibkVJNVE2VC0zY0Zhd1I5WDFBWDlxcXBFYlI0WEl5LXBhenN4b09hb0FhMFdmZVdZMWVkbnFqUF90ai1ndHlPUDFHRXdGWExaaUZNbkltOXVQd3JQSXBrbkJHaUxLeWpldi05NWpZUElGWktEQzJZeGJfRmR5TXB6d0h1VTljZjBrSUdqWFgyWWdfRG9r?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1829]:
+              - generic [ref=e1830]:
+                - generic [ref=e1831]: MarketingProfs
+                - generic [ref=e1837]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence - AI Update, May 1, 2026: AI News and Views From the Past Week" [ref=e1838] [cursor=pointer]'
+                    - tooltip [ref=e1842]: More
+              - 'link "Artificial Intelligence - AI Update, May 1, 2026: AI News and Views From the Past Week - MarketingProfs - May 1" [ref=e1843] [cursor=pointer]':
+                - /url: ./read/CBMirAFBVV95cUxPa2g2Sm83c1pfT2MtY2Z1YU5fbHVnSGRibkVJNVE2VC0zY0Zhd1I5WDFBWDlxcXBFYlI0WEl5LXBhenN4b09hb0FhMFdmZVdZMWVkbnFqUF90ai1ndHlPUDFHRXdGWExaaUZNbkltOXVQd3JQSXBrbkJHaUxLeWpldi05NWpZUElGWktEQzJZeGJfRmR5TXB6d0h1VTljZjBrSUdqWFgyWWdfRG9r?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence - AI Update, May 1, 2026: AI News and Views From the Past Week"
+          - time [ref=e1845]: May 1
+      - generic [ref=e1846]:
+        - separator [ref=e1848]
+        - generic [ref=e1850]:
+          - generic [ref=e1851]:
+            - link [ref=e1853] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxQMk85cjVOSkhnMmNvOElndWNBZFU0Q1VIMU5oWk9mM2NBSlB0MFlOZXpMZUZMSmtFQVAtcXZoXzh3TDhPMGF6eW8xWVh0T05rb3R0cVNwckVTSVRlcDMtSXk4TGxhcDV6ZjdLY25HTVNuN1BXQVlaTWdtREZ4eS00c3FlRy1rMFRWMEdMLUk4ekRSV3NDRmF0ZDBaY1hERmNqcHc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1855]:
+              - generic [ref=e1856]:
+                - generic [ref=e1857]: Nieman Lab
+                - generic [ref=e1863]:
+                  - generic:
+                    - button "More - The use of AI chatbots for news is on the rise — but not everywhere" [ref=e1864] [cursor=pointer]
+                    - tooltip [ref=e1868]: More
+              - link "The use of AI chatbots for news is on the rise — but not everywhere - Nieman Lab - Jun 23 - By Amy A. Ross Arguedas" [ref=e1869] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxQMk85cjVOSkhnMmNvOElndWNBZFU0Q1VIMU5oWk9mM2NBSlB0MFlOZXpMZUZMSmtFQVAtcXZoXzh3TDhPMGF6eW8xWVh0T05rb3R0cVNwckVTSVRlcDMtSXk4TGxhcDV6ZjdLY25HTVNuN1BXQVlaTWdtREZ4eS00c3FlRy1rMFRWMEdMLUk4ekRSV3NDRmF0ZDBaY1hERmNqcHc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: The use of AI chatbots for news is on the rise — but not everywhere
+            - figure [ref=e1870]
+          - generic [ref=e1871]:
+            - time [ref=e1872]: Jun 23
+            - separator [ref=e1873]
+            - generic [ref=e1874]: By Amy A. Ross Arguedas
+      - generic [ref=e1875]:
+        - separator [ref=e1877]
+        - generic [ref=e1879]:
+          - generic [ref=e1880]:
+            - link [ref=e1882] [cursor=pointer]:
+              - /url: ./read/CBMipgFBVV95cUxPSVMyQTgzUjlFNXlXR1p4c29uVktYMUNMUTRRXzBTeGs1YnVJOXNxbElqMEw2anhqMEJKOW9BMnpqVWpxelF3eDRwU2Q3M1pXZjdkOEliNUZCeU13YUUwWEwtc3R6dEFWbE12TUxUN2FxdWYybkpEOGNfa0Y1Q2c4MzZYeFJDTEIxZTZNZ2dXWFFDOGFTa2JFellaSW9yX3JLU2o0Z1hB?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1884]:
+              - generic [ref=e1885]:
+                - generic [ref=e1886]: Enterprise Times
+                - generic [ref=e1892]:
+                  - generic:
+                    - button "More - Security and AI news from the week beginning 15 June 2026 -" [ref=e1893] [cursor=pointer]
+                    - tooltip [ref=e1897]: More
+              - link "Security and AI news from the week beginning 15 June 2026 - - Enterprise Times - Jun 22 - By Ian Murphy" [ref=e1898] [cursor=pointer]:
+                - /url: ./read/CBMipgFBVV95cUxPSVMyQTgzUjlFNXlXR1p4c29uVktYMUNMUTRRXzBTeGs1YnVJOXNxbElqMEw2anhqMEJKOW9BMnpqVWpxelF3eDRwU2Q3M1pXZjdkOEliNUZCeU13YUUwWEwtc3R6dEFWbE12TUxUN2FxdWYybkpEOGNfa0Y1Q2c4MzZYeFJDTEIxZTZNZ2dXWFFDOGFTa2JFellaSW9yX3JLU2o0Z1hB?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Security and AI news from the week beginning 15 June 2026 -
+            - figure [ref=e1899]
+          - generic [ref=e1900]:
+            - time [ref=e1901]: Jun 22
+            - separator [ref=e1902]
+            - generic [ref=e1903]: By Ian Murphy
+      - generic [ref=e1904]:
+        - separator [ref=e1906]
+        - generic [ref=e1908]:
+          - generic [ref=e1909]:
+            - link [ref=e1911] [cursor=pointer]:
+              - /url: ./read/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1913]:
+              - generic [ref=e1914]:
+                - generic [ref=e1915]: Politico
+                - generic [ref=e1921]:
+                  - generic:
+                    - button "More - Trump promised to bring order to AI oversight. That lasted 2 weeks." [ref=e1922] [cursor=pointer]
+                    - tooltip [ref=e1926]: More
+              - link "Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico - Jun 15 - By Brendan Bordelon, Gabby Miller & Cheyenne Haslett" [ref=e1927] [cursor=pointer]:
+                - /url: ./read/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump promised to bring order to AI oversight. That lasted 2 weeks.
+            - figure [ref=e1928]
+          - generic [ref=e1929]:
+            - time [ref=e1930]: Jun 15
+            - separator [ref=e1931]
+            - generic [ref=e1932]: By Brendan Bordelon, Gabby Miller & Cheyenne Haslett
+      - generic [ref=e1933]:
+        - separator [ref=e1935]
+        - generic [ref=e1937]:
+          - generic [ref=e1938]:
+            - link [ref=e1940] [cursor=pointer]:
+              - /url: ./read/CBMirAFBVV95cUxQV0FUcGl5ZVBOSllvMWd5WmZnbFctM0Rac1R6c19NWWtHN3BLaWlEZ013R0N2ejFxMFBBcEhjb2VNVHQzMURiQW40clFQM2hZdXZ5ajVxQmNjYmJEcWhCTEpGU0lBMkk0Q21BUkpOWlJLOW9KZWltS1lZM1p1eFdPUHFUTmdjSi1laXRKYmQ4YmFCWGxRU0lORHd1X1E3V1lhUGoxQzIyaEZRcXkx?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1942]:
+              - generic [ref=e1943]:
+                - generic [ref=e1944]: CoinMarketCap
+                - generic [ref=e1950]:
+                  - generic:
+                    - 'button "More - AI News: TAO Price Predictions Soar While New AI Agent Tools Emerge" [ref=e1951] [cursor=pointer]'
+                    - tooltip [ref=e1955]: More
+              - 'link "AI News: TAO Price Predictions Soar While New AI Agent Tools Emerge - CoinMarketCap - 12 days ago" [ref=e1956] [cursor=pointer]':
+                - /url: ./read/CBMirAFBVV95cUxQV0FUcGl5ZVBOSllvMWd5WmZnbFctM0Rac1R6c19NWWtHN3BLaWlEZ013R0N2ejFxMFBBcEhjb2VNVHQzMURiQW40clFQM2hZdXZ5ajVxQmNjYmJEcWhCTEpGU0lBMkk0Q21BUkpOWlJLOW9KZWltS1lZM1p1eFdPUHFUTmdjSi1laXRKYmQ4YmFCWGxRU0lORHd1X1E3V1lhUGoxQzIyaEZRcXkx?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI News: TAO Price Predictions Soar While New AI Agent Tools Emerge"
+            - figure [ref=e1957]
+          - time [ref=e1959]: 12 days ago
+      - generic [ref=e1960]:
+        - separator [ref=e1962]
+        - generic [ref=e1964]:
+          - generic [ref=e1965]:
+            - link [ref=e1967] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxQTWU1MW9TRTR3LWZWLWRRTU1nREZBXzRTVmNmWWUtU1hNcWp1YjEyMU83MHE4bk84Y01UOS1KUFpFd2VUUjNOYmdQZkJhM29uX2NIcFNIdGgzcDg2SVFPRXB3dGVuaUhGaTJPUV9fdGxtOFdoNkp5NHpNbUdNM0hhaTE2T0U0M0RPQmo3Um5IS3RQd2E5akZmN2MzTi01enFRZzA5OTl5bXFTMVBxR0E?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1969]:
+              - generic [ref=e1970]:
+                - generic [ref=e1971]: reutersinstitute.politics.ox.ac.uk
+                - generic [ref=e1977]:
+                  - generic:
+                    - 'button "More - From weeks of work to days: How I rebuilt two data journalism projects with AI" [ref=e1978] [cursor=pointer]'
+                    - tooltip [ref=e1982]: More
+              - 'link "From weeks of work to days: How I rebuilt two data journalism projects with AI - reutersinstitute.politics.ox.ac.uk - Jun 26 - By Jacopo Ottaviani" [ref=e1983] [cursor=pointer]':
+                - /url: ./read/CBMirgFBVV95cUxQTWU1MW9TRTR3LWZWLWRRTU1nREZBXzRTVmNmWWUtU1hNcWp1YjEyMU83MHE4bk84Y01UOS1KUFpFd2VUUjNOYmdQZkJhM29uX2NIcFNIdGgzcDg2SVFPRXB3dGVuaUhGaTJPUV9fdGxtOFdoNkp5NHpNbUdNM0hhaTE2T0U0M0RPQmo3Um5IS3RQd2E5akZmN2MzTi01enFRZzA5OTl5bXFTMVBxR0E?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "From weeks of work to days: How I rebuilt two data journalism projects with AI"
+            - figure [ref=e1984]
+          - generic [ref=e1985]:
+            - time [ref=e1986]: Jun 26
+            - separator [ref=e1987]
+            - generic [ref=e1988]: By Jacopo Ottaviani
+      - generic [ref=e1989]:
+        - separator [ref=e1991]
+        - generic [ref=e1993]:
+          - generic [ref=e1994]:
+            - link [ref=e1996] [cursor=pointer]:
+              - /url: ./read/CBMibEFVX3lxTFB1alVkWUFfV1NIXzJpY0ZrMWhnb0pwUWJELVJfZFZ6M3NYYWdfZDY5NHZNOEQ1RDdNb2ZyNEtuMjIzcFNsY3Axa2p5bE5MNHdSbFV4elBjQmJLWExkVzFnQ1FWeVdrQXc0YWdaNA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e1998]:
+              - generic [ref=e1999]:
+                - generic [ref=e2000]: University at Buffalo
+                - generic [ref=e2006]:
+                  - generic:
+                    - button "More - UB hosts national AI leaders this week" [ref=e2007] [cursor=pointer]
+                    - tooltip [ref=e2011]: More
+              - link "UB hosts national AI leaders this week - University at Buffalo - Jun 1" [ref=e2012] [cursor=pointer]:
+                - /url: ./read/CBMibEFVX3lxTFB1alVkWUFfV1NIXzJpY0ZrMWhnb0pwUWJELVJfZFZ6M3NYYWdfZDY5NHZNOEQ1RDdNb2ZyNEtuMjIzcFNsY3Axa2p5bE5MNHdSbFV4elBjQmJLWExkVzFnQ1FWeVdrQXc0YWdaNA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: UB hosts national AI leaders this week
+          - time [ref=e2014]: Jun 1
+      - generic [ref=e2015]:
+        - separator [ref=e2017]
+        - generic [ref=e2019]:
+          - generic [ref=e2020]:
+            - link [ref=e2022] [cursor=pointer]:
+              - /url: ./read/CBMinAFBVV95cUxOeVpTT2lFYUlrUzBPUHN0eDYxTmFxTUFFWDd3WU1iY0NDMmN3clZuVzRZTk14dG5qc0MyMklacDFQbEFXRGdUVWpjcWNpejQwYUt0bzNGMkZ4bGdnRkFkdDJpMXVxY1E0Wmp0VGNzZWZrX0I5SExHQmRBTUppVFRHVFE5T2VoN0M2SzdzSDNDLV9VeHcxV2QzVl9zSFI?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2024]:
+              - generic [ref=e2025]:
+                - generic [ref=e2026]: Solutions Review
+                - generic [ref=e2032]:
+                  - generic:
+                    - button "More - AI News for the Week of May 1; Updates from IBM, Lumai.ai, NVIDIA & More" [ref=e2033] [cursor=pointer]
+                    - tooltip [ref=e2037]: More
+              - link "AI News for the Week of May 1; Updates from IBM, Lumai.ai, NVIDIA & More - Solutions Review - May 1 - By Tim King" [ref=e2038] [cursor=pointer]:
+                - /url: ./read/CBMinAFBVV95cUxOeVpTT2lFYUlrUzBPUHN0eDYxTmFxTUFFWDd3WU1iY0NDMmN3clZuVzRZTk14dG5qc0MyMklacDFQbEFXRGdUVWpjcWNpejQwYUt0bzNGMkZ4bGdnRkFkdDJpMXVxY1E0Wmp0VGNzZWZrX0I5SExHQmRBTUppVFRHVFE5T2VoN0M2SzdzSDNDLV9VeHcxV2QzVl9zSFI?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of May 1; Updates from IBM, Lumai.ai, NVIDIA & More
+            - figure [ref=e2039]
+          - generic [ref=e2040]:
+            - time [ref=e2041]: May 1
+            - separator [ref=e2042]
+            - generic [ref=e2043]: By Tim King
+      - generic [ref=e2044]:
+        - separator [ref=e2046]
+        - generic [ref=e2048]:
+          - generic [ref=e2049]:
+            - link [ref=e2051] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxPSTNPOEZpUC10M3BuMjJtX3lxNWhubEJHMWY5dEx6bXN3TzVfR1VlOHRqRG12VjFzZF9zQzMxSjIzeERZWG4yQXZuOXNNWV9ndmZseUhmRXNoZFh5TTNfNFVzWDVfOXdzN1ozbl9mdThHS0hfQ1FHeHBsUmVOa3BYd25PUFZUSVdFVnZBcldwRkZoM21vX3BYMWdySjJRSnJUTjdoaTNKYVlwZlIwNURzYQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2053]:
+              - generic [ref=e2054]:
+                - generic [ref=e2055]: MarketingProfs
+                - generic [ref=e2061]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence - AI Update, April 10, 2026: AI News and Views From the Past Week" [ref=e2062] [cursor=pointer]'
+                    - tooltip [ref=e2066]: More
+              - 'link "Artificial Intelligence - AI Update, April 10, 2026: AI News and Views From the Past Week - MarketingProfs - Apr 10" [ref=e2067] [cursor=pointer]':
+                - /url: ./read/CBMisAFBVV95cUxPSTNPOEZpUC10M3BuMjJtX3lxNWhubEJHMWY5dEx6bXN3TzVfR1VlOHRqRG12VjFzZF9zQzMxSjIzeERZWG4yQXZuOXNNWV9ndmZseUhmRXNoZFh5TTNfNFVzWDVfOXdzN1ozbl9mdThHS0hfQ1FHeHBsUmVOa3BYd25PUFZUSVdFVnZBcldwRkZoM21vX3BYMWdySjJRSnJUTjdoaTNKYVlwZlIwNURzYQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence - AI Update, April 10, 2026: AI News and Views From the Past Week"
+            - figure [ref=e2068]
+          - time [ref=e2070]: Apr 10
+      - generic [ref=e2071]:
+        - separator [ref=e2073]
+        - generic [ref=e2075]:
+          - generic [ref=e2076]:
+            - link [ref=e2078] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxNSEhyRlNONDRfbFM3ck05bzBLV21KdmhRRFdvN0tTaVZNOTZWYUtURmNRbHliVk5HTC1vQ1FudUMyX1c4YkVUWlZRQzVYMUtkaDNwTV82alRrQWM5clRQWDd5WGZlNDR5dHZYbXdXNDVDZ1ZRc201eXd4amgzbDVhVWRvNmE2LXk3YWJlM2tYT01ZRlJLV1ZWcFBVSU1EYzFpc0tQRUpIWGdHNGJyZXl0bA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2080]:
+              - generic [ref=e2081]:
+                - generic [ref=e2082]: Solutions Review
+                - generic [ref=e2088]:
+                  - generic:
+                    - button "More - AI News for the Week of June 12; Updates from Accenture, Boomi, Linux Foundation & More" [ref=e2089] [cursor=pointer]
+                    - tooltip [ref=e2093]: More
+              - link "AI News for the Week of June 12; Updates from Accenture, Boomi, Linux Foundation & More - Solutions Review - Jun 12 - By Tim King" [ref=e2094] [cursor=pointer]:
+                - /url: ./read/CBMisAFBVV95cUxNSEhyRlNONDRfbFM3ck05bzBLV21KdmhRRFdvN0tTaVZNOTZWYUtURmNRbHliVk5HTC1vQ1FudUMyX1c4YkVUWlZRQzVYMUtkaDNwTV82alRrQWM5clRQWDd5WGZlNDR5dHZYbXdXNDVDZ1ZRc201eXd4amgzbDVhVWRvNmE2LXk3YWJlM2tYT01ZRlJLV1ZWcFBVSU1EYzFpc0tQRUpIWGdHNGJyZXl0bA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of June 12; Updates from Accenture, Boomi, Linux Foundation & More
+            - figure [ref=e2095]
+          - generic [ref=e2096]:
+            - time [ref=e2097]: Jun 12
+            - separator [ref=e2098]
+            - generic [ref=e2099]: By Tim King
+      - generic [ref=e2100]:
+        - separator [ref=e2102]
+        - generic [ref=e2104]:
+          - generic [ref=e2105]:
+            - link [ref=e2107] [cursor=pointer]:
+              - /url: ./read/CBMirgFBVV95cUxNZzluYjlOekF6SkQtd3lwd2ZkQ2JEUTVFMUNJV3p3QURSbFFJenVrUzVOaDNkbGQxUzlVQ2VaWjVZc2FqZGpHNWxaYVVhQTNsdlpoM3JGeUJGZWRzR0RzSnBNSXYtUXRaXzVDRXZzVDAxZFVxcTY5R1RFbmdHcExwQzFGeXhSQ0RuNzM0ZGVMa25udWV1cm5TbHlzWWxpNjlPSjJ5MS1fN3p6Nlc4VXc?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2109]:
+              - generic [ref=e2110]:
+                - generic [ref=e2111]: MarketingProfs
+                - generic [ref=e2117]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence - AI Update, May 29, 2026: AI News and Views From the Past Week" [ref=e2118] [cursor=pointer]'
+                    - tooltip [ref=e2122]: More
+              - 'link "Artificial Intelligence - AI Update, May 29, 2026: AI News and Views From the Past Week - MarketingProfs - May 29" [ref=e2123] [cursor=pointer]':
+                - /url: ./read/CBMirgFBVV95cUxNZzluYjlOekF6SkQtd3lwd2ZkQ2JEUTVFMUNJV3p3QURSbFFJenVrUzVOaDNkbGQxUzlVQ2VaWjVZc2FqZGpHNWxaYVVhQTNsdlpoM3JGeUJGZWRzR0RzSnBNSXYtUXRaXzVDRXZzVDAxZFVxcTY5R1RFbmdHcExwQzFGeXhSQ0RuNzM0ZGVMa25udWV1cm5TbHlzWWxpNjlPSjJ5MS1fN3p6Nlc4VXc?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence - AI Update, May 29, 2026: AI News and Views From the Past Week"
+            - figure [ref=e2124]
+          - time [ref=e2126]: May 29
+      - generic [ref=e2127]:
+        - separator [ref=e2129]
+        - generic [ref=e2131]:
+          - generic [ref=e2132]:
+            - link [ref=e2134] [cursor=pointer]:
+              - /url: ./read/CBMiuwFBVV95cUxOVzdtdE9RaUN2WHEyUlZObVhSRXEtb2htTWpUcnRZUzJOcFIzemlNZ21zNFFxTXhlXzR3UXZGNkdTOVB5WTJHRm1ZaXNCWmljRnRSZ2JucU9PbnFQNmJwajJHZWJNMzZGaWJvZk5oZC15c25DNjBvY3VoT2VvMml4RDVaLXV2aFZZY0F1VldVV1RDZWVVUGl5dkFqZ25kbUhEajZCLXdsMXVMU2pobHNueVVZVzg0Q01FOUFR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2136]:
+              - generic [ref=e2137]:
+                - generic [ref=e2138]: IAPP
+                - generic [ref=e2144]:
+                  - generic:
+                    - 'button "More - Thought for the week: US government order forces commercial suspension of two frontier AI models" [ref=e2145] [cursor=pointer]'
+                    - tooltip [ref=e2149]: More
+              - 'link "Thought for the week: US government order forces commercial suspension of two frontier AI models - IAPP - Jun 15 - By Brian Hengesbaugh" [ref=e2150] [cursor=pointer]':
+                - /url: ./read/CBMiuwFBVV95cUxOVzdtdE9RaUN2WHEyUlZObVhSRXEtb2htTWpUcnRZUzJOcFIzemlNZ21zNFFxTXhlXzR3UXZGNkdTOVB5WTJHRm1ZaXNCWmljRnRSZ2JucU9PbnFQNmJwajJHZWJNMzZGaWJvZk5oZC15c25DNjBvY3VoT2VvMml4RDVaLXV2aFZZY0F1VldVV1RDZWVVUGl5dkFqZ25kbUhEajZCLXdsMXVMU2pobHNueVVZVzg0Q01FOUFR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Thought for the week: US government order forces commercial suspension of two frontier AI models"
+            - figure [ref=e2151]
+          - generic [ref=e2152]:
+            - time [ref=e2153]: Jun 15
+            - separator [ref=e2154]
+            - generic [ref=e2155]: By Brian Hengesbaugh
+      - generic [ref=e2156]:
+        - separator [ref=e2158]
+        - generic [ref=e2160]:
+          - generic [ref=e2161]:
+            - link [ref=e2163] [cursor=pointer]:
+              - /url: ./read/CBMikwFBVV95cUxQSW1RNG9DVXF6dWxnc3lZakEzMENWQWQ5a3FaM1duWUJGdDdoWDRwVk9UT2M1aFVZdzNnZVNuUHdCanFiQmdOcHp0X1kzR0FTbUp6NXJOeVNYN3VrMkgybk1fQl9vTXZsODA0V2txMTlyN0VxS1M0UzZTbEh4ZUdyWjItY0JtVHNrcGd2UlJzZUFzMzQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2165]:
+              - generic [ref=e2166]:
+                - generic [ref=e2167]: Politico
+                - generic [ref=e2173]:
+                  - generic:
+                    - button "More - Trump to meet with artificial intelligence companies on government profit share plan as soon as next week" [ref=e2174] [cursor=pointer]
+                    - tooltip [ref=e2178]: More
+              - link "Trump to meet with artificial intelligence companies on government profit share plan as soon as next week - Politico - Jun 5 - By Cheyenne Haslett & Megan Messerly" [ref=e2179] [cursor=pointer]:
+                - /url: ./read/CBMikwFBVV95cUxQSW1RNG9DVXF6dWxnc3lZakEzMENWQWQ5a3FaM1duWUJGdDdoWDRwVk9UT2M1aFVZdzNnZVNuUHdCanFiQmdOcHp0X1kzR0FTbUp6NXJOeVNYN3VrMkgybk1fQl9vTXZsODA0V2txMTlyN0VxS1M0UzZTbEh4ZUdyWjItY0JtVHNrcGd2UlJzZUFzMzQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump to meet with artificial intelligence companies on government profit share plan as soon as next week
+            - figure [ref=e2180]
+          - generic [ref=e2181]:
+            - time [ref=e2182]: Jun 5
+            - separator [ref=e2183]
+            - generic [ref=e2184]: By Cheyenne Haslett & Megan Messerly
+      - generic [ref=e2185]:
+        - separator [ref=e2187]
+        - generic [ref=e2189]:
+          - generic [ref=e2190]:
+            - link [ref=e2192] [cursor=pointer]:
+              - /url: ./read/CBMifEFVX3lxTFBBVE1BZ2ZCYXlOb2JST2d5RGNpTlI4WTBmOGx4cnVubXpJVTBOdlYwWmUwZVpQM09kaFIteW1iMUFsZ0NCNkc0R1dvN0xTYnkwVjRuNnB3SExaTTFEYVd6U3NhM1JWOWlKRjFMRFl5SWFpOUhTZnpVbUNDeVI?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2194]:
+              - generic [ref=e2195]:
+                - generic [ref=e2196]: Electrek
+                - generic [ref=e2202]:
+                  - generic:
+                    - button "More - Tesla caps employee AI spending at $200/week except for Grok" [ref=e2203] [cursor=pointer]
+                    - tooltip [ref=e2207]: More
+              - link "Tesla caps employee AI spending at $200/week except for Grok - Electrek - 16 days ago - By Fred Lambert" [ref=e2208] [cursor=pointer]:
+                - /url: ./read/CBMifEFVX3lxTFBBVE1BZ2ZCYXlOb2JST2d5RGNpTlI4WTBmOGx4cnVubXpJVTBOdlYwWmUwZVpQM09kaFIteW1iMUFsZ0NCNkc0R1dvN0xTYnkwVjRuNnB3SExaTTFEYVd6U3NhM1JWOWlKRjFMRFl5SWFpOUhTZnpVbUNDeVI?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Tesla caps employee AI spending at $200/week except for Grok
+            - figure [ref=e2209]
+          - generic [ref=e2210]:
+            - time [ref=e2211]: 16 days ago
+            - separator [ref=e2212]
+            - generic [ref=e2213]: By Fred Lambert
+      - generic [ref=e2214]:
+        - separator [ref=e2216]
+        - generic [ref=e2218]:
+          - generic [ref=e2219]:
+            - link [ref=e2221] [cursor=pointer]:
+              - /url: ./read/CBMilwFBVV95cUxQZmpMMENqeC1wX0c1eC1XRk1TTnZUZE52UFM4V3p0VVczd0FoTzJmZmNjaVZ1Q1JZaDhKbkZsUTFraXVudGQ3SlZpbHJMMTdhWERfZEZtUV9IT29Gb3JXYlZKMWotNjh0UGkzQnpxWF9wd1U5UE1FbnBpNW1lVThCeGN3Y2oyWFEyWTBkWTFhc2pnZUNhT2ZZ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2223]:
+              - generic [ref=e2224]:
+                - generic [ref=e2225]: Solutions Review
+                - generic [ref=e2231]:
+                  - generic:
+                    - button "More - AI News for the Week of May 15; Updates from HPE, NVIDIA, SAP & More" [ref=e2232] [cursor=pointer]
+                    - tooltip [ref=e2236]: More
+              - link "AI News for the Week of May 15; Updates from HPE, NVIDIA, SAP & More - Solutions Review - May 15 - By Tim King" [ref=e2237] [cursor=pointer]:
+                - /url: ./read/CBMilwFBVV95cUxQZmpMMENqeC1wX0c1eC1XRk1TTnZUZE52UFM4V3p0VVczd0FoTzJmZmNjaVZ1Q1JZaDhKbkZsUTFraXVudGQ3SlZpbHJMMTdhWERfZEZtUV9IT29Gb3JXYlZKMWotNjh0UGkzQnpxWF9wd1U5UE1FbnBpNW1lVThCeGN3Y2oyWFEyWTBkWTFhc2pnZUNhT2ZZ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of May 15; Updates from HPE, NVIDIA, SAP & More
+            - figure [ref=e2238]
+          - generic [ref=e2239]:
+            - time [ref=e2240]: May 15
+            - separator [ref=e2241]
+            - generic [ref=e2242]: By Tim King
+      - generic [ref=e2243]:
+        - separator [ref=e2245]
+        - generic [ref=e2247]:
+          - generic [ref=e2248]:
+            - link [ref=e2250] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxQc2M1bUIyZnMtM0k0YWpoTHZlRDFOTllXa1RLNlBLN2pOR2UxVTAxRENPRmV1RVNaUXpnUjNCdE1oZ3d6elZadEdrdUNSUTJDLU9xLXExNW1xMDYweW5jWlU0NWxFR3hyNXNxTjRiclM1bzZ0aEVDcjFKQkh5TUJhN2xTMFZwVC1PTU9KX0xEOGNlWlBLcmw0cGJXNlVHSDJnRTNncHcwS2VnS1ZYdHRV?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2252]:
+              - generic [ref=e2253]:
+                - generic [ref=e2254]: MarketingProfs
+                - generic [ref=e2260]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence - AI Update, June 12, 2026: AI News and Views From the Past Week" [ref=e2261] [cursor=pointer]'
+                    - tooltip [ref=e2265]: More
+              - 'link "Artificial Intelligence - AI Update, June 12, 2026: AI News and Views From the Past Week - MarketingProfs - Jun 12" [ref=e2266] [cursor=pointer]':
+                - /url: ./read/CBMirwFBVV95cUxQc2M1bUIyZnMtM0k0YWpoTHZlRDFOTllXa1RLNlBLN2pOR2UxVTAxRENPRmV1RVNaUXpnUjNCdE1oZ3d6elZadEdrdUNSUTJDLU9xLXExNW1xMDYweW5jWlU0NWxFR3hyNXNxTjRiclM1bzZ0aEVDcjFKQkh5TUJhN2xTMFZwVC1PTU9KX0xEOGNlWlBLcmw0cGJXNlVHSDJnRTNncHcwS2VnS1ZYdHRV?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence - AI Update, June 12, 2026: AI News and Views From the Past Week"
+          - time [ref=e2268]: Jun 12
+      - generic [ref=e2269]:
+        - separator [ref=e2271]
+        - generic [ref=e2273]:
+          - generic [ref=e2274]:
+            - link [ref=e2276] [cursor=pointer]:
+              - /url: ./read/CBMiqgFBVV95cUxOaWRoMXdkcDI2NXZYOFN1WUFIejZZbzBFNWN6MzVyVy10eFU3UEVtR1pSQTl6RHdYdXJFQTlqZlk5S3dRaXR3MHY3cGZhMXVFUkdCYl9RM3dmdzFSeFBSMkgxcVl0cFFlWDJPT1c0dE9mZWZLWXNsa0h4dVQwN1VuaGVBMFJ2Y1ZLRkVQNjJhdGtIbkRUTzJFRHlUZEhIWUVqbDNZd3ByU1lqUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2278]:
+              - generic [ref=e2279]:
+                - generic [ref=e2280]: Crunchbase News
+                - generic [ref=e2286]:
+                  - generic:
+                    - 'button "More - The Week’s 10 Biggest Funding Rounds: World-Model Startup Odyssey Leads With $310M In Slower Week For Large Deals" [ref=e2287] [cursor=pointer]'
+                    - tooltip [ref=e2291]: More
+              - 'link "The Week’s 10 Biggest Funding Rounds: World-Model Startup Odyssey Leads With $310M In Slower Week For Large Deals - Crunchbase News - Jun 18 - By Marlize Van Romburgh" [ref=e2292] [cursor=pointer]':
+                - /url: ./read/CBMiqgFBVV95cUxOaWRoMXdkcDI2NXZYOFN1WUFIejZZbzBFNWN6MzVyVy10eFU3UEVtR1pSQTl6RHdYdXJFQTlqZlk5S3dRaXR3MHY3cGZhMXVFUkdCYl9RM3dmdzFSeFBSMkgxcVl0cFFlWDJPT1c0dE9mZWZLWXNsa0h4dVQwN1VuaGVBMFJ2Y1ZLRkVQNjJhdGtIbkRUTzJFRHlUZEhIWUVqbDNZd3ByU1lqUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The Week’s 10 Biggest Funding Rounds: World-Model Startup Odyssey Leads With $310M In Slower Week For Large Deals"
+          - generic [ref=e2293]:
+            - time [ref=e2294]: Jun 18
+            - separator [ref=e2295]
+            - generic [ref=e2296]: By Marlize Van Romburgh
+      - generic [ref=e2297]:
+        - separator [ref=e2299]
+        - generic [ref=e2301]:
+          - generic [ref=e2302]:
+            - link [ref=e2304] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxQMmhlTHE0OC1sWFR0N1Y0OE1Lbkl3dXpocUhzaHpseDZWZFdHY2I2bzgwMm1nZG1zRTMyMlduSDc0UVZ0c2VBX1ByV2NCOXN5amh3dDJzX1lJVnJnVHJrRVpBa3hPYnc3dmM2alhQenEySlFuRmdZOHV1TXZTeGRnazhzQlV1czJaRVJDT2ZXY2U2Z1pJRzhRYmhxUElVdlVHY3BlVg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2306]:
+              - generic [ref=e2307]:
+                - generic [ref=e2308]: Solutions Review
+                - generic [ref=e2314]:
+                  - generic:
+                    - button "More - AI News for the Week of June 5; Updates from Cisco, Pinecone, Snowflake & More" [ref=e2315] [cursor=pointer]
+                    - tooltip [ref=e2319]: More
+              - link "AI News for the Week of June 5; Updates from Cisco, Pinecone, Snowflake & More - Solutions Review - Jun 5 - By Tim King" [ref=e2320] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxQMmhlTHE0OC1sWFR0N1Y0OE1Lbkl3dXpocUhzaHpseDZWZFdHY2I2bzgwMm1nZG1zRTMyMlduSDc0UVZ0c2VBX1ByV2NCOXN5amh3dDJzX1lJVnJnVHJrRVpBa3hPYnc3dmM2alhQenEySlFuRmdZOHV1TXZTeGRnazhzQlV1czJaRVJDT2ZXY2U2Z1pJRzhRYmhxUElVdlVHY3BlVg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI News for the Week of June 5; Updates from Cisco, Pinecone, Snowflake & More
+            - figure [ref=e2321]
+          - generic [ref=e2322]:
+            - time [ref=e2323]: Jun 5
+            - separator [ref=e2324]
+            - generic [ref=e2325]: By Tim King
+      - generic [ref=e2326]:
+        - separator [ref=e2328]
+        - generic [ref=e2330]:
+          - generic [ref=e2331]:
+            - link [ref=e2333] [cursor=pointer]:
+              - /url: ./read/CBMi-wFBVV95cUxQMWxGMTJwc1lGVUowdncyLVdFQW5xSmQxbmUwMGxQRW1XcHRtMkxJcEdtczBVdFpGOWNXTDdySlFuckhpTU5SRkJsdXlMaU1YcG9HMk96YjhQUDJPNV9iT3FIRHozV1ZzbzZVQklYdU1xTDNTT3UxcHVSb2hRblF4bjQ1eWFDbjlpLVRjMVZvbkd1dXdTc19lY0tTeWgteW1tdnVhOHk0Vzg5RC1mckhFOUJBbXE2TmdnRG9Ec0lIRVBScDBERmV3WW5WRE1wRzNhREk2S0lLTmUwS0VESU1aZks0dHRGNFRObjVucWpmczVrSUxnVEJRa09NRQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2335]:
+              - generic [ref=e2336]:
+                - generic [ref=e2337]: U.S. News & World Report
+                - generic [ref=e2343]:
+                  - generic:
+                    - button "More - SpaceX Buys AI Coding Startup Cursor for $60 Billion in Race for an Edge Over Anthropic and OpenAI" [ref=e2344] [cursor=pointer]
+                    - tooltip [ref=e2348]: More
+              - link "SpaceX Buys AI Coding Startup Cursor for $60 Billion in Race for an Edge Over Anthropic and OpenAI - U.S. News &amp; World Report - Jun 16 - By Eric Gay" [ref=e2349] [cursor=pointer]:
+                - /url: ./read/CBMi-wFBVV95cUxQMWxGMTJwc1lGVUowdncyLVdFQW5xSmQxbmUwMGxQRW1XcHRtMkxJcEdtczBVdFpGOWNXTDdySlFuckhpTU5SRkJsdXlMaU1YcG9HMk96YjhQUDJPNV9iT3FIRHozV1ZzbzZVQklYdU1xTDNTT3UxcHVSb2hRblF4bjQ1eWFDbjlpLVRjMVZvbkd1dXdTc19lY0tTeWgteW1tdnVhOHk0Vzg5RC1mckhFOUJBbXE2TmdnRG9Ec0lIRVBScDBERmV3WW5WRE1wRzNhREk2S0lLTmUwS0VESU1aZks0dHRGNFRObjVucWpmczVrSUxnVEJRa09NRQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: SpaceX Buys AI Coding Startup Cursor for $60 Billion in Race for an Edge Over Anthropic and OpenAI
+            - figure [ref=e2350]
+          - generic [ref=e2351]:
+            - time [ref=e2352]: Jun 16
+            - separator [ref=e2353]
+            - generic [ref=e2354]: By Eric Gay
+      - generic [ref=e2355]:
+        - separator [ref=e2357]
+        - generic [ref=e2359]:
+          - generic [ref=e2360]:
+            - link [ref=e2362] [cursor=pointer]:
+              - /url: ./read/CBMiWkFVX3lxTFBUV1ZWWDF4dFZRckFhZTNFOHlHckZDY1FHaDRtSWFadW5uYWd0TkE4dC1lVkV1c3RBZ3N4eWZfcjIwTjl6WkFCY09PcHh1dkVNeGRnNkhqU0xwZw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2364]:
+              - generic [ref=e2365]:
+                - generic [ref=e2366]: BBC
+                - generic [ref=e2372]:
+                  - generic:
+                    - button "More - Trump to meet AI leaders to discuss US investment in their companies" [ref=e2373] [cursor=pointer]
+                    - tooltip [ref=e2377]: More
+              - link "Trump to meet AI leaders to discuss US investment in their companies - BBC - Jun 5 - By Kali Hays" [ref=e2378] [cursor=pointer]:
+                - /url: ./read/CBMiWkFVX3lxTFBUV1ZWWDF4dFZRckFhZTNFOHlHckZDY1FHaDRtSWFadW5uYWd0TkE4dC1lVkV1c3RBZ3N4eWZfcjIwTjl6WkFCY09PcHh1dkVNeGRnNkhqU0xwZw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump to meet AI leaders to discuss US investment in their companies
+            - figure [ref=e2379]
+          - generic [ref=e2380]:
+            - time [ref=e2381]: Jun 5
+            - separator [ref=e2382]
+            - generic [ref=e2383]: By Kali Hays
+      - generic [ref=e2384]:
+        - separator [ref=e2386]
+        - generic [ref=e2388]:
+          - generic [ref=e2389]:
+            - link [ref=e2391] [cursor=pointer]:
+              - /url: ./read/CBMiaEFVX3lxTE5ieGhaYWR6N0VpY2RJR2dyeUhjQVNkM2tWNkNBWjViQXMwYXZLQlVOQURWRVFGVkhucmVrSmhrVmlhank1S3hBRnBVeE5mUE1TNEtxSEYxX1VFSjQyWm9qMDU3YUQtMEpT?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2393]:
+              - generic [ref=e2394]:
+                - generic [ref=e2395]: The Week
+                - generic [ref=e2401]:
+                  - generic:
+                    - button "More - Who’s afraid of AI?" [ref=e2402] [cursor=pointer]
+                    - tooltip [ref=e2406]: More
+              - link "Who’s afraid of AI? - The Week - May 23" [ref=e2407] [cursor=pointer]:
+                - /url: ./read/CBMiaEFVX3lxTE5ieGhaYWR6N0VpY2RJR2dyeUhjQVNkM2tWNkNBWjViQXMwYXZLQlVOQURWRVFGVkhucmVrSmhrVmlhank1S3hBRnBVeE5mUE1TNEtxSEYxX1VFSjQyWm9qMDU3YUQtMEpT?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Who’s afraid of AI?
+            - figure [ref=e2408]
+          - time [ref=e2410]: May 23
+      - generic [ref=e2411]:
+        - separator [ref=e2413]
+        - generic [ref=e2415]:
+          - generic [ref=e2416]:
+            - link [ref=e2418] [cursor=pointer]:
+              - /url: ./read/CBMidEFVX3lxTE1vZ2drellEbDVFaXBIeE01ZGNmd3pBZUVqQzBJQUp6eHNiTkFLeWlXbGV4RlZqSmN4TEhqQVBhaFFWbHZSdnVkcnhneFJMRUVoVUNRd1hCQ21yNW5mSGJPcUotdXpZZ2pPR2FRWFBJSEZZZHBR?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2420]:
+              - generic [ref=e2421]:
+                - generic [ref=e2422]: Global News
+                - generic [ref=e2428]:
+                  - generic:
+                    - button "More - Sinking AI stocks leading Wall Street towards a losing week" [ref=e2429] [cursor=pointer]
+                    - tooltip [ref=e2433]: More
+              - link "Sinking AI stocks leading Wall Street towards a losing week - Global News - Jun 26 - By Stan Choe, Elaine Kurtenbach & Matthew Ott" [ref=e2434] [cursor=pointer]:
+                - /url: ./read/CBMidEFVX3lxTE1vZ2drellEbDVFaXBIeE01ZGNmd3pBZUVqQzBJQUp6eHNiTkFLeWlXbGV4RlZqSmN4TEhqQVBhaFFWbHZSdnVkcnhneFJMRUVoVUNRd1hCQ21yNW5mSGJPcUotdXpZZ2pPR2FRWFBJSEZZZHBR?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Sinking AI stocks leading Wall Street towards a losing week
+            - figure [ref=e2435]
+          - generic [ref=e2436]:
+            - time [ref=e2437]: Jun 26
+            - separator [ref=e2438]
+            - generic [ref=e2439]: By Stan Choe, Elaine Kurtenbach & Matthew Ott
+      - generic [ref=e2440]:
+        - separator [ref=e2442]
+        - generic [ref=e2444]:
+          - generic [ref=e2445]:
+            - link [ref=e2447] [cursor=pointer]:
+              - /url: ./read/CBMihwFBVV95cUxQQ3B6Wkt3X3YtbUZDVlJMZnJWNGpNQ19nUlhpTlEtaGhUQXRyZFN0X3BmdURKaGJuUk9yWGZlMFh1ZjlzOE1McWRTZy1PMm9nRzZWckNmb3EyaGlJRGE3RDM5WHlwU0VaRkN5ZDFLTWhkSnZWWFpGMHNKeTJLQmI5akJyQldtZDA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2449]:
+              - generic [ref=e2450]:
+                - generic [ref=e2451]: Politico
+                - generic [ref=e2457]:
+                  - generic:
+                    - button "More - Trump finds an AI policy he can live with" [ref=e2458] [cursor=pointer]
+                    - tooltip [ref=e2462]: More
+              - link "Trump finds an AI policy he can live with - Politico - Jun 2 - By Sophia Cai, Aaron Mak & Cheyenne Haslett" [ref=e2463] [cursor=pointer]:
+                - /url: ./read/CBMihwFBVV95cUxQQ3B6Wkt3X3YtbUZDVlJMZnJWNGpNQ19nUlhpTlEtaGhUQXRyZFN0X3BmdURKaGJuUk9yWGZlMFh1ZjlzOE1McWRTZy1PMm9nRzZWckNmb3EyaGlJRGE3RDM5WHlwU0VaRkN5ZDFLTWhkSnZWWFpGMHNKeTJLQmI5akJyQldtZDA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Trump finds an AI policy he can live with
+            - figure [ref=e2464]
+          - generic [ref=e2465]:
+            - time [ref=e2466]: Jun 2
+            - separator [ref=e2467]
+            - generic [ref=e2468]: By Sophia Cai, Aaron Mak & Cheyenne Haslett
+      - generic [ref=e2469]:
+        - separator [ref=e2471]
+        - generic [ref=e2473]:
+          - generic [ref=e2474]:
+            - link [ref=e2476] [cursor=pointer]:
+              - /url: ./read/CBMicEFVX3lxTE1RVXVXU1RfclVwNlQ3OWtVb3ZIR3pOQk9sUlBQa1hNRHVaU2kxeUpXZjh0NThWR3p4Z04wYWRsdHg0YjF5MU1CdHllV1NaNlNIb1pLcFExS0d0Y3pLb0Rzb3lBSHRwbjQ0MVpmUVJTYUg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2478]:
+              - generic [ref=e2479]:
+                - generic [ref=e2480]: VatorNews
+                - generic [ref=e2486]:
+                  - generic:
+                    - 'button "More - Top AI news of the week #55: Advsr AI Spotlight" [ref=e2487] [cursor=pointer]'
+                    - tooltip [ref=e2491]: More
+              - 'link "Top AI news of the week #55: Advsr AI Spotlight - VatorNews - Jun 16" [ref=e2492] [cursor=pointer]':
+                - /url: ./read/CBMicEFVX3lxTE1RVXVXU1RfclVwNlQ3OWtVb3ZIR3pOQk9sUlBQa1hNRHVaU2kxeUpXZjh0NThWR3p4Z04wYWRsdHg0YjF5MU1CdHllV1NaNlNIb1pLcFExS0d0Y3pLb0Rzb3lBSHRwbjQ0MVpmUVJTYUg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Top AI news of the week #55: Advsr AI Spotlight"
+          - time [ref=e2494]: Jun 16
+      - generic [ref=e2495]:
+        - separator [ref=e2497]
+        - generic [ref=e2499]:
+          - generic [ref=e2500]:
+            - link [ref=e2502] [cursor=pointer]:
+              - /url: ./read/CBMiV0FVX3lxTE5ySXpGdjBhT2pSSGhWeUluXzBpcWpsQjJuOWtHSEpRUzlhZ25xY3VCTUtmVFV5MnJWeU82OVVyMXBkWml4M0FBY2c2ckxoNnVDMng2STRYUQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2504]:
+              - generic [ref=e2505]:
+                - generic [ref=e2506]: UN News
+                - generic [ref=e2512]:
+                  - generic:
+                    - button "More - Time to apply the brakes to runaway AI, says pioneer" [ref=e2513] [cursor=pointer]
+                    - tooltip [ref=e2517]: More
+              - link "Time to apply the brakes to runaway AI, says pioneer - UN News - Apr 22" [ref=e2518] [cursor=pointer]:
+                - /url: ./read/CBMiV0FVX3lxTE5ySXpGdjBhT2pSSGhWeUluXzBpcWpsQjJuOWtHSEpRUzlhZ25xY3VCTUtmVFV5MnJWeU82OVVyMXBkWml4M0FBY2c2ckxoNnVDMng2STRYUQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Time to apply the brakes to runaway AI, says pioneer
+            - figure [ref=e2519]
+          - time [ref=e2521]: Apr 22
+      - generic [ref=e2522]:
+        - separator [ref=e2524]
+        - generic [ref=e2526]:
+          - generic [ref=e2527]:
+            - link [ref=e2529] [cursor=pointer]:
+              - /url: ./read/CBMirwFBVV95cUxNVm0wVW5FZUplRFV1RHZFWjN1THZXZkFkeXdVdlAtTlgxVUotbUVDX19TcFpod0pCb21QWjRHWWxGTnN3THRZQUxZSXQ2WnI4eVNfaU9PNnFIcTk0MjRVX25MUHgwSjZ1djlwaEF5VC00bmFmUGZKSUplalhPUUtwUEJLZG5hUk5zZU9taTQzMFQyMnM1TWZZU2piRHRiZXZUMmNTZzgzVWR5VmZwR3pv?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2531]:
+              - generic [ref=e2532]:
+                - generic [ref=e2533]: Imperial College London
+                - generic [ref=e2539]:
+                  - generic:
+                    - button "More - NVIDIA UK Physical AI & Robotics Roundtable" [ref=e2540] [cursor=pointer]
+                    - tooltip [ref=e2544]: More
+              - link "NVIDIA UK Physical AI & Robotics Roundtable - Imperial College London - Jun 29" [ref=e2545] [cursor=pointer]:
+                - /url: ./read/CBMirwFBVV95cUxNVm0wVW5FZUplRFV1RHZFWjN1THZXZkFkeXdVdlAtTlgxVUotbUVDX19TcFpod0pCb21QWjRHWWxGTnN3THRZQUxZSXQ2WnI4eVNfaU9PNnFIcTk0MjRVX25MUHgwSjZ1djlwaEF5VC00bmFmUGZKSUplalhPUUtwUEJLZG5hUk5zZU9taTQzMFQyMnM1TWZZU2piRHRiZXZUMmNTZzgzVWR5VmZwR3pv?hl=en-US&gl=US&ceid=US%3Aen
+                - text: NVIDIA UK Physical AI & Robotics Roundtable
+            - figure [ref=e2546]
+          - time [ref=e2548]: Jun 29
+      - generic [ref=e2549]:
+        - separator [ref=e2551]
+        - generic [ref=e2553]:
+          - generic [ref=e2554]:
+            - link [ref=e2556] [cursor=pointer]:
+              - /url: ./read/CBMiwAFBVV95cUxPZFNpYUkzcUw5U1B5X0pUbGMzbVhTZEw0aXV3ZDdfd1V4dHpGYW5faTRSTGx6OFk1QmZCSmd3cVIwSFNuREVGVXd6a0tNaGYtNzF3Rnp2VlRBVWJrblc0dUV1NEhYWEZiRW9nblp3WTRSWS1CY1U3amV4dTFxR3dvN1hSTEFUQkk3eWJudjhScFk5TjVCOUZsR0RrSGp3REhQemRUSjhXeVI4UTZhamZWMmt0aExDbW5KbXpKZWNlOVY?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2558]:
+              - generic [ref=e2559]:
+                - generic [ref=e2560]: Forbes
+                - generic [ref=e2566]:
+                  - generic:
+                    - button "More - OpenAI Just Proposed A 4-Day Work Week (What April’s AI News Means For You)" [ref=e2567] [cursor=pointer]
+                    - tooltip [ref=e2571]: More
+              - link "OpenAI Just Proposed A 4-Day Work Week (What April’s AI News Means For You) - Forbes - Apr 28 - By Jodie Cook" [ref=e2572] [cursor=pointer]:
+                - /url: ./read/CBMiwAFBVV95cUxPZFNpYUkzcUw5U1B5X0pUbGMzbVhTZEw0aXV3ZDdfd1V4dHpGYW5faTRSTGx6OFk1QmZCSmd3cVIwSFNuREVGVXd6a0tNaGYtNzF3Rnp2VlRBVWJrblc0dUV1NEhYWEZiRW9nblp3WTRSWS1CY1U3amV4dTFxR3dvN1hSTEFUQkk3eWJudjhScFk5TjVCOUZsR0RrSGp3REhQemRUSjhXeVI4UTZhamZWMmt0aExDbW5KbXpKZWNlOVY?hl=en-US&gl=US&ceid=US%3Aen
+                - text: OpenAI Just Proposed A 4-Day Work Week (What April’s AI News Means For You)
+            - figure [ref=e2573]
+          - generic [ref=e2574]:
+            - time [ref=e2575]: Apr 28
+            - separator [ref=e2576]
+            - generic [ref=e2577]: By Jodie Cook
+      - generic [ref=e2578]:
+        - separator [ref=e2580]
+        - generic [ref=e2582]:
+          - generic [ref=e2583]:
+            - link [ref=e2585] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxQZnBGNkNpVlJmOWRRSTFOVDB2QXVvYUJDRDB6WDNQM2NmMlRWc0Mtb2xBTnRSWTRPWnZuc3YzTWRoSlowRGpjejdyNFNFbzlVNE1TaUV1ZU84dFZwVWE1X1E5REEweFRHRzdUSTZ5b2RxVFZDaGNBZFY2SEZWdGpwSE9jZVNhSFhnakhWYTk2OGtfeWZESTVkTVRqdzI5ejZkNXI3MGpZZW5iZGEtbnJfOA?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2587]:
+              - generic [ref=e2588]:
+                - generic [ref=e2589]: MarketingProfs
+                - generic [ref=e2595]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence - AI Update, April 17, 2026: AI News and Views From the Past Week" [ref=e2596] [cursor=pointer]'
+                    - tooltip [ref=e2600]: More
+              - 'link "Artificial Intelligence - AI Update, April 17, 2026: AI News and Views From the Past Week - MarketingProfs - Apr 17" [ref=e2601] [cursor=pointer]':
+                - /url: ./read/CBMisAFBVV95cUxQZnBGNkNpVlJmOWRRSTFOVDB2QXVvYUJDRDB6WDNQM2NmMlRWc0Mtb2xBTnRSWTRPWnZuc3YzTWRoSlowRGpjejdyNFNFbzlVNE1TaUV1ZU84dFZwVWE1X1E5REEweFRHRzdUSTZ5b2RxVFZDaGNBZFY2SEZWdGpwSE9jZVNhSFhnakhWYTk2OGtfeWZESTVkTVRqdzI5ejZkNXI3MGpZZW5iZGEtbnJfOA?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence - AI Update, April 17, 2026: AI News and Views From the Past Week"
+          - time [ref=e2603]: Apr 17
+      - generic [ref=e2604]:
+        - separator [ref=e2606]
+        - generic [ref=e2608]:
+          - generic [ref=e2609]:
+            - link [ref=e2611] [cursor=pointer]:
+              - /url: ./read/CBMilAFBVV95cUxOTk56ZkgzR0tyRzhaSUtXODBPMWtIdW04WUNsWXljTkhDM1F1V29aOXFNbFlndXZRYzV3blU3MkJEdHlyeHh3b09sVGp2dDVaVF9YNkVJczAxSXdQaEwzcDRIMl9HLVdqbVpQV2ZfOHJMbmRHU2RUbk5WNHM5SUh0cXBOdVpxelVrSzZ0ZVlENWZMa2Vo?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2613]:
+              - generic [ref=e2614]:
+                - generic [ref=e2615]: AP News
+                - generic [ref=e2621]:
+                  - generic:
+                    - button "More - Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago" [ref=e2622] [cursor=pointer]
+                    - tooltip [ref=e2626]: More
+              - link "Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago - AP News - Jun 10 - By Stan Choe" [ref=e2627] [cursor=pointer]:
+                - /url: ./read/CBMilAFBVV95cUxOTk56ZkgzR0tyRzhaSUtXODBPMWtIdW04WUNsWXljTkhDM1F1V29aOXFNbFlndXZRYzV3blU3MkJEdHlyeHh3b09sVGp2dDVaVF9YNkVJczAxSXdQaEwzcDRIMl9HLVdqbVpQV2ZfOHJMbmRHU2RUbk5WNHM5SUh0cXBOdVpxelVrSzZ0ZVlENWZMa2Vo?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago
+            - figure [ref=e2628]
+          - generic [ref=e2629]:
+            - time [ref=e2630]: Jun 10
+            - separator [ref=e2631]
+            - generic [ref=e2632]: By Stan Choe
+      - generic [ref=e2633]:
+        - separator [ref=e2635]
+        - generic [ref=e2637]:
+          - generic [ref=e2638]:
+            - link [ref=e2640] [cursor=pointer]:
+              - /url: ./read/CBMihAFBVV95cUxOLUJUWXQxWWlpcUdDa3h1WGJtOFNiSEt5eHpsZUY0bkx2VEFDNkdxZV9ZZGhsZ2IzZmVKa2lmT3ZHTDU3b1RLVVhqdjFWdkIzSGNnVlBJWGswSEpVSjVwYldnWVg0SW1MYUJ4M3VqVTRkM2JzWkhrUm5URERCdnl0NWdnZmQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2642]:
+              - generic [ref=e2643]:
+                - generic [ref=e2644]: AI Magazine
+                - generic [ref=e2650]:
+                  - generic:
+                    - 'button "More - Anthropic, SpaceX and Meta: This Week''s Top Stories in AI" [ref=e2651] [cursor=pointer]'
+                    - tooltip [ref=e2655]: More
+              - 'link "Anthropic, SpaceX and Meta: This Week''s Top Stories in AI - AI Magazine - Jun 20" [ref=e2656] [cursor=pointer]':
+                - /url: ./read/CBMihAFBVV95cUxOLUJUWXQxWWlpcUdDa3h1WGJtOFNiSEt5eHpsZUY0bkx2VEFDNkdxZV9ZZGhsZ2IzZmVKa2lmT3ZHTDU3b1RLVVhqdjFWdkIzSGNnVlBJWGswSEpVSjVwYldnWVg0SW1MYUJ4M3VqVTRkM2JzWkhrUm5URERCdnl0NWdnZmQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Anthropic, SpaceX and Meta: This Week's Top Stories in AI"
+            - figure [ref=e2657]
+          - time [ref=e2659]: Jun 20
+      - generic [ref=e2660]:
+        - separator [ref=e2662]
+        - generic [ref=e2664]:
+          - generic [ref=e2665]:
+            - link [ref=e2667] [cursor=pointer]:
+              - /url: ./read/CBMitwFBVV95cUxPRm56YUk2cUw5VUYwTjV0YmhJQTFrMkZUaWlMdFhOR1BvVFhqNW5FVmlnbWVXQjR2OU56V0RlVXc2SUNiQ0E2a2xWa3BsMnF3MGJrMXphOTNmMmhTSVFVNGphdWJaM2stZFhBcURyQV9LeUdTZ0FUSkVMVzRBRUNwSk0xWVN2TVpkWHhqVC1ZLUhVWkJXcFQ4bnRKbXV3UHNQS0N5VU15US1wa05uMEdKZjJxc2c0TjDSAbwBQVVfeXFMT2VNUmRXRW9Oa3dXVHhjZ3VWUUFUSnUtOWt5bXEzMGJEOS1VZFpra1NOV0hZMlVLQzlyUnlZZ0puZVhaNFB4VWVINUk1MzE5ZlpVT2VhY1owTFVJaFo2VzBpUFlBalI3a2lBd3hvRF8tU0FiTGVKNFhQY0dfWlJIQl9EUlB5cmdObkNNQVd1R2E4TUxiRmhvazFHNjhuQnVnVFowS29yUzN4bXUySk5pckFvNUdIMWppNGNtU18?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2669]:
+              - generic [ref=e2670]:
+                - generic [ref=e2671]: ETF Trends
+                - generic [ref=e2677]:
+                  - generic:
+                    - 'button "More - AI News You Need to Know — June Edition: Capex, Inference, & Beyond" [ref=e2678] [cursor=pointer]'
+                    - tooltip [ref=e2682]: More
+              - 'link "AI News You Need to Know — June Edition: Capex, Inference, & Beyond - ETF Trends - Jun 3 - By Zeno Mercer" [ref=e2683] [cursor=pointer]':
+                - /url: ./read/CBMitwFBVV95cUxPRm56YUk2cUw5VUYwTjV0YmhJQTFrMkZUaWlMdFhOR1BvVFhqNW5FVmlnbWVXQjR2OU56V0RlVXc2SUNiQ0E2a2xWa3BsMnF3MGJrMXphOTNmMmhTSVFVNGphdWJaM2stZFhBcURyQV9LeUdTZ0FUSkVMVzRBRUNwSk0xWVN2TVpkWHhqVC1ZLUhVWkJXcFQ4bnRKbXV3UHNQS0N5VU15US1wa05uMEdKZjJxc2c0TjDSAbwBQVVfeXFMT2VNUmRXRW9Oa3dXVHhjZ3VWUUFUSnUtOWt5bXEzMGJEOS1VZFpra1NOV0hZMlVLQzlyUnlZZ0puZVhaNFB4VWVINUk1MzE5ZlpVT2VhY1owTFVJaFo2VzBpUFlBalI3a2lBd3hvRF8tU0FiTGVKNFhQY0dfWlJIQl9EUlB5cmdObkNNQVd1R2E4TUxiRmhvazFHNjhuQnVnVFowS29yUzN4bXUySk5pckFvNUdIMWppNGNtU18?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "AI News You Need to Know — June Edition: Capex, Inference, & Beyond"
+            - figure [ref=e2684]
+          - generic [ref=e2685]:
+            - time [ref=e2686]: Jun 3
+            - separator [ref=e2687]
+            - generic [ref=e2688]: By Zeno Mercer
+      - generic [ref=e2689]:
+        - separator [ref=e2691]
+        - generic [ref=e2693]:
+          - generic [ref=e2694]:
+            - link [ref=e2696] [cursor=pointer]:
+              - /url: ./read/CBMiogFBVV95cUxPaUNFVGYyWVJiQTJpeWZtWVRQalR1bE9mSVFXbDYxemxTMHNnWDhzMThMSWdNQjgxcHg1RGk2V01KLWx5bHgzM2tySExabmdobk1ENUZ6aGI2d29YQ1V0S2ltUjFZYmxCV1ItSWxzQzg5Q242Z2l0MHJJX0VmNHRuaFFJbklCLVB6RVZaS2ZibE9qcmlIRGhlanpGWU5Mem45a3c?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2698]:
+              - generic [ref=e2699]:
+                - generic [ref=e2700]: Federal News Network
+                - generic [ref=e2706]:
+                  - generic:
+                    - button "More - CISA close to issuing new cyber AI directive" [ref=e2707] [cursor=pointer]
+                    - tooltip [ref=e2711]: More
+              - link "CISA close to issuing new cyber AI directive - Federal News Network - Jun 4 - By Jason Miller" [ref=e2712] [cursor=pointer]:
+                - /url: ./read/CBMiogFBVV95cUxPaUNFVGYyWVJiQTJpeWZtWVRQalR1bE9mSVFXbDYxemxTMHNnWDhzMThMSWdNQjgxcHg1RGk2V01KLWx5bHgzM2tySExabmdobk1ENUZ6aGI2d29YQ1V0S2ltUjFZYmxCV1ItSWxzQzg5Q242Z2l0MHJJX0VmNHRuaFFJbklCLVB6RVZaS2ZibE9qcmlIRGhlanpGWU5Mem45a3c?hl=en-US&gl=US&ceid=US%3Aen
+                - text: CISA close to issuing new cyber AI directive
+            - figure [ref=e2713]
+          - generic [ref=e2714]:
+            - time [ref=e2715]: Jun 4
+            - separator [ref=e2716]
+            - generic [ref=e2717]: By Jason Miller
+      - generic [ref=e2718]:
+        - separator [ref=e2720]
+        - generic [ref=e2722]:
+          - generic [ref=e2723]:
+            - link [ref=e2725] [cursor=pointer]:
+              - /url: ./read/CBMiSEFVX3lxTFA1cUtwV0lOLXAwU18ybWI2NVRDLUd3VmQwd0hUeTlwZW53WmdPaEZYdGxDaWJoZjNVR3pTTGE5dnAtWFFkcHoxTw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2727]:
+              - generic [ref=e2728]:
+                - generic [ref=e2729]: Cisco Blogs
+                - generic [ref=e2735]:
+                  - generic:
+                    - 'button "More - 8 Years of Security Research in 8 Weeks: Transforming Cybersecurity with AI" [ref=e2736] [cursor=pointer]'
+                    - tooltip [ref=e2740]: More
+              - 'link "8 Years of Security Research in 8 Weeks: Transforming Cybersecurity with AI - Cisco Blogs - Jun 2 - By Anthony Grieco" [ref=e2741] [cursor=pointer]':
+                - /url: ./read/CBMiSEFVX3lxTFA1cUtwV0lOLXAwU18ybWI2NVRDLUd3VmQwd0hUeTlwZW53WmdPaEZYdGxDaWJoZjNVR3pTTGE5dnAtWFFkcHoxTw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "8 Years of Security Research in 8 Weeks: Transforming Cybersecurity with AI"
+            - figure [ref=e2742]
+          - generic [ref=e2743]:
+            - time [ref=e2744]: Jun 2
+            - separator [ref=e2745]
+            - generic [ref=e2746]: By Anthony Grieco
+      - generic [ref=e2747]:
+        - separator [ref=e2749]
+        - generic [ref=e2751]:
+          - generic [ref=e2752]:
+            - link [ref=e2754] [cursor=pointer]:
+              - /url: ./read/CBMisAFBVV95cUxPdzdROFJVam8xb05Mb09zSnpuU0duZGtGM2QwR1k3T2g2UEVscXBDeWZyZURSaVQxSFRNaUoxQVdfOWhrWTcxc3ZjTmxQVTY2SzRuU0szZmd1b1NXZ3E4Ql9xNURlc3dFNzJiTTZoWndoamh1aFZESWFSR1NEZEpJTm9VLUdKMTd0Q0w2QmhtSlNxNUlEZF90Y3dtS0toMEYtc1prSkRWOVNONUtYY0diMw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2756]:
+              - generic [ref=e2757]:
+                - generic [ref=e2758]: MarketingProfs
+                - generic [ref=e2764]:
+                  - generic:
+                    - 'button "More - Artificial Intelligence - AI Update, March 13, 2026: AI News and Views From the Past Week" [ref=e2765] [cursor=pointer]'
+                    - tooltip [ref=e2769]: More
+              - 'link "Artificial Intelligence - AI Update, March 13, 2026: AI News and Views From the Past Week - MarketingProfs - Mar 13" [ref=e2770] [cursor=pointer]':
+                - /url: ./read/CBMisAFBVV95cUxPdzdROFJVam8xb05Mb09zSnpuU0duZGtGM2QwR1k3T2g2UEVscXBDeWZyZURSaVQxSFRNaUoxQVdfOWhrWTcxc3ZjTmxQVTY2SzRuU0szZmd1b1NXZ3E4Ql9xNURlc3dFNzJiTTZoWndoamh1aFZESWFSR1NEZEpJTm9VLUdKMTd0Q0w2QmhtSlNxNUlEZF90Y3dtS0toMEYtc1prSkRWOVNONUtYY0diMw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Artificial Intelligence - AI Update, March 13, 2026: AI News and Views From the Past Week"
+            - figure [ref=e2771]
+          - time [ref=e2773]: Mar 13
+      - generic [ref=e2774]:
+        - separator [ref=e2776]
+        - generic [ref=e2778]:
+          - generic [ref=e2779]:
+            - link [ref=e2781] [cursor=pointer]:
+              - /url: ./read/CBMipAFBVV95cUxNODdkaHVoOGNwVWZJTTlqZnFaR0lOWWI4eEFZajZvTEFieHFteUZ3ank3Szl6Wm1jSXl6YVFtd2xKcGhlOTRfZWhvWFgxLTNnX0JOOWFRSUFvTlBfeXdhdnNVZjRILW5HdDhOTG5weGVDLXEzekFGYTJLZmZsdmdza1NQMmUyX3JjZVdYX1o4UTluUXVJaVZvNDlQc2Y2eHhyUVJSTg?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2783]:
+              - generic [ref=e2784]:
+                - generic [ref=e2785]: PBS
+                - generic [ref=e2791]:
+                  - generic:
+                    - button "More - Anthropic disables new AI model after White House security directive" [ref=e2792] [cursor=pointer]
+                    - tooltip [ref=e2796]: More
+              - link "Anthropic disables new AI model after White House security directive - PBS - Jun 16 - By Jackson Hudgins & Stephanie Sy" [ref=e2797] [cursor=pointer]:
+                - /url: ./read/CBMipAFBVV95cUxNODdkaHVoOGNwVWZJTTlqZnFaR0lOWWI4eEFZajZvTEFieHFteUZ3ank3Szl6Wm1jSXl6YVFtd2xKcGhlOTRfZWhvWFgxLTNnX0JOOWFRSUFvTlBfeXdhdnNVZjRILW5HdDhOTG5weGVDLXEzekFGYTJLZmZsdmdza1NQMmUyX3JjZVdYX1o4UTluUXVJaVZvNDlQc2Y2eHhyUVJSTg?hl=en-US&gl=US&ceid=US%3Aen
+                - text: Anthropic disables new AI model after White House security directive
+            - figure [ref=e2798]
+          - generic [ref=e2799]:
+            - time [ref=e2800]: Jun 16
+            - separator [ref=e2801]
+            - generic [ref=e2802]: By Jackson Hudgins & Stephanie Sy
+      - generic [ref=e2803]:
+        - separator [ref=e2805]
+        - generic [ref=e2807]:
+          - generic [ref=e2808]:
+            - link [ref=e2810] [cursor=pointer]:
+              - /url: ./read/CBMijwFBVV95cUxPc01URURGQkhVWVRWVHdxMzdCa1pHR1hORUtLdzJ0eHlVSF9Od0NfYUpaRWpzV2puTjZvQUE3UV9qWmxuMlNPWWpINldJelNna2t5UTFIZ1JnSUhkUmVaRDJLWUNIZFJZY19XcUFld0pzMEl3OWV3RnZmcC1PUHFYMS1HUHZwSXJmdS01a2s0WQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2812]:
+              - generic [ref=e2813]:
+                - generic [ref=e2814]: Axios
+                - generic [ref=e2820]:
+                  - generic:
+                    - 'button "More - Axios C-Suite: 3 new AI developments for the week of June 6" [ref=e2821] [cursor=pointer]'
+                    - tooltip [ref=e2825]: More
+              - 'link "Axios C-Suite: 3 new AI developments for the week of June 6 - Axios - Jun 8" [ref=e2826] [cursor=pointer]':
+                - /url: ./read/CBMijwFBVV95cUxPc01URURGQkhVWVRWVHdxMzdCa1pHR1hORUtLdzJ0eHlVSF9Od0NfYUpaRWpzV2puTjZvQUE3UV9qWmxuMlNPWWpINldJelNna2t5UTFIZ1JnSUhkUmVaRDJLWUNIZFJZY19XcUFld0pzMEl3OWV3RnZmcC1PUHFYMS1HUHZwSXJmdS01a2s0WQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "Axios C-Suite: 3 new AI developments for the week of June 6"
+            - figure [ref=e2827]
+          - time [ref=e2829]: Jun 8
+      - generic [ref=e2830]:
+        - separator [ref=e2832]
+        - generic [ref=e2834]:
+          - generic [ref=e2835]:
+            - link [ref=e2837] [cursor=pointer]:
+              - /url: ./read/CBMi5wFBVV95cUxNdnNxVlNLX0dwMGhaaWRZZmZyaHU3anA2SmNDdmFYN00xV2NoOWllM3pVSEljTXJONERsZUMwZUlnTUNfbi1vcXFVd29RYWoyV3dLZjlVYnJvWHRKdUlWMURXcUVsNWx4M09FZVRjVkV3aHpSbUhQTTdEMWNfLXdXX2EyVmFiOTVQX1Y5WjJVV1U4eEFoVzRpYmlBZ3pQcEhIdmhhT1JQTEZLSC1ZUjhLR0EwQlFpd21HTlFTTDFzTjJLRE10bGVjRndnb2dFRm1GZHJBOTJuMUVRT194b3ExOGszbEJGYWs?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2839]:
+              - generic [ref=e2840]:
+                - generic [ref=e2841]: Inside Housing
+                - generic [ref=e2847]:
+                  - generic:
+                    - 'button "More - The Week in Housing: new AI survey, London Plan and service charge regime, plus ombudsman appointment delayed" [ref=e2848] [cursor=pointer]'
+                    - tooltip [ref=e2852]: More
+              - 'link "The Week in Housing: new AI survey, London Plan and service charge regime, plus ombudsman appointment delayed - Inside Housing - Yesterday - By Stephen Delahunty" [ref=e2853] [cursor=pointer]':
+                - /url: ./read/CBMi5wFBVV95cUxNdnNxVlNLX0dwMGhaaWRZZmZyaHU3anA2SmNDdmFYN00xV2NoOWllM3pVSEljTXJONERsZUMwZUlnTUNfbi1vcXFVd29RYWoyV3dLZjlVYnJvWHRKdUlWMURXcUVsNWx4M09FZVRjVkV3aHpSbUhQTTdEMWNfLXdXX2EyVmFiOTVQX1Y5WjJVV1U4eEFoVzRpYmlBZ3pQcEhIdmhhT1JQTEZLSC1ZUjhLR0EwQlFpd21HTlFTTDFzTjJLRE10bGVjRndnb2dFRm1GZHJBOTJuMUVRT194b3ExOGszbEJGYWs?hl=en-US&gl=US&ceid=US%3Aen
+                - text: "The Week in Housing: new AI survey, London Plan and service charge regime, plus ombudsman appointment delayed"
+            - figure [ref=e2854]
+          - generic [ref=e2855]:
+            - time [ref=e2856]: Yesterday
+            - separator [ref=e2857]
+            - generic [ref=e2858]: By Stephen Delahunty
+      - generic [ref=e2859]:
+        - separator [ref=e2861]
+        - generic [ref=e2863]:
+          - generic [ref=e2864]:
+            - link [ref=e2866] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTE5VYnNYaE5fdFVuZGZiZ08tQnN2NmFmVlRqWkJHeUFpbFJucVVlQTFNLUM2dEhUVWdPUHdHSFR1c2RVZXR1dF9WZVBNdXF5aDNEZ2VWYjE3bVFJMkJldndPdV9UU0k3SlUyV0VHTlB4c1Q0VEtZUmNsTmlHWV92QQ?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2868]:
+              - generic [ref=e2869]:
+                - generic [ref=e2870]: AI Magazine
+                - generic [ref=e2876]:
+                  - generic:
+                    - button "More - This Week's Top Five Stories in AI" [ref=e2877] [cursor=pointer]
+                    - tooltip [ref=e2881]: More
+              - link "This Week's Top Five Stories in AI - AI Magazine - Jun 13 - By Diya Joseph" [ref=e2882] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTE5VYnNYaE5fdFVuZGZiZ08tQnN2NmFmVlRqWkJHeUFpbFJucVVlQTFNLUM2dEhUVWdPUHdHSFR1c2RVZXR1dF9WZVBNdXF5aDNEZ2VWYjE3bVFJMkJldndPdV9UU0k3SlUyV0VHTlB4c1Q0VEtZUmNsTmlHWV92QQ?hl=en-US&gl=US&ceid=US%3Aen
+                - text: This Week's Top Five Stories in AI
+            - figure [ref=e2883]
+          - generic [ref=e2884]:
+            - time [ref=e2885]: Jun 13
+            - separator [ref=e2886]
+            - generic [ref=e2887]: By Diya Joseph
+      - generic [ref=e2888]:
+        - separator [ref=e2890]
+        - generic [ref=e2892]:
+          - generic [ref=e2893]:
+            - link [ref=e2895] [cursor=pointer]:
+              - /url: ./read/CBMifkFVX3lxTFB5VGlERm5KMFh4OWlhaEZsVm13WGtFRWtIYmhzckdGZzI0Z0xXS2U2ZzMwd1JJbXBhaWl2Y2tlbXJBdGFsQ0Z6Z1dJYXlEZFFtWlJkc1VXOWVoWG1UOWdWSjM2NVdNc29famhZTGNYR28waEh4RVh6eW5kZGI5Zw?hl=en-US&gl=US&ceid=US%3Aen
+            - generic [ref=e2897]:
+              - generic [ref=e2898]:
+                - generic [ref=e2899]: Medical Xpress
+                - generic [ref=e2905]:
+                  - generic:
+                    - button "More - AI diagnoses brain tumors in minutes instead of weeks" [ref=e2906] [cursor=pointer]
+                    - tooltip [ref=e2910]: More
+              - link "AI diagnoses brain tumors in minutes instead of weeks - Medical Xpress - Jun 10 - By Stephanie Baum" [ref=e2911] [cursor=pointer]:
+                - /url: ./read/CBMifkFVX3lxTFB5VGlERm5KMFh4OWlhaEZsVm13WGtFRWtIYmhzckdGZzI0Z0xXS2U2ZzMwd1JJbXBhaWl2Y2tlbXJBdGFsQ0Z6Z1dJYXlEZFFtWlJkc1VXOWVoWG1UOWdWSjM2NVdNc29famhZTGNYR28waEh4RVh6eW5kZGI5Zw?hl=en-US&gl=US&ceid=US%3Aen
+                - text: AI diagnoses brain tumors in minutes instead of weeks
+            - figure [ref=e2912]
+          - generic [ref=e2913]:
+            - time [ref=e2914]: Jun 10
+            - separator [ref=e2915]
+            - generic [ref=e2916]: By Stephanie Baum
+    - complementary [ref=e2917]:
+      - generic [ref=e2919]:
+        - generic [ref=e2922]:
+          - heading "AI news this week" [level=2] [ref=e2923]
+          - generic [ref=e2924]: Search results
+        - generic [ref=e2927]:
+          - button "Save this search - AI news this week" [ref=e2929]:
+            - generic [ref=e2935]: Save
+          - tooltip [ref=e2936]: Save this search

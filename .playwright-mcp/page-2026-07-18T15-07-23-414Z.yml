@@ -1,0 +1,164 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link "DuckDuckGo home" [ref=e7] [cursor=pointer]:
+            - /url: /
+            - button "‹ All Results" [ref=e8]
+            - generic [ref=e9]: DuckDuckGo
+          - generic [ref=e18]:
+            - combobox "Search privately" [ref=e20]: AI news July 2025
+            - button "search" [ref=e22] [cursor=pointer]
+        - generic [ref=e25]:
+          - button "Open menu" [ref=e26] [cursor=pointer]
+          - link "Duck.ai" [ref=e32] [cursor=pointer]:
+            - /url: /?q=AI+news+July+2025&ia=chat
+      - navigation [ref=e40]:
+        - list [ref=e41]:
+          - listitem [ref=e42]:
+            - link "All" [ref=e43] [cursor=pointer]:
+              - /url: /?q=AI+news+July+2025&ia=web
+          - listitem [ref=e46]:
+            - link "Images" [ref=e47] [cursor=pointer]:
+              - /url: /?q=AI+news+July+2025&ia=images&iax=images
+          - listitem [ref=e48]:
+            - link "Videos" [ref=e49] [cursor=pointer]:
+              - /url: /?q=AI+news+July+2025&ia=videos&iax=videos
+          - listitem [ref=e50]:
+            - link "News" [ref=e51] [cursor=pointer]:
+              - /url: /?q=AI+news+July+2025&iar=news&ia=news
+          - listitem [ref=e52]:
+            - link "Maps" [ref=e53] [cursor=pointer]:
+              - /url: /?q=AI+news+July+2025&iaxm=maps
+        - list [ref=e54]:
+          - listitem
+          - listitem [ref=e55]:
+            - button "Search Settings ✀" [ref=e57] [cursor=pointer]:
+              - generic [ref=e60]: Search Settings
+              - generic [ref=e61]: ✀
+    - generic [ref=e66]:
+      - text: ▼ ▼ ▼ ▼
+      - article [ref=e68]:
+        - navigation [ref=e70]:
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - generic [ref=e74] [cursor=pointer]:
+                - generic [ref=e75]: Region
+                - img [ref=e79]: ▼
+            - listitem [ref=e81]:
+              - generic [ref=e83] [cursor=pointer]:
+                - generic [ref=e84]: Safe search
+                - img [ref=e85]: ▼
+            - listitem [ref=e87]:
+              - generic [ref=e89] [cursor=pointer]:
+                - generic [ref=e90]: Date
+                - img [ref=e91]: ▼
+        - generic:
+          - generic:
+            - list
+          - complementary
+    - list [ref=e94]:
+      - button "Close menu" [ref=e95] [cursor=pointer]
+      - list [ref=e99]:
+        - listitem [ref=e100]: Search
+        - listitem [ref=e101]:
+          - link "Homepage" [ref=e102] [cursor=pointer]:
+            - /url: https://start.duckduckgo.com/
+        - listitem [ref=e103]:
+          - link "Themes" [ref=e104] [cursor=pointer]:
+            - /url: /settings#appearance
+        - listitem [ref=e105]:
+          - link "Settings" [ref=e106] [cursor=pointer]:
+            - /url: /settings
+      - list [ref=e107]:
+        - listitem [ref=e108]: Share Feedback
+        - listitem [ref=e109]:
+          - generic [ref=e112]:
+            - button "Positive feedback" [ref=e113] [cursor=pointer]
+            - button "Negative feedback" [ref=e117] [cursor=pointer]
+      - list [ref=e121]:
+        - listitem [ref=e122]: Downloads
+        - listitem [ref=e123]:
+          - link "iOS Browser" [ref=e124] [cursor=pointer]:
+            - /url: https://apps.apple.com/app/duckduckgo-private-browser/id663592361?platform=iphone&pt=866401&mt=8&ct=serp-atb-serp
+        - listitem [ref=e125]:
+          - link "Android Browser" [ref=e126] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=utm_campaign%3Dserp-atb-serp%26origin%3Dfunnel_playstore_searchresults
+        - listitem [ref=e127]:
+          - link "Mac Browser" [ref=e128] [cursor=pointer]:
+            - /url: /mac?origin=funnel_browser_searchresults
+        - listitem [ref=e129]:
+          - link "Windows Browser" [ref=e130] [cursor=pointer]:
+            - /url: /windows?origin=funnel_browser_searchresults
+        - listitem [ref=e131]: Browser Extensions
+      - list [ref=e132]:
+        - listitem [ref=e133]: More From DuckDuckGo
+        - listitem
+        - listitem [ref=e134]:
+          - link "Duck.ai" [ref=e135] [cursor=pointer]:
+            - /url: https://duck.ai
+        - listitem [ref=e136]:
+          - link "Email Protection" [ref=e137] [cursor=pointer]:
+            - /url: /email
+        - listitem [ref=e138]:
+          - link "Newsletter" [ref=e139] [cursor=pointer]:
+            - /url: /newsletter
+        - listitem [ref=e140]:
+          - link "Blog" [ref=e141] [cursor=pointer]:
+            - /url: /blog
+        - listitem [ref=e142]:
+          - link "Podcast" [ref=e143] [cursor=pointer]:
+            - /url: https://insideduckduckgo.substack.com/?showWelcome=true
+        - listitem [ref=e144]:
+          - link "Collaborations" [ref=e145] [cursor=pointer]:
+            - /url: /collaborations
+      - list [ref=e146]:
+        - listitem [ref=e147]: Learn More
+        - listitem [ref=e148]:
+          - link "What’s New" [ref=e149] [cursor=pointer]:
+            - /url: /updates
+        - listitem [ref=e150]:
+          - link "Compare Privacy" [ref=e151] [cursor=pointer]:
+            - /url: /compare-privacy
+        - listitem [ref=e152]:
+          - link "About Our Browser" [ref=e153] [cursor=pointer]:
+            - /url: /app
+        - listitem [ref=e154]:
+          - link "About DuckDuckGo" [ref=e155] [cursor=pointer]:
+            - /url: /about
+      - list [ref=e156]:
+        - listitem [ref=e157]: Other Resources
+        - listitem [ref=e158]:
+          - link "Help" [ref=e159] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages
+        - listitem [ref=e160]:
+          - link "Community" [ref=e161] [cursor=pointer]:
+            - /url: https://www.reddit.com/r/duckduckgo/
+        - listitem [ref=e162]:
+          - link "Careers" [ref=e163] [cursor=pointer]:
+            - /url: /careers
+        - listitem [ref=e164]:
+          - link "Privacy Policy" [ref=e165] [cursor=pointer]:
+            - /url: /privacy
+        - listitem [ref=e166]:
+          - link "Terms of Service" [ref=e167] [cursor=pointer]:
+            - /url: /terms
+        - listitem [ref=e168]:
+          - link "Press Kit" [ref=e169] [cursor=pointer]:
+            - /url: /press
+        - listitem [ref=e170]:
+          - link "Advertise on Search" [ref=e171] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages/company/advertise-on-duckduckgo-search
+  - generic [ref=e177]:
+    - generic [ref=e188]:
+      - heading "Introducing DuckDuckGo Collaborations" [level=3] [ref=e189]
+      - paragraph [ref=e190]: Expertly crafted products for people who give a duck about privacy.
+    - link "See More" [ref=e191] [cursor=pointer]:
+      - /url: https://duckduckgo.com/collaborations
+  - generic [ref=e194]:
+    - generic [ref=e195]: Unfortunately, bots use DuckDuckGo too.
+    - generic [ref=e196]: Please complete the following challenge to confirm this search was made by a human.
+    - generic [ref=e197]: "Select all squares containing a duck:"
+    - button "Submit" [ref=e219] [cursor=pointer]
+  - button "Share Feedback" [ref=e223] [cursor=pointer]

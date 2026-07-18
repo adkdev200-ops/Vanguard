@@ -1,0 +1,286 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link [ref=e4] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=e5]
+      - search [ref=e6]:
+        - button "Search" [ref=e9] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=e10]: AI news today
+        - button "Search using an image" [ref=e16] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=e18]:
+      - button "Microsoft Rewards" [ref=e19] [cursor=pointer]:
+        - generic [ref=e20]: Rewards
+      - link [ref=e27] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - button "Sign in" [ref=e30]
+      - button "Settings and quick links" [ref=e31] [cursor=pointer]
+    - navigation "Search Filter" [ref=e32]:
+      - list [ref=e33]:
+        - listitem [ref=e34]:
+          - link "All" [ref=e35] [cursor=pointer]:
+            - /url: /search?q=AI+news+today&FORM=HDRSC1
+        - listitem [ref=e36]:
+          - link "Search" [ref=e37] [cursor=pointer]:
+            - /url: /copilotsearch?q=AI+news+today&FORM=CSSCOP
+        - listitem [ref=e40]:
+          - link "Images" [ref=e41] [cursor=pointer]:
+            - /url: /images/search?q=AI+news+today&FORM=HDRSC3
+        - listitem [ref=e42]:
+          - link "Videos" [ref=e43] [cursor=pointer]:
+            - /url: /videos/search?q=AI+news+today&FORM=HDRSC4
+        - listitem [ref=e44]:
+          - link "Maps" [ref=e45] [cursor=pointer]:
+            - /url: /maps?q=AI+news+today&FORM=HDRSC6
+        - listitem [ref=e46]:
+          - link "Copilot" [ref=e47] [cursor=pointer]:
+            - /url: /chat?prompt=AI+news+today&sendquery=1&FORM=SCCODX
+        - listitem [ref=e48]:
+          - link "News" [ref=e49] [cursor=pointer]:
+            - /url: /?scope=news&FORM=HDRSC7
+        - listitem [ref=e50]:
+          - button [ref=e51] [cursor=pointer]
+  - generic [ref=e55]:
+    - tabpanel [ref=e56]:
+      - navigation "Category Bar" [ref=e57]:
+        - tablist [ref=e58]:
+          - tab "Search news about Top stories" [ref=e60] [cursor=pointer]:
+            - generic "Top stories" [ref=e61]
+            - generic [ref=e64]: Top stories
+          - tab "Search news about World" [ref=e66] [cursor=pointer]:
+            - generic "World" [ref=e67]
+            - generic [ref=e70]: World
+          - tab "Search news about Business" [ref=e72] [cursor=pointer]:
+            - generic "Business" [ref=e73]
+            - generic [ref=e76]: Business
+          - tab "Search news about Politics" [ref=e78] [cursor=pointer]:
+            - generic "Politics" [ref=e79]
+            - generic [ref=e82]: Politics
+          - tab "Search news about Entertainment" [ref=e84] [cursor=pointer]:
+            - generic "Entertainment" [ref=e85]
+            - generic [ref=e88]: Entertainment
+          - tab "Search news about Sports" [ref=e90] [cursor=pointer]:
+            - generic "Sports" [ref=e91]
+            - generic [ref=e94]: Sports
+          - tab "Search news about Sci/Tech" [ref=e96] [cursor=pointer]:
+            - generic "Sci/Tech" [ref=e97]
+            - generic [ref=e102]: Sci/Tech
+    - generic [ref=e107]:
+      - complementary [ref=e108]:
+        - generic [ref=e109]: Order by
+        - generic [ref=e110] [cursor=pointer]: Best match
+        - link "Most fresh" [ref=e111] [cursor=pointer]:
+          - /url: /news/search?q=AI+news+today&qft=sortbydate%3d%221%22+interval%3d%229%22&form=YFNR
+        - generic [ref=e114]:
+          - list:
+            - listitem [ref=e115] [cursor=pointer]:
+              - button "Past 30 days" [ref=e116]
+      - main [ref=e119]:
+        - main "News" [ref=e120]:
+          - generic "AI predictions for France vs. England World Cup third-place match today" [ref=e121]:
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - img "USA TODAY on MSN" [ref=e128]
+                  - generic [ref=e129]:
+                    - generic [ref=e130]: ·
+                    - text: 5h
+                    - generic [ref=e132]: ·
+                    - text: on MSN
+                - link [ref=e134]:
+                  - /url: https://www.msn.com/en-us/sports/soccer/ai-predictions-for-france-vs-england-world-cup-third-place-match-today/ar-AA28aPlX?ocid=BingNewsVerp
+                  - heading "AI predictions for France vs. England World Cup third-place match today" [level=2] [ref=e135]
+              - generic "France and England are playing for third-place honors at the 2026 World Cup. USA TODAY Sports had Microsoft Copilot AI predict the match." [ref=e136]
+          - 'generic "Tech & AI News today: TCS is building AI army, Nadella shares new paradox, and Samsung hikes prices" [ref=e137]':
+            - generic [ref=e138] [cursor=pointer]:
+              - link [ref=e140]:
+                - /url: https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - link "Search news from The Financial Express" [ref=e146]:
+                      - /url: /news/search?q=site%3awww.financialexpress.com&FORM=NWBCLM
+                      - text: The Financial Express
+                    - generic [ref=e149]: ·
+                    - generic "5 days ago" [ref=e151]: 5d
+                  - link [ref=e153]:
+                    - /url: https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/
+                    - 'heading "Tech & AI News today: TCS is building AI army, Nadella shares new paradox, and Samsung hikes prices" [level=2] [ref=e154]'
+                - generic "The world of AI and technology doesn’t get its Monday blues, unlike us humans. Hence, after a weekend of seeing Elon Musk and ..." [ref=e155]
+          - generic "Why Did Nvidia Stock Sink Today?" [ref=e156]:
+            - generic [ref=e157] [cursor=pointer]:
+              - link [ref=e159]:
+                - /url: https://www.msn.com/en-us/money/companies/why-did-nvidia-stock-sink-today/ar-AA288ePz?ocid=BingNewsVerp
+              - generic [ref=e162]:
+                - generic [ref=e163]:
+                  - generic [ref=e164]:
+                    - img "The Motley Fool" [ref=e166]
+                    - generic [ref=e167]:
+                      - generic [ref=e168]: ·
+                      - text: 22h
+                      - generic [ref=e170]: ·
+                      - text: on MSN
+                  - link [ref=e172]:
+                    - /url: https://www.msn.com/en-us/money/companies/why-did-nvidia-stock-sink-today/ar-AA288ePz?ocid=BingNewsVerp
+                    - heading "Why Did Nvidia Stock Sink Today?" [level=2] [ref=e173]
+                - generic "The next DeepSeek moment has arrived. This time, investors should be prepared to take advantage of it." [ref=e174]
+          - 'generic "TSMC: The Market Is Punishing The Wrong AI Stock" [ref=e175]':
+            - generic [ref=e176] [cursor=pointer]:
+              - link [ref=e178]:
+                - /url: https://seekingalpha.com/article/4923196-tsmc-the-market-is-punishing-the-wrong-ai-stock
+              - generic [ref=e181]:
+                - generic [ref=e182]:
+                  - generic [ref=e183]:
+                    - link "Search news from Seeking Alpha" [ref=e184]:
+                      - /url: /news/search?q=site%3aseekingalpha.com&FORM=NWBCLM
+                      - img "Seeking Alpha" [ref=e186]
+                    - generic [ref=e187]:
+                      - generic [ref=e188]: ·
+                      - text: 5h
+                  - link [ref=e190]:
+                    - /url: https://seekingalpha.com/article/4923196-tsmc-the-market-is-punishing-the-wrong-ai-stock
+                    - 'heading "TSMC: The Market Is Punishing The Wrong AI Stock" [level=2] [ref=e191]'
+                - generic "Taiwan Semiconductor Manufacturing Company just finished the sort of quarter most AI-linked companies would like to report." [ref=e192]
+          - generic "The next DeepSeek? A surprise AI breakthrough in China is rattling US market heavyweights." [ref=e193]:
+            - generic [ref=e194] [cursor=pointer]:
+              - link [ref=e196]:
+                - /url: https://www.msn.com/en-us/money/general/the-next-deepseek-a-surprise-ai-breakthrough-in-china-is-rattling-us-market-heavyweights/ar-AA288lxS?ocid=BingNewsVerp
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - generic [ref=e201]:
+                    - img "Insider" [ref=e203]
+                    - generic [ref=e204]:
+                      - generic [ref=e205]: ·
+                      - text: 23h
+                      - generic [ref=e207]: ·
+                      - text: on MSN
+                  - link [ref=e209]:
+                    - /url: https://www.msn.com/en-us/money/general/the-next-deepseek-a-surprise-ai-breakthrough-in-china-is-rattling-us-market-heavyweights/ar-AA288lxS?ocid=BingNewsVerp
+                    - heading "The next DeepSeek? A surprise AI breakthrough in China is rattling US market heavyweights." [level=2] [ref=e210]
+                - generic "Kimi K3, a new AI model in China, rivals advanced US models, sparking fears of another \"DeepSeek\" moment in markets." [ref=e211]
+          - generic "New Chinese AI model rattles US rivals Claude, ChatGPT" [ref=e212]:
+            - generic [ref=e213] [cursor=pointer]:
+              - link [ref=e215]:
+                - /url: https://telanganatoday.com/new-chinese-ai-model-rattles-us-rivals-claude-chatgpt
+              - generic [ref=e218]:
+                - generic [ref=e219]:
+                  - generic [ref=e220]:
+                    - link "Search news from Telangana Today" [ref=e221]:
+                      - /url: /news/search?q=site%3atelanganatoday.com&FORM=NWBCLM
+                      - img "Telangana Today" [ref=e223]
+                    - generic [ref=e224]:
+                      - generic [ref=e225]: ·
+                      - text: 10h
+                  - link [ref=e227]:
+                    - /url: https://telanganatoday.com/new-chinese-ai-model-rattles-us-rivals-claude-chatgpt
+                    - heading "New Chinese AI model rattles US rivals Claude, ChatGPT" [level=2] [ref=e228]
+                - generic "China’s Moonshot startup has unveiled its new Kimi K3 AI model, which is being hailed as a major leap in open-source AI. The ..." [ref=e229]
+          - generic "She pursued MBBS and IIT Madras at the same time, today, she's using AI to advance cancer research" [ref=e230]:
+            - generic [ref=e231] [cursor=pointer]:
+              - link [ref=e233]:
+                - /url: https://www.msn.com/en-in/health/other/she-pursued-mbbs-and-iit-madras-at-the-same-time-today-shes-using-ai-to-advance-cancer-research/ar-AA289JZ0?ocid=BingNewsVerp
+              - generic [ref=e235]:
+                - generic [ref=e236]:
+                  - generic [ref=e237]:
+                    - img "The Times of India" [ref=e239]
+                    - generic [ref=e240]:
+                      - generic [ref=e241]: ·
+                      - text: 11h
+                      - generic [ref=e243]: ·
+                      - text: on MSN
+                  - link [ref=e245]:
+                    - /url: https://www.msn.com/en-in/health/other/she-pursued-mbbs-and-iit-madras-at-the-same-time-today-shes-using-ai-to-advance-cancer-research/ar-AA289JZ0?ocid=BingNewsVerp
+                    - heading "She pursued MBBS and IIT Madras at the same time, today, she's using AI to advance cancer research" [level=2] [ref=e246]
+                - generic "BVS Madhavi pursued an unconventional path by combining an MBBS degree from Andhra Medical College with a BS in Data Science ..." [ref=e247]
+          - 'generic "Markets News, July 16, 2026: Nasdaq Drops, Indexes Retreat as AI Spending Concerns Weigh on Chip Stocks" [ref=e248]':
+            - generic [ref=e249] [cursor=pointer]:
+              - link [ref=e251]:
+                - /url: https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-07162026-12020420
+              - generic [ref=e253]:
+                - generic [ref=e254]:
+                  - generic [ref=e255]:
+                    - link "Search news from Investopedia" [ref=e256]:
+                      - /url: /news/search?q=site%3ainvestopedia.com&FORM=NWBCLM
+                      - img "Investopedia" [ref=e258]
+                    - generic [ref=e259]:
+                      - generic [ref=e260]: ·
+                      - text: 1d
+                  - link [ref=e262]:
+                    - /url: https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-07162026-12020420
+                    - 'heading "Markets News, July 16, 2026: Nasdaq Drops, Indexes Retreat as AI Spending Concerns Weigh on Chip Stocks" [level=2] [ref=e263]'
+                - generic "Major stock indexes were mostly lower on a busy earnings Thursday, as shares of chipmakers weighed on the Nasdaq Composite ..." [ref=e264]
+          - generic "The Chip-Stock Slide Isn’t Over. The AI Trade Is Still Under Pressure. But ‘No One Is Short’" [ref=e265]:
+            - generic [ref=e266] [cursor=pointer]:
+              - link [ref=e268]:
+                - /url: https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
+              - generic [ref=e270]:
+                - generic [ref=e271]:
+                  - generic [ref=e272]:
+                    - link "Search news from Investopedia" [ref=e273]:
+                      - /url: /news/search?q=site%3ainvestopedia.com&FORM=NWBCLM
+                      - img "Investopedia" [ref=e275]
+                    - generic [ref=e276]:
+                      - generic [ref=e277]: ·
+                      - text: 1d
+                  - link [ref=e279]:
+                    - /url: https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
+                    - heading "The Chip-Stock Slide Isn’t Over. The AI Trade Is Still Under Pressure. But ‘No One Is Short’" [level=2] [ref=e280]
+                - generic "A number of Wall Street analysts have said in recent weeks they would view the pullback in chipmakers and other AI stocks as ..." [ref=e281]
+          - 'generic "Stock Market Today, July 17: UiPath Gains on Retail AI Partnership" [ref=e282]':
+            - generic [ref=e283] [cursor=pointer]:
+              - link [ref=e285]:
+                - /url: https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-uipath-gains-on-retail-ai-partnership/
+              - generic [ref=e287]:
+                - generic [ref=e288]:
+                  - generic [ref=e289]:
+                    - link "Search news from The Motley Fool" [ref=e290]:
+                      - /url: /news/search?q=site%3awww.fool.com&FORM=NWBCLM
+                      - img "The Motley Fool" [ref=e292]
+                    - generic [ref=e293]:
+                      - generic [ref=e294]: ·
+                      - text: 16h
+                  - link [ref=e296]:
+                    - /url: https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-uipath-gains-on-retail-ai-partnership/
+                    - 'heading "Stock Market Today, July 17: UiPath Gains on Retail AI Partnership" [level=2] [ref=e297]'
+                - generic "Today, July 17, 2026, this week's AI pricing deal with a U.K. retailer boosted the stock as the automation provider navigates ..." [ref=e298]
+          - generic "After Intruder Breaks Into Today Studio, a Firing" [ref=e299]:
+            - generic [ref=e300] [cursor=pointer]:
+              - link [ref=e302]:
+                - /url: https://www.msn.com/en-us/news/other/after-intruder-breaks-into-today-studio-a-firing/ar-AA28bioi?ocid=BingNewsVerp
+              - generic [ref=e304]:
+                - generic [ref=e305]:
+                  - generic [ref=e306]:
+                    - text: Newser on MSN
+                    - generic [ref=e309]: ·
+                    - generic "2 hours ago" [ref=e311]: 2h
+                  - link [ref=e313]:
+                    - /url: https://www.msn.com/en-us/news/other/after-intruder-breaks-into-today-studio-a-firing/ar-AA28bioi?ocid=BingNewsVerp
+                    - heading "After Intruder Breaks Into Today Studio, a Firing" [level=2] [ref=e314]
+                - generic "One person is now out of a job following the security breach that put a stranger face-to-face with Today co-host Craig Melvin ..." [ref=e315]
+          - generic "South Korea launches free AI agent project for all citizens" [ref=e316]:
+            - generic [ref=e317] [cursor=pointer]:
+              - link [ref=e319]:
+                - /url: https://www.upi.com/Top_News/World-News/2026/07/13/ai-for-everyone-public-services/9121783997023/
+              - generic [ref=e321]:
+                - generic [ref=e322]:
+                  - generic [ref=e323]:
+                    - link "Search news from UPI" [ref=e324]:
+                      - /url: /news/search?q=site%3awww.upi.com&FORM=NWBCLM
+                      - img "UPI" [ref=e326]
+                    - generic [ref=e327]:
+                      - generic [ref=e328]: ·
+                      - text: 4d
+                  - link [ref=e330]:
+                    - /url: https://www.upi.com/Top_News/World-News/2026/07/13/ai-for-everyone-public-services/9121783997023/
+                    - heading "South Korea launches free AI agent project for all citizens" [level=2] [ref=e331]
+                - generic "South Korean government plans a free nationwide AI chatbot and public-service agent to reduce the digital divide and provide ..." [ref=e332]
+  - button "Feedback" [ref=e335] [cursor=pointer]
+  - contentinfo [ref=e337]:
+    - generic [ref=e338]:
+      - list:
+        - listitem [ref=e339]:
+          - link "Privacy" [ref=e340] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+        - listitem [ref=e341]:
+          - link "Terms" [ref=e342] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkID=246338

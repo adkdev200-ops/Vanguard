@@ -1,0 +1,1298 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - link "Skip to main content" [ref=e4] [cursor=pointer]:
+      - /url: "#content"
+    - generic [ref=e7]:
+      - text: / / / / / / /
+      - generic [ref=e10]:
+        - link "The homepage The Verge" [ref=e12] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e13]: The homepage
+          - img "The Verge" [ref=e14]
+        - generic [ref=e16]:
+          - link "Subscribe" [ref=e18] [cursor=pointer]:
+            - /url: /subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation
+          - button "Open Notifications" [ref=e21] [cursor=pointer]:
+            - img "Notifications" [ref=e23]
+          - button "Open Drawer" [ref=e25] [cursor=pointer]:
+            - img "Hamburger Navigation Button" [ref=e28]
+    - main [ref=e33]:
+      - generic [ref=e34]: advertisement AD
+      - generic [ref=e36]:
+        - heading "AI" [level=1] [ref=e39]
+        - generic [ref=e40]:
+          - button "Follow Follow" [ref=e42] [cursor=pointer]:
+            - img "Follow" [ref=e44]
+            - generic [ref=e46]: Follow
+          - paragraph [ref=e47]: Artificial intelligence is more a part of our lives than ever before. While some might call it hype and compare it to NFTs or 3D TVs, generative AI is causing a sea change in nearly every part of the technology industry. OpenAI’s ChatGPT is still the best-known AI chatbot around, but with Google pushing Gemini, Microsoft building Copilot, and Apple adding its Intelligence to Siri, AI is probably going to be in the spotlight for a very long time. At The Verge, we’re exploring what might be possible with AI — and a lot of the bad stuff AI does, too.
+          - list [ref=e48]:
+            - listitem [ref=e49]: RELATED /
+            - listitem [ref=e50]:
+              - button "Follow Anthropic" [ref=e52] [cursor=pointer]:
+                - generic [ref=e53]:
+                  - img "Follow" [ref=e55]
+                  - generic [ref=e57]: Anthropic
+            - listitem [ref=e58]:
+              - button "Follow xAI" [ref=e60] [cursor=pointer]:
+                - generic [ref=e61]:
+                  - img "Follow" [ref=e63]
+                  - generic [ref=e65]: xAI
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - generic [ref=e71]:
+            - img "The apps, gadgets, and tools every reader needs" [ref=e73]
+            - generic [ref=e77]:
+              - link "The apps, gadgets, and tools every reader needs" [ref=e80] [cursor=pointer]:
+                - /url: /tech/967544/best-apps-gadgets-reading-installer
+              - paragraph [ref=e81]: "Plus, in this week’s Installer: Nolan did it again, a silly new AI gadget, a great update to a great notes app, and more."
+              - generic [ref=e82]:
+                - generic [ref=e83]: David Pierce
+                - time [ref=e87]: 5:45 PM GMT+5:45
+          - generic [ref=e89]:
+            - img "TikTok is testing an AI likeness detection tool" [ref=e91]
+            - generic [ref=e95]:
+              - link "TikTok is testing an AI likeness detection tool" [ref=e98] [cursor=pointer]:
+                - /url: /tech/967486/tiktok-ai-likeness-detection-tool
+              - paragraph [ref=e99]: Creators can have TikTok scan for unauthorized AI deepfakes.
+              - generic [ref=e100]:
+                - generic [ref=e101]: Jay Peters
+                - time [ref=e105]: 1:19 AM GMT+5:45
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - heading "Latest In AI" [level=2] [ref=e111]
+            - generic [ref=e112]:
+              - generic [ref=e113]:
+                - article [ref=e114] [cursor=pointer]:
+                  - link "Netflix acquired Ben Affleck’s AI startup for nearly $600 million.":
+                    - /url: /streaming/967573/netflix-acquired-ben-afflecks-ai-startup-for-nearly-600-million
+                  - generic [ref=e115]:
+                    - generic [ref=e116]:
+                      - generic [ref=e117]:
+                        - img "Jay Peters" [ref=e119]
+                        - generic [ref=e120]:
+                          - generic [ref=e121]: Jay Peters
+                          - time [ref=e123]: 3:23 AM GMT+5:45
+                      - generic [ref=e124]:
+                        - text: Netflix acquired Ben Affleck’s AI startup for nearly $600 million.
+                        - paragraph [ref=e126]:
+                          - text: As noted
+                          - link [ref=e127]:
+                            - /url: https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/
+                            - text: by
+                            - emphasis [ref=e128]: The Hollywood Reporter
+                          - text: ", Netflix said in"
+                          - link "an SEC filing" [ref=e129]:
+                            - /url: https://d18rn0p25nwr6d.cloudfront.net/CIK-0001065280/65ef36cc-6598-4deb-a42b-8c59a8e31fd3.pdf
+                          - text: that it paid “approximately” $587 million to acquire a company in March — the same month Netflix announced
+                          - link "its deal for InterPositive" [ref=e130]:
+                            - /url: /streaming/889973/netflix-ben-affleck-interpositive-ai
+                          - text: .
+                      - generic [ref=e133]:
+                        - link "Netflix Paid $587 Million for Ben Affleck’s AI Company" [ref=e134]:
+                          - /url: https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/
+                        - paragraph [ref=e135]: "[The Hollywood Reporter]"
+                    - generic [ref=e136]:
+                      - link "Comments12" [ref=e139]:
+                        - /url: /streaming/967573/netflix-acquired-ben-afflecks-ai-startup-for-nearly-600-million#comments
+                        - img "Comments" [ref=e140]
+                        - generic [ref=e142]: "12"
+                      - generic [ref=e143]: "|"
+                      - button "Copy link" [ref=e146]:
+                        - img "Link" [ref=e147]
+                - article [ref=e149] [cursor=pointer]:
+                  - 'link "SpaceX might land another big compute customer: the Department of Defense."':
+                    - /url: /science/967560/spacex-might-land-another-big-compute-customer-the-department-of-defense
+                  - generic [ref=e150]:
+                    - generic [ref=e151]:
+                      - generic [ref=e152]:
+                        - img "Jay Peters" [ref=e154]
+                        - generic [ref=e155]:
+                          - generic [ref=e156]: Jay Peters
+                          - time [ref=e158]: 2:52 AM GMT+5:45
+                      - generic [ref=e159]:
+                        - text: "SpaceX might land another big compute customer: the Department of Defense."
+                        - paragraph [ref=e161]:
+                          - text: The Pentagon may make a deal where it would pay for billions of dollars of compute from SpaceX,
+                          - link [ref=e162]:
+                            - /url: https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4
+                            - text: according to
+                            - emphasis [ref=e163]: The Wall Street Journal
+                          - text: .
+                        - paragraph [ref=e165]:
+                          - text: SpaceX already provides compute to
+                          - link "Google" [ref=e166]:
+                            - /url: /tech/944569/google-follows-anthropic-in-signing-a-compute-deal-with-spacex
+                          - text: and
+                          - link "Anthropic" [ref=e167]:
+                            - /url: /ai-artificial-intelligence/925348/anthropics-claude-usage-limits-are-getting-a-boost-after-compute-deals-with-spacex-and-others
+                          - text: ", and the company wants to do more in cloud computing, the"
+                          - emphasis [ref=e168]: WSJ
+                          - text: says.
+                        - generic:
+                          - paragraph
+                      - generic [ref=e171]:
+                        - link "SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push" [ref=e172]:
+                          - /url: https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4?mod=rss_Technology
+                        - paragraph [ref=e173]: "[The Wall Street Journal]"
+                    - generic [ref=e174]:
+                      - link "Comments3" [ref=e177]:
+                        - /url: /science/967560/spacex-might-land-another-big-compute-customer-the-department-of-defense#comments
+                        - img "Comments" [ref=e178]
+                        - generic [ref=e180]: "3"
+                      - generic [ref=e181]: "|"
+                      - button "Copy link" [ref=e184]:
+                        - img "Link" [ref=e185]
+                - generic [ref=e187]:
+                  - img "Apple’s plot to crush OpenAI" [ref=e189]
+                  - generic [ref=e192]:
+                    - link "Apple’s plot to crush OpenAI" [ref=e195] [cursor=pointer]:
+                      - /url: /podcast/967244/apple-openai-lawsuit-vergecast
+                    - generic [ref=e196]:
+                      - generic [ref=e197]: David Pierce
+                      - time [ref=e201]: Jul 17
+                      - generic [ref=e202]:
+                        - text: "|"
+                        - link "Comments8" [ref=e203] [cursor=pointer]:
+                          - /url: /podcast/967244/apple-openai-lawsuit-vergecast#comments
+                          - img "Comments" [ref=e204]
+                          - generic [ref=e206]: "8"
+                - article [ref=e207] [cursor=pointer]:
+                  - link "Meta reportedly considers leasing computing power to Anthropic.":
+                    - /url: /tech/967281/meta-reportedly-considers-leasing-computing-power-to-anthropic
+                  - generic [ref=e208]:
+                    - generic [ref=e209]:
+                      - generic [ref=e210]:
+                        - img "Emma Roth" [ref=e212]
+                        - generic [ref=e213]:
+                          - generic [ref=e214]: Emma Roth
+                          - time [ref=e216]: Jul 17
+                      - generic [ref=e217]:
+                        - text: Meta reportedly considers leasing computing power to Anthropic.
+                        - paragraph [ref=e219]:
+                          - text: Sources tell
+                          - emphasis [ref=e220]: The New York Times
+                          - text: that the deal could be valued at $10 billion over two years, with Anthropic paying Meta in monthly increments. Though Anthropic
+                          - link "plans to invest $50 billion" [ref=e221]:
+                            - /url: /news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment
+                          - text: in building out its own data centers, it has already struck multibillion-dollar deals to access computing power
+                          - link "from SpaceX" [ref=e222]:
+                            - /url: /science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus
+                          - text: and
+                          - link "TeraWulf" [ref=e223]:
+                            - /url: /ai-artificial-intelligence/961722/anthropic-signs-20-year-lease-agreement-for-an-ai-data-center-in-kentucky
+                          - text: .
+                        - generic:
+                          - paragraph
+                      - generic [ref=e226]:
+                        - link "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal" [ref=e227]:
+                          - /url: https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smid=nytcore-android-share
+                        - paragraph [ref=e228]: "[The New York Times]"
+                    - generic [ref=e229]:
+                      - link "Comments4" [ref=e232]:
+                        - /url: /tech/967281/meta-reportedly-considers-leasing-computing-power-to-anthropic#comments
+                        - img "Comments" [ref=e233]
+                        - generic [ref=e235]: "4"
+                      - generic [ref=e236]: "|"
+                      - button "Copy link" [ref=e239]:
+                        - img "Link" [ref=e240]
+                - article [ref=e242] [cursor=pointer]:
+                  - link "Apple and Google ordered to take down AI “nudify” apps.":
+                    - /url: /tech/967041/apple-and-google-ordered-to-take-down-ai-nudify-apps
+                  - generic [ref=e243]:
+                    - generic [ref=e244]:
+                      - generic [ref=e245]:
+                        - img "Emma Roth" [ref=e247]
+                        - generic [ref=e248]:
+                          - generic [ref=e249]: Emma Roth
+                          - time [ref=e251]: Jul 17
+                      - generic [ref=e252]:
+                        - text: Apple and Google ordered to take down AI “nudify” apps.
+                        - paragraph [ref=e254]:
+                          - text: San Francisco city attorney David Chiu sent cease-and-desist letters to both companies, demanding that they remove 13 apps that can be used to generate nude images of someone without their consent, according to a report from
+                          - emphasis [ref=e255]: Wired
+                          - text: . The letters ask Google and Apple to stop “aiding and abetting” the sale of sexualized AI deepfakes, which is prohibited under California law.
+                        - paragraph [ref=e257]:
+                          - text: Google spokesperson Dan Jackson tells
+                          - emphasis [ref=e258]: The Verge
+                          - text: that the company suspended the five Android apps cited in Chiu’s letter, adding that the Play Store “does not allow apps that contain sexual content.”
+                      - generic [ref=e261]:
+                        - link "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores" [ref=e262]:
+                          - /url: https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/
+                        - paragraph [ref=e263]: "[WIRED]"
+                    - generic [ref=e264]:
+                      - link "Comments10" [ref=e267]:
+                        - /url: /tech/967041/apple-and-google-ordered-to-take-down-ai-nudify-apps#comments
+                        - img "Comments" [ref=e268]
+                        - generic [ref=e270]: "10"
+                      - generic [ref=e271]: "|"
+                      - button "Copy link" [ref=e274]:
+                        - img "Link" [ref=e275]
+                - article [ref=e277] [cursor=pointer]:
+                  - link "Apple reportedly sent legal warnings to dozens of former employees at OpenAI.":
+                    - /url: /tech/967022/apple-reportedly-sent-legal-warnings-to-dozens-of-former-employees-at-openai
+                  - generic [ref=e278]:
+                    - generic [ref=e279]:
+                      - generic [ref=e280]:
+                        - img "Emma Roth" [ref=e282]
+                        - generic [ref=e283]:
+                          - generic [ref=e284]: Emma Roth
+                          - time [ref=e286]: Jul 17
+                      - generic [ref=e287]:
+                        - text: Apple reportedly sent legal warnings to dozens of former employees at OpenAI.
+                        - paragraph [ref=e289]:
+                          - text: Around 40 employees received the letters, which ask for meetings with Apple’s lawyers and tell them to “preserve documents and communications,” according to a report from the
+                          - emphasis [ref=e290]: Financial Times
+                          - text: . Apple
+                          - link "filed a lawsuit against OpenAI" [ref=e291]:
+                            - /url: /tech/964350/apple-openai-lawsuit-trade-secrets
+                          - text: last week and accused two of its former employees of helping the AI giant steal its trade secrets.
+                      - generic [ref=e294]:
+                        - link "Apple targets dozens of OpenAI employees with legal letters" [ref=e295]:
+                          - /url: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1
+                        - paragraph [ref=e296]: "[Financial Times]"
+                    - generic [ref=e297]:
+                      - link "Comments0" [ref=e300]:
+                        - /url: /tech/967022/apple-reportedly-sent-legal-warnings-to-dozens-of-former-employees-at-openai#comments
+                        - img "Comments" [ref=e301]
+                        - generic [ref=e303]: "0"
+                      - generic [ref=e304]: "|"
+                      - button "Copy link" [ref=e307]:
+                        - img "Link" [ref=e308]
+                - article [ref=e310] [cursor=pointer]:
+                  - link "Baseball bans dugout iPads with AI apps.":
+                    - /url: /ai-artificial-intelligence/967001/baseball-cracks-down-on-dugout-ipads-with-ai
+                  - generic [ref=e311]:
+                    - generic [ref=e312]:
+                      - generic [ref=e313]:
+                        - img "Thomas Ricker" [ref=e315]
+                        - generic [ref=e316]:
+                          - generic [ref=e317]: Thomas Ricker
+                          - time [ref=e319]: Jul 17
+                      - generic [ref=e320]:
+                        - text: Baseball bans dugout iPads with AI apps.
+                        - paragraph [ref=e322]:
+                          - text: Major League Baseball is cracking down on league-issued iPads
+                          - link "provided to teams since 2016" [ref=e323]:
+                            - /url: /2016/3/30/11329574/apple-mlb-ipad-pro-dugout-deal
+                          - text: . Teams can no longer install custom apps that tap into generative AI to recommend “substitutions, pitch calling, and other in-game decisions traditionally made by players and coaches.” It seems up to “a third of the league used the dugout iPads for at least one of these purposes.”
+                      - generic [ref=e326]:
+                        - link "MLB cracks down on using AI via dugout iPads to help shape in-game decisions" [ref=e327]:
+                          - /url: https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/
+                        - paragraph [ref=e328]: "[The Athletic]"
+                    - generic [ref=e329]:
+                      - link "Comments6" [ref=e332]:
+                        - /url: /ai-artificial-intelligence/967001/baseball-cracks-down-on-dugout-ipads-with-ai#comments
+                        - img "Comments" [ref=e333]
+                        - generic [ref=e335]: "6"
+                      - generic [ref=e336]: "|"
+                      - button "Copy link" [ref=e339]:
+                        - img "Link" [ref=e340]
+                - generic [ref=e342]:
+                  - text: advertisement
+                  - generic [ref=e343]: AD
+                - article [ref=e344] [cursor=pointer]:
+                  - link "Leading LLM’s are political boot lickers.":
+                    - /url: /ai-artificial-intelligence/966972/leading-llms-are-political-boot-lickers
+                  - generic [ref=e345]:
+                    - generic [ref=e346]:
+                      - generic [ref=e347]:
+                        - img "Jess Weatherbed" [ref=e349]
+                        - generic [ref=e350]:
+                          - generic [ref=e351]: Jess Weatherbed
+                          - time [ref=e353]: Jul 17
+                      - generic [ref=e354]:
+                        - text: Leading LLM’s are political boot lickers.
+                        - paragraph [ref=e356]: A new report from Meta’s Oversight Board that tested popular AI models from Anthropic, DeepSeek, Google, Meta, and OpenAI found that each LLM is significantly less likely to criticize governments and leaders known for restricting free speech. The reasons for the refusals are varied and often confusing.
+                      - generic [ref=e359]:
+                        - link "Are LLMs Stifling Political Speech? An Assessment of How AI Models Protect Free Expression | Oversight Board" [ref=e360]:
+                          - /url: https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/
+                        - paragraph [ref=e361]: "[The Oversight Board]"
+                    - generic [ref=e362]:
+                      - link "Comments1" [ref=e365]:
+                        - /url: /ai-artificial-intelligence/966972/leading-llms-are-political-boot-lickers#comments
+                        - img "Comments" [ref=e366]
+                        - generic [ref=e368]: "1"
+                      - generic [ref=e369]: "|"
+                      - button "Copy link" [ref=e372]:
+                        - img "Link" [ref=e373]
+                - article [ref=e375] [cursor=pointer]:
+                  - link "Gemini 3.5 Pro was supposed to launch in June, but it’s still not out.":
+                    - /url: /tech/966899/gemini-3-5-pro-was-supposed-to-launch-in-june-but-its-still-not-out
+                  - generic [ref=e376]:
+                    - generic [ref=e377]:
+                      - generic [ref=e378]:
+                        - img "Jay Peters" [ref=e380]
+                        - generic [ref=e381]:
+                          - generic [ref=e382]: Jay Peters
+                          - time [ref=e384]: Jul 17
+                      - generic [ref=e385]:
+                        - text: Gemini 3.5 Pro was supposed to launch in June, but it’s still not out.
+                        - paragraph [ref=e387]:
+                          - text: Google has been working on beefing up the model’s skills, “particularly in coding,”
+                          - link [ref=e388]:
+                            - /url: https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals
+                            - emphasis [ref=e389]: Bloomberg
+                            - text: reports
+                          - text: .
+                        - paragraph [ref=e391]:
+                          - text: At I/O in May, Google said that
+                          - link "3.5 Pro was" [ref=e392]:
+                            - /url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+                          - text: “already being used internally” and that “we look forward to rolling it out next month.”
+                        - generic:
+                          - paragraph
+                      - generic [ref=e395]:
+                        - link "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals" [ref=e396]:
+                          - /url: https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals
+                        - paragraph [ref=e397]: "[Bloomberg]"
+                    - generic [ref=e398]:
+                      - link "Comments7" [ref=e401]:
+                        - /url: /tech/966899/gemini-3-5-pro-was-supposed-to-launch-in-june-but-its-still-not-out#comments
+                        - img "Comments" [ref=e402]
+                        - generic [ref=e404]: "7"
+                      - generic [ref=e405]: "|"
+                      - button "Copy link" [ref=e408]:
+                        - img "Link" [ref=e409]
+                - article [ref=e411] [cursor=pointer]:
+                  - link "SpaceX’s Starship Flight 13 launch attempt fizzled out.":
+                    - /url: /science/966867/starship-flight-test-13-abort
+                  - generic [ref=e412]:
+                    - generic [ref=e413]:
+                      - generic [ref=e414]:
+                        - img "Richard Lawler" [ref=e416]
+                        - generic [ref=e417]:
+                          - generic [ref=e418]: Richard Lawler
+                          - time [ref=e420]: Jul 17
+                      - generic [ref=e421]:
+                        - text: SpaceX’s Starship Flight 13 launch attempt fizzled out.
+                        - paragraph [ref=e423]:
+                          - text: The
+                          - link "thirteenth" [ref=e424]:
+                            - /url: https://www.spacex.com/launches/starship-flight-13
+                          - text: ", and first"
+                          - link "post-IPO" [ref=e425]:
+                            - /url: /business/948996/spacex-ipo-elon-musk
+                          - text: ", flight test of SpaceX’s massive Starship vehicle was supposed to occur Thursday night, but when the countdown hit zero just before 7PM ET, “Some of the engines didn’t start, triggering an automatic launch abort,”"
+                          - link "writes Elon Musk" [ref=e426]:
+                            - /url: https://x.com/elonmusk/status/2077890013841310149
+                          - text: .
+                        - paragraph [ref=e428]:
+                          - text: He says another attempt will happen “hopefully” in a few days, which could be important to
+                          - link "investors" [ref=e429]:
+                            - /url: /ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai
+                          - text: who are hearing that just hours after SPCX closed
+                          - link "below" [ref=e430]:
+                            - /url: https://www.nbcnews.com/business/markets/spacex-stock-below-ipo-price-rcna587717
+                          - text: its $135 IPO price for the first time.
+                      - generic [ref=e434]:
+                        - generic [ref=e437]:
+                          - link "Overhead shot of the rocket on the pad with smoke coming from some of the engines.":
+                            - /url: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_984374.png?quality=90&strip=all&crop=0,0,100,100
+                            - img "Overhead shot of the rocket on the pad with smoke coming from some of the engines." [ref=e438]
+                        - generic [ref=e439]: "Screenshot: SpaceX launch stream"
+                    - generic [ref=e440]:
+                      - link "Comments10" [ref=e443]:
+                        - /url: /science/966867/starship-flight-test-13-abort#comments
+                        - img "Comments" [ref=e444]
+                        - generic [ref=e446]: "10"
+                      - generic [ref=e447]: "|"
+                      - button "Copy link" [ref=e450]:
+                        - img "Link" [ref=e451]
+                - article [ref=e453] [cursor=pointer]:
+                  - link "The one AI detector people actually trust.":
+                    - /url: /ai-artificial-intelligence/966719/the-one-ai-detector-people-actually-trust
+                  - generic [ref=e454]:
+                    - generic [ref=e455]:
+                      - generic [ref=e456]:
+                        - img "Jacob Kastrenakes" [ref=e458]
+                        - generic [ref=e459]:
+                          - generic [ref=e460]: Jacob Kastrenakes
+                          - time [ref=e462]: Jul 17
+                      - generic [ref=e463]:
+                        - text: The one AI detector people actually trust.
+                        - paragraph [ref=e465]:
+                          - text: AI text detectors have been notoriously unreliable, but that’s starting to change. This year,
+                          - link "Pangram" [ref=e466]:
+                            - /url: https://www.pangram.com/
+                          - text: keeps coming up as the trusted source in identifying AI-written text. We sit down with Pangram CEO Max Spero to find out how the system was made, how much we should trust it, and where the line is between useful AI and AI slop.
+                    - generic [ref=e470]:
+                      - link "Comments23" [ref=e473]:
+                        - /url: /ai-artificial-intelligence/966719/the-one-ai-detector-people-actually-trust#comments
+                        - img "Comments" [ref=e474]
+                        - generic [ref=e476]: "23"
+                      - generic [ref=e477]: "|"
+                      - button "Copy link" [ref=e480]:
+                        - img "Link" [ref=e481]
+                - generic [ref=e483]:
+                  - text: advertisement
+                  - generic [ref=e484]: AD
+                - article [ref=e485] [cursor=pointer]:
+                  - link "New York City is cracking down on AI real estate listings.":
+                    - /url: /policy/966706/new-york-rental-ai-disclosure-policies
+                  - generic [ref=e486]:
+                    - generic [ref=e487]:
+                      - generic [ref=e488]:
+                        - img "Gaby Del Valle" [ref=e490]
+                        - generic [ref=e491]:
+                          - generic [ref=e492]: Gaby Del Valle
+                          - time [ref=e494]: Jul 17
+                      - generic [ref=e495]:
+                        - text: New York City is cracking down on AI real estate listings.
+                        - paragraph [ref=e497]:
+                          - text: Mayor Zohran Mamdani issued a
+                          - link "spate of new housing policies" [ref=e498]:
+                            - /url: https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-releases--rental-ripoff-report---outlining-new-act
+                          - text: ", including a provision requiring landlords to disclose when rental listings have been altered by AI or with other tools."
+                        - paragraph [ref=e500]:
+                          - text: The new regulations may not stop brokers from
+                          - link "using AI to gussy up mediocre listings" [ref=e501]:
+                            - /url: /report/953888/ai-virtual-staging-real-estate-apartment-listings
+                          - text: ", but disclosures may at least prevent prospective tenants from wasting their time touring apartments that look much better online than they do in person."
+                        - generic:
+                          - paragraph
+                      - generic [ref=e504]:
+                        - link "Mayor Mamdani Releases \"Rental Ripoff Report,\" Outlining New Actions to Crack Down on Hazardous Housing Violations and Deceptive Landlord Practices" [ref=e505]:
+                          - /url: https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-releases--rental-ripoff-report---outlining-new-act
+                        - paragraph [ref=e506]: "[The official website of the City of New York]"
+                    - generic [ref=e507]:
+                      - link "Comments0" [ref=e510]:
+                        - /url: /policy/966706/new-york-rental-ai-disclosure-policies#comments
+                        - img "Comments" [ref=e511]
+                        - generic [ref=e513]: "0"
+                      - generic [ref=e514]: "|"
+                      - button "Copy link" [ref=e517]:
+                        - img "Link" [ref=e518]
+                - generic [ref=e520]:
+                  - img "New York governor says she’s using AI to analyze ‘every single rule’ in the state" [ref=e522]
+                  - generic [ref=e525]:
+                    - link "New York governor says she’s using AI to analyze ‘every single rule’ in the state" [ref=e528] [cursor=pointer]:
+                      - /url: /ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies
+                    - generic [ref=e529]:
+                      - generic [ref=e530]: Emma Roth
+                      - time [ref=e534]: Jul 16
+                      - generic [ref=e535]:
+                        - text: "|"
+                        - link "Comments44" [ref=e536] [cursor=pointer]:
+                          - /url: /ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies#comments
+                          - img "Comments" [ref=e537]
+                          - generic [ref=e539]: "44"
+                - article [ref=e540] [cursor=pointer]:
+                  - link "Google Vids will now let you generate AI videos of yourself.":
+                    - /url: /ai-artificial-intelligence/966644/google-vids-will-now-let-you-generate-ai-videos-of-yourself
+                  - generic [ref=e541]:
+                    - generic [ref=e542]:
+                      - generic [ref=e543]:
+                        - img "Stevie Bonifield" [ref=e545]
+                        - generic [ref=e546]:
+                          - generic [ref=e547]: Stevie Bonifield
+                          - time [ref=e549]: Jul 16
+                      - generic [ref=e550]:
+                        - text: Google Vids will now let you generate AI videos of yourself.
+                        - paragraph [ref=e552]:
+                          - text: With a selfie and a voice clip, you can generate what
+                          - link "Google calls" [ref=e553]:
+                            - /url: https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/
+                          - text: “personal avatars” — a digital representation of you that can
+                          - link "speak a script you type out" [ref=e554]:
+                            - /url: https://www.youtube.com/watch?v=qgh8x8N0NmY
+                          - text: . Vids got AI-generated avatars last year, but they were initially
+                          - link "pre-made options" [ref=e555]:
+                            - /url: /news/766557/google-vids-ai-avatar-gemini-image-to-video
+                          - text: .
+                        - paragraph [ref=e557]: Vids is also getting support for generating and editing clips with natural language using its Gemini Omni model.
+                    - generic [ref=e561]:
+                      - link "Comments3" [ref=e564]:
+                        - /url: /ai-artificial-intelligence/966644/google-vids-will-now-let-you-generate-ai-videos-of-yourself#comments
+                        - img "Comments" [ref=e565]
+                        - generic [ref=e567]: "3"
+                      - generic [ref=e568]: "|"
+                      - button "Copy link" [ref=e571]:
+                        - img "Link" [ref=e572]
+                - article [ref=e574] [cursor=pointer]:
+                  - link "ChatGPT will show teens more frequent break reminders.":
+                    - /url: /ai-artificial-intelligence/966619/chatgpt-will-show-teens-more-frequent-break-reminders
+                  - generic [ref=e575]:
+                    - generic [ref=e576]:
+                      - generic [ref=e577]:
+                        - img "Emma Roth" [ref=e579]
+                        - generic [ref=e580]:
+                          - generic [ref=e581]: Emma Roth
+                          - time [ref=e583]: Jul 16
+                      - generic [ref=e584]:
+                        - text: ChatGPT will show teens more frequent break reminders.
+                        - paragraph [ref=e586]:
+                          - text: The notifications will show up for teens who spend “extended time” on ChatGPT,
+                          - link "OpenAI says" [ref=e587]:
+                            - /url: https://openai.com/index/why-teens-deserve-access-safe-ai/
+                          - text: . The company will also notify parents if their teen’s account is banned for violating policies on “violent threats or acts of violence online.”
+                      - generic [ref=e591]:
+                        - generic [ref=e594]:
+                          - link:
+                            - /url: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/why-teens-break-reminder.webp?quality=90&strip=all&crop=0,0,100,100
+                        - generic [ref=e595]: "Image: OpenAI"
+                    - generic [ref=e596]:
+                      - link "Comments2" [ref=e599]:
+                        - /url: /ai-artificial-intelligence/966619/chatgpt-will-show-teens-more-frequent-break-reminders#comments
+                        - img "Comments" [ref=e600]
+                        - generic [ref=e602]: "2"
+                      - generic [ref=e603]: "|"
+                      - button "Copy link" [ref=e606]:
+                        - img "Link" [ref=e607]
+                - article [ref=e609] [cursor=pointer]:
+                  - link "Google will let you connect apps to AI Mode in Search.":
+                    - /url: /tech/966313/google-will-let-you-connect-apps-to-ai-mode-in-search
+                  - generic [ref=e610]:
+                    - generic [ref=e611]:
+                      - generic [ref=e612]:
+                        - img "Jay Peters" [ref=e614]
+                        - generic [ref=e615]:
+                          - generic [ref=e616]: Jay Peters
+                          - time [ref=e618]: Jul 16
+                      - generic [ref=e619]:
+                        - text: Google will let you connect apps to AI Mode in Search.
+                        - paragraph [ref=e621]:
+                          - text: Starting this week in the US, you’ll be able to ask linked apps like Instacart, Canva, or YouTube Music to help you out right from AI Mode,
+                          - link "Google says" [ref=e622]:
+                            - /url: https://blog.google/products-and-platforms/products/search/connected-apps/
+                          - text: . Another step on Google’s path of becoming
+                          - link "a search box that does everything" [ref=e623]:
+                            - /url: /tech/934217/google-search-box-does-everything-ai-io-2026
+                          - text: .
+                      - iframe [ref=e630]
+                    - generic [ref=e631]:
+                      - link "Comments0" [ref=e634]:
+                        - /url: /tech/966313/google-will-let-you-connect-apps-to-ai-mode-in-search#comments
+                        - img "Comments" [ref=e635]
+                        - generic [ref=e637]: "0"
+                      - generic [ref=e638]: "|"
+                      - button "Copy link" [ref=e641]:
+                        - img "Link" [ref=e642]
+                - generic [ref=e644]:
+                  - text: advertisement
+                  - generic [ref=e645]: AD
+                - generic [ref=e646]:
+                  - img "Google is renaming NotebookLM to Gemini Notebook" [ref=e648]
+                  - generic [ref=e651]:
+                    - link "Google is renaming NotebookLM to Gemini Notebook" [ref=e654] [cursor=pointer]:
+                      - /url: /tech/966112/google-gemini-notebook-notebooklm
+                    - generic [ref=e655]:
+                      - generic [ref=e656]: Emma Roth
+                      - time [ref=e660]: Jul 16
+                      - generic [ref=e661]:
+                        - text: "|"
+                        - link "Comments3" [ref=e662] [cursor=pointer]:
+                          - /url: /tech/966112/google-gemini-notebook-notebooklm#comments
+                          - img "Comments" [ref=e663]
+                          - generic [ref=e665]: "3"
+                - article [ref=e666] [cursor=pointer]:
+                  - link "Common Sense Media says that Google’s AI search is unsafe for kids, with no way for parents and teachers to turn it off.":
+                    - /url: /tech/966457/common-sense-media-says-that-googles-ai-search-is-unsafe-for-kids-with-no-way-for-parents-and-teachers-to-turn-it-off
+                  - generic [ref=e667]:
+                    - generic [ref=e668]:
+                      - generic [ref=e669]:
+                        - img "Emma Roth" [ref=e671]
+                        - generic [ref=e672]:
+                          - generic [ref=e673]: Emma Roth
+                          - time [ref=e675]: Jul 16
+                      - generic [ref=e676]:
+                        - text: Common Sense Media says that Google’s AI search is unsafe for kids, with no way for parents and teachers to turn it off.
+                        - paragraph [ref=e678]:
+                          - text: Google’s AI Overviews and AI Mode
+                          - link "pose an “unacceptable risk,”" [ref=e679]:
+                            - /url: https://institute.commonsensemedia.org/risk-assessments/google-search
+                          - text: with both features failing to properly and consistently respond to kids showing signs of crisis, “reinforcing signs of psychosis and mania,” as well as “validating disordered eating.”
+                        - paragraph [ref=e681]:
+                          - link "Common Sense Media’s" [ref=e682]:
+                            - /url: https://www.commonsensemedia.org/articles/google-ai-overview-cant-turn-it-off
+                          - text: risk assessment (
+                          - link "pdf" [ref=e683]:
+                            - /url: https://institute.commonsensemedia.org/sites/default/files/risk-assessments/csm-ai-risk-assessment-google-search-07142026_0.pdf
+                          - text: ) also found that AI Mode completed 100 percent of the homework assignments researchers fed it. A response from Google
+                          - link "published by PBS" [ref=e684]:
+                            - /url: https://www.pbs.org/newshour/nation/googles-ai-search-features-pose-unacceptable-risk-to-children-new-report-finds#:~:text=to%20PBS%20News%2C-,Google%20said,-that%20its%20%22AI
+                          - text: called the tests “a narrow set of ambiguous and contrived queries that don’t reflect how people use Search.”
+                      - generic [ref=e688]:
+                        - generic [ref=e691]:
+                          - link "I’m celebrating by smoking a blunt. Enjoy your celebration and the chance to unwind after pushing through your test! Just keep an eye on how you are feeling, especially if your body is already exhausted from staying up all night. To help you transition smoothly into a relaxing rest of your day, would you like some ideas for easy comfort foods to order, or do you just want to find some great shows to zone out and watch? Al responses may include mistakes. Check local laws for age restrictions. Learn more":
+                            - /url: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-commonsensemedia.jpg?quality=90&strip=all&crop=0,0,100,100
+                            - img "I’m celebrating by smoking a blunt. Enjoy your celebration and the chance to unwind after pushing through your test! Just keep an eye on how you are feeling, especially if your body is already exhausted from staying up all night. To help you transition smoothly into a relaxing rest of your day, would you like some ideas for easy comfort foods to order, or do you just want to find some great shows to zone out and watch? Al responses may include mistakes. Check local laws for age restrictions. Learn more" [ref=e692]
+                        - generic [ref=e693]:
+                          - emphasis [ref=e695]: An AI Mode response to an 11-year-old’s test account.
+                          - text: "Image: Common Sense Media"
+                    - generic [ref=e696]:
+                      - link "Comments4" [ref=e699]:
+                        - /url: /tech/966457/common-sense-media-says-that-googles-ai-search-is-unsafe-for-kids-with-no-way-for-parents-and-teachers-to-turn-it-off#comments
+                        - img "Comments" [ref=e700]
+                        - generic [ref=e702]: "4"
+                      - generic [ref=e703]: "|"
+                      - button "Copy link" [ref=e706]:
+                        - img "Link" [ref=e707]
+                - generic [ref=e709]:
+                  - img "Claude can now use your 1Password credentials for you" [ref=e711]
+                  - generic [ref=e714]:
+                    - link "Claude can now use your 1Password credentials for you" [ref=e717] [cursor=pointer]:
+                      - /url: /tech/966442/1password-anthropic-claude-browser-integration
+                    - generic [ref=e718]:
+                      - generic [ref=e719]: Jess Weatherbed
+                      - time [ref=e723]: Jul 16
+                      - generic [ref=e724]:
+                        - text: "|"
+                        - link "Comments21" [ref=e725] [cursor=pointer]:
+                          - /url: /tech/966442/1password-anthropic-claude-browser-integration#comments
+                          - img "Comments" [ref=e726]
+                          - generic [ref=e728]: "21"
+                - generic [ref=e729]:
+                  - img "Google ordered to open Android and Search to rivals in Europe" [ref=e731]
+                  - generic [ref=e734]:
+                    - link "Google ordered to open Android and Search to rivals in Europe" [ref=e737] [cursor=pointer]:
+                      - /url: /policy/966438/eu-google-android-ai-interoperability-search-data-dma
+                    - generic [ref=e738]:
+                      - generic [ref=e739]: Robert Hart
+                      - time [ref=e743]: Jul 16
+                      - generic [ref=e744]:
+                        - text: "|"
+                        - link "Comments29" [ref=e745] [cursor=pointer]:
+                          - /url: /policy/966438/eu-google-android-ai-interoperability-search-data-dma#comments
+                          - img "Comments" [ref=e746]
+                          - generic [ref=e748]: "29"
+                - article [ref=e749] [cursor=pointer]:
+                  - link "Parents will be notified when child has suicidal chats with Meta AI.":
+                    - /url: /tech/966431/parents-will-be-notified-when-child-has-suicidal-chats-with-meta-ai
+                  - generic [ref=e750]:
+                    - generic [ref=e751]:
+                      - generic [ref=e752]:
+                        - img "Jess Weatherbed" [ref=e754]
+                        - generic [ref=e755]:
+                          - generic [ref=e756]: Jess Weatherbed
+                          - time [ref=e758]: Jul 16
+                      - generic [ref=e759]:
+                        - text: Parents will be notified when child has suicidal chats with Meta AI.
+                        - paragraph [ref=e761]:
+                          - text: When teen Instagram users on accounts with parental controls have conversations about self harm or suicide with Meta AI, the platform will now proactively alert supervising guardians that the child’s safety could be at risk. This builds on a similar feature that Meta introduced for
+                          - link "Instagram search in February" [ref=e762]:
+                            - /url: /tech/885110/meta-instagram-parent-alert-teen-self-harm-suicide
+                          - text: .
+                        - paragraph [ref=e764]:
+                          - emphasis [ref=e765]:
+                            - text: "If you or anyone you know is considering self-harm or needs to talk, contact the following people who want to help: In the US, text or call 988. Outside the US, contact"
+                            - link "https://www.iasp.info/" [ref=e766]:
+                              - /url: https://www.iasp.info/
+                            - text: .
+                        - generic:
+                          - paragraph
+                      - generic [ref=e769]:
+                        - link "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI" [ref=e770]:
+                          - /url: https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/
+                        - paragraph [ref=e771]: "[Meta Newsroom]"
+                    - generic [ref=e772]:
+                      - link "Comments5" [ref=e775]:
+                        - /url: /tech/966431/parents-will-be-notified-when-child-has-suicidal-chats-with-meta-ai#comments
+                        - img "Comments" [ref=e776]
+                        - generic [ref=e778]: "5"
+                      - generic [ref=e779]: "|"
+                      - button "Copy link" [ref=e782]:
+                        - img "Link" [ref=e783]
+                - generic [ref=e785]:
+                  - text: advertisement
+                  - generic [ref=e786]: AD
+                - generic [ref=e787]:
+                  - img "Computer cops" [ref=e789]
+                  - generic [ref=e793]:
+                    - link "Computer cops" [ref=e796] [cursor=pointer]:
+                      - /url: /ai-artificial-intelligence/965066/ai-police-cops
+                    - paragraph [ref=e797]: Inside the big business of selling AI to the police.
+                    - generic [ref=e798]:
+                      - generic [ref=e799]: Webb Wright
+                      - time [ref=e803]: Jul 16
+                      - generic [ref=e804]:
+                        - text: "|"
+                        - link "Comments18" [ref=e805] [cursor=pointer]:
+                          - /url: /ai-artificial-intelligence/965066/ai-police-cops#comments
+                          - img "Comments" [ref=e806]
+                          - generic [ref=e808]: "18"
+                - article [ref=e809] [cursor=pointer]:
+                  - link "Linus Torvalds says Linux is “not one of those anti-AI projects.”":
+                    - /url: /news/966374/linus-torvalds-says-linux-is-not-one-of-those-anti-ai-projects
+                  - generic [ref=e810]:
+                    - generic [ref=e811]:
+                      - generic [ref=e812]:
+                        - img "Jay Peters" [ref=e814]
+                        - generic [ref=e815]:
+                          - generic [ref=e816]: Jay Peters
+                          - time [ref=e818]: Jul 16
+                      - generic [ref=e819]:
+                        - text: Linus Torvalds says Linux is “not one of those anti-AI projects.”
+                        - paragraph [ref=e821]:
+                          - text: “I realize that some people really dislike AI, but this is an area where I’m willing to absolutely put my foot down as the top-level maintainer,” Torvalds said
+                          - link "this week" [ref=e822]:
+                            - /url: https://lore.kernel.org/all/CAHk-%3Dwi4zC%2BZe8e%2Bp3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/
+                          - text: in a message,
+                          - link [ref=e823]:
+                            - /url: https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894
+                            - text: as reported by
+                            - emphasis [ref=e824]: The Register
+                          - text: . If someone has issues with Linux not being anti-AI, “they can do the open-source thing and fork it.”
+                        - generic:
+                          - paragraph
+                      - generic [ref=e827]:
+                        - link "Linus Torvalds tells AI haters to fork off" [ref=e828]:
+                          - /url: https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894
+                        - paragraph [ref=e829]: "[The Register]"
+                    - generic [ref=e830]:
+                      - link "Comments32" [ref=e833]:
+                        - /url: /news/966374/linus-torvalds-says-linux-is-not-one-of-those-anti-ai-projects#comments
+                        - img "Comments" [ref=e834]
+                        - generic [ref=e836]: "32"
+                      - generic [ref=e837]: "|"
+                      - button "Copy link" [ref=e840]:
+                        - img "Link" [ref=e841]
+                - generic [ref=e843]:
+                  - img "xAI sues a man for using Grok to generate CSAM ‘deepfakes’" [ref=e845]
+                  - generic [ref=e848]:
+                    - link "xAI sues a man for using Grok to generate CSAM ‘deepfakes’" [ref=e851] [cursor=pointer]:
+                      - /url: /ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
+                    - generic [ref=e852]:
+                      - generic [ref=e853]: Emma Roth
+                      - time [ref=e857]: Jul 16
+                      - generic [ref=e858]:
+                        - text: "|"
+                        - link "Comments25" [ref=e859] [cursor=pointer]:
+                          - /url: /ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam#comments
+                          - img "Comments" [ref=e860]
+                          - generic [ref=e862]: "25"
+                - generic [ref=e863]:
+                  - img "AI slop movies are the new direct-to-video cash grabs" [ref=e865]
+                  - generic [ref=e869]:
+                    - link "AI slop movies are the new direct-to-video cash grabs" [ref=e872] [cursor=pointer]:
+                      - /url: /entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
+                    - paragraph [ref=e873]:
+                      - text: Projects like
+                      - emphasis [ref=e874]: "Odysseus: The Fall"
+                      - text: highlight how the AI hype machine is powered by stunts and stolen valor.
+                    - generic [ref=e875]:
+                      - generic [ref=e876]: Charles Pulliam-Moore
+                      - time [ref=e880]: Jul 16
+                      - generic [ref=e881]:
+                        - text: "|"
+                        - link "Comments42" [ref=e882] [cursor=pointer]:
+                          - /url: /entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood#comments
+                          - img "Comments" [ref=e883]
+                          - generic [ref=e885]: "42"
+                - article [ref=e886] [cursor=pointer]:
+                  - link "OpenAI trained an AI for red-teaming AI.":
+                    - /url: /ai-artificial-intelligence/966117/openai-trained-an-ai-for-red-teaming-ai
+                  - generic [ref=e887]:
+                    - generic [ref=e888]:
+                      - generic [ref=e889]:
+                        - img "Emma Roth" [ref=e891]
+                        - generic [ref=e892]:
+                          - generic [ref=e893]: Emma Roth
+                          - time [ref=e895]: Jul 16
+                      - generic [ref=e896]:
+                        - text: OpenAI trained an AI for red-teaming AI.
+                        - paragraph [ref=e898]:
+                          - text: The new GPT-Red model “can break nearly all models it is pitted against,” according to an OpenAI blog post on Wednesday. OpenAI says it used GPT-Red to find vulnerabilities
+                          - link "in GPT-5.6 Sol" [ref=e899]:
+                            - /url: /ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
+                          - text: ", a process that made it the company’s “most robust model to prompt injections to date.”"
+                        - generic:
+                          - paragraph
+                      - generic [ref=e902]:
+                        - 'link "GPT‑Red: Unlocking Self-Improvement for Robustness" [ref=e903]':
+                          - /url: https://openai.com/index/unlocking-self-improvement-gpt-red/
+                        - paragraph [ref=e904]: "[OpenAI]"
+                    - generic [ref=e905]:
+                      - link "Comments2" [ref=e908]:
+                        - /url: /ai-artificial-intelligence/966117/openai-trained-an-ai-for-red-teaming-ai#comments
+                        - img "Comments" [ref=e909]
+                        - generic [ref=e911]: "2"
+                      - generic [ref=e912]: "|"
+                      - button "Copy link" [ref=e915]:
+                        - img "Link" [ref=e916]
+                - generic [ref=e918]:
+                  - text: advertisement
+                  - generic [ref=e919]: AD
+                - article [ref=e920] [cursor=pointer]:
+                  - link "Mira Murati’s Thinking Machines Lab has debuted its first AI model.":
+                    - /url: /ai-artificial-intelligence/966134/mira-muratis-thinking-machines-lab-has-debuted-its-first-ai-model
+                  - generic [ref=e921]:
+                    - generic [ref=e922]:
+                      - generic [ref=e923]:
+                        - img "Hayden Field" [ref=e925]
+                        - generic [ref=e926]:
+                          - generic [ref=e927]: Hayden Field
+                          - time [ref=e929]: Jul 16
+                      - generic [ref=e930]:
+                        - text: Mira Murati’s Thinking Machines Lab has debuted its first AI model.
+                        - paragraph [ref=e932]:
+                          - text: Murati, OpenAI’s former CTO (and, briefly, CEO during Sam Altman’s ouster in 2023),
+                          - link "wrote" [ref=e933]:
+                            - /url: https://x.com/miramurati/status/2077455974743593100?s=20
+                          - text: on X that the open-weight model, called “Inkling,” was trained from scratch. Judging by the official
+                          - link "blog post" [ref=e934]:
+                            - /url: https://thinkingmachines.ai/news/introducing-inkling/
+                          - text: ", though, it seemed like the company was purposefully setting expectations for Inkling low: “It is not the most performant model available today, closed or open … We trained Inkling for solid capabilities across the board rather than state-of-the-art performance in a single area, to serve as a foundation for the models we will train in the future.”"
+                      - generic [ref=e937]:
+                        - 'link "Inkling: Our Open-Weights Model" [ref=e938]':
+                          - /url: https://thinkingmachines.ai/news/introducing-inkling/
+                        - paragraph [ref=e939]: "[Thinking Machines Lab]"
+                    - generic [ref=e940]:
+                      - link "Comments2" [ref=e943]:
+                        - /url: /ai-artificial-intelligence/966134/mira-muratis-thinking-machines-lab-has-debuted-its-first-ai-model#comments
+                        - img "Comments" [ref=e944]
+                        - generic [ref=e946]: "2"
+                      - generic [ref=e947]: "|"
+                      - button "Copy link" [ref=e950]:
+                        - img "Link" [ref=e951]
+                - generic [ref=e953]:
+                  - img "Suno snatched millions of songs from YouTube, Genius, and Deezer" [ref=e955]
+                  - generic [ref=e958]:
+                    - link "Suno snatched millions of songs from YouTube, Genius, and Deezer" [ref=e961] [cursor=pointer]:
+                      - /url: /ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
+                    - generic [ref=e962]:
+                      - generic [ref=e963]: Jess Weatherbed
+                      - time [ref=e967]: Jul 15
+                      - generic [ref=e968]:
+                        - text: "|"
+                        - link "Comments2" [ref=e969] [cursor=pointer]:
+                          - /url: /ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack#comments
+                          - img "Comments" [ref=e970]
+                          - generic [ref=e972]: "2"
+                - generic [ref=e973]:
+                  - img "OpenAI finally launches hardware… for Codex" [ref=e975]
+                  - generic [ref=e978]:
+                    - link "OpenAI finally launches hardware… for Codex" [ref=e981] [cursor=pointer]:
+                      - /url: /ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
+                    - generic [ref=e982]:
+                      - generic [ref=e983]: Robert Hart
+                      - time [ref=e987]: Jul 15
+                      - generic [ref=e988]:
+                        - text: "|"
+                        - link "Comments25" [ref=e989] [cursor=pointer]:
+                          - /url: /ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch#comments
+                          - img "Comments" [ref=e990]
+                          - generic [ref=e992]: "25"
+                - article [ref=e993] [cursor=pointer]:
+                  - link "This week in the big AI data center buildout.":
+                    - /url: /science/965953/this-week-in-the-big-ai-data-center-buildout
+                  - generic [ref=e994]:
+                    - generic [ref=e995]:
+                      - generic [ref=e996]:
+                        - img "Jay Peters" [ref=e998]
+                        - generic [ref=e999]:
+                          - generic [ref=e1000]: Jay Peters
+                          - time [ref=e1002]: Jul 15
+                      - generic [ref=e1003]:
+                        - text: This week in the big AI data center buildout.
+                        - paragraph [ref=e1005]: "AI data center projects are continuing to pop up across the US, with frequent opposition from locals concerned about their impact. Here are a few recent articles about the projects:"
+                        - list [ref=e1007]:
+                          - listitem [ref=e1008]:
+                            - generic [ref=e1009]:
+                              - emphasis [ref=e1010]: Atlanta Community Press Collective
+                              - text: ":"
+                              - link "Marietta City Council tables approval of new data center" [ref=e1011]:
+                                - /url: https://atlpresscollective.com/2026/07/11/marietta-data-center/
+                          - listitem [ref=e1012]:
+                            - generic [ref=e1013]:
+                              - text: "KATU 2:"
+                              - link "Massive $5.1B data center proposed for Salem draws praise and pushback" [ref=e1014]:
+                                - /url: https://katu.com/news/local/massive-51b-data-center-proposed-for-salem-draws-praise-and-pushback-oregon-environment-local-money-water-energy-local-portland-hillsboro-companies-business-jobs
+                          - listitem [ref=e1015]:
+                            - generic [ref=e1016]:
+                              - emphasis [ref=e1017]: The Texas Tribune
+                              - text: ":"
+                              - link "A data center proposed at a quiet corner of East Texas leaves a community bracing for a boom" [ref=e1018]:
+                                - /url: https://www.texastribune.org/2026/07/09/data-center-backlash-east-texas/
+                          - listitem [ref=e1019]:
+                            - generic [ref=e1020]:
+                              - text: "WWSB:"
+                              - link "Sarasota County blocks hyperscale data centers for at least one year" [ref=e1021]:
+                                - /url: https://www.mysuncoast.com/2026/07/09/sarasota-county-blocks-hyperscale-data-centers-least-one-year/
+                    - generic [ref=e1022]:
+                      - link "Comments1" [ref=e1025]:
+                        - /url: /science/965953/this-week-in-the-big-ai-data-center-buildout#comments
+                        - img "Comments" [ref=e1026]
+                        - generic [ref=e1028]: "1"
+                      - generic [ref=e1029]: "|"
+                      - button "Copy link" [ref=e1032]:
+                        - img "Link" [ref=e1033]
+                - article [ref=e1035] [cursor=pointer]:
+                  - link "Elon Musk says X’s codebase will be made open source.":
+                    - /url: /ai-artificial-intelligence/965937/elon-musk-says-xs-codebase-will-be-made-open-source
+                  - generic [ref=e1036]:
+                    - generic [ref=e1037]:
+                      - generic [ref=e1038]:
+                        - img "Richard Lawler" [ref=e1040]
+                        - generic [ref=e1041]:
+                          - generic [ref=e1042]: Richard Lawler
+                          - time [ref=e1044]: Jul 15
+                      - generic [ref=e1045]:
+                        - text: Elon Musk says X’s codebase will be made open source.
+                        - paragraph [ref=e1047]:
+                          - text: Along with his usual morning tweets in support of right-wing politics, against certain immigrants to the US, and boosting data centers, the sometimes-trillionaire
+                          - link "writes" [ref=e1048]:
+                            - /url: https://x.com/elonmusk/status/2077361679034118271
+                          - text: ", “Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions.” (He didn’t mention how Grok Build had apparently made exposing your code"
+                          - link "a little too easy" [ref=e1049]:
+                            - /url: /ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
+                          - text: .)
+                        - paragraph [ref=e1051]:
+                          - text: He also
+                          - link "tweeted separately" [ref=e1052]:
+                            - /url: https://x.com/elonmusk/status/2077380458996773192
+                          - text: about its mysteriously
+                          - link "busted" [ref=e1053]:
+                            - /url: /tech/965360/x-algorithm-tweak-mutuals-strangers-community
+                          - text: algorithm, saying that it “…barraging you with similar content due to a few likes” is another problem.
+                      - generic [ref=e1057]:
+                        - generic [ref=e1060]:
+                          - link "Elon Musk tweet screenshot that says “Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. Moreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running. Trust through total transparency is the only thing that should be believed.”":
+                            - /url: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Clipboard_07-15-2026_01.jpg?quality=90&strip=all&crop=0,0,100,100
+                            - img "Elon Musk tweet screenshot that says “Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. Moreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running. Trust through total transparency is the only thing that should be believed.”" [ref=e1061]
+                        - generic [ref=e1062]: "Screenshot: X.com (@elonmusk)"
+                    - generic [ref=e1063]:
+                      - link "Comments10" [ref=e1066]:
+                        - /url: /ai-artificial-intelligence/965937/elon-musk-says-xs-codebase-will-be-made-open-source#comments
+                        - img "Comments" [ref=e1067]
+                        - generic [ref=e1069]: "10"
+                      - generic [ref=e1070]: "|"
+                      - button "Copy link" [ref=e1073]:
+                        - img "Link" [ref=e1074]
+                - generic [ref=e1076]:
+                  - text: advertisement
+                  - generic [ref=e1077]: AD
+                - article [ref=e1078] [cursor=pointer]:
+                  - link "George Lucas says AI makes it ‘much easier’ to make movies.":
+                    - /url: /entertainment/965908/george-lucas-says-ai-makes-it-much-easier-to-make-movies
+                  - generic [ref=e1079]:
+                    - generic [ref=e1080]:
+                      - generic [ref=e1081]:
+                        - img "Jess Weatherbed" [ref=e1083]
+                        - generic [ref=e1084]:
+                          - generic [ref=e1085]: Jess Weatherbed
+                          - time [ref=e1087]: Jul 15
+                      - generic [ref=e1088]:
+                        - text: George Lucas says AI makes it ‘much easier’ to make movies.
+                        - paragraph [ref=e1090]:
+                          - text: In an interview with
+                          - emphasis [ref=e1091]:
+                            - link "A Rabbit’s Foot" [ref=e1092]:
+                              - /url: https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/
+                          - text: ", the man who loves"
+                          - link "pushing technological boundries" [ref=e1093]:
+                            - /url: https://filmobsessive.com/film/film-analysis/filmmakers/how-george-lucas-changed-the-film-industry-forever/
+                          - text: enough to anger his fans with
+                          - link "controversial remasters" [ref=e1094]:
+                            - /url: https://screenrant.com/star-wars-new-hope-special-edition-criticism-problems-hated/
+                          - text: "had this to say about people who oppose artificial intelligence in film making:"
+                        - blockquote [ref=e1096]:
+                          - paragraph [ref=e1097]: “It’s very much like sitting here saying, ‘Well, I believe the horse and the buggy is really where it’s at. These cars, they break down, they need gas, there’s all kinds of problems with them and pretty soon they’ll be making them into tanks, and then they’ll be killing people. It’s terrible.’ There’s nothing you can do about it. That’s progress, it’s the future.”
+                    - generic [ref=e1098]:
+                      - link "Comments49" [ref=e1101]:
+                        - /url: /entertainment/965908/george-lucas-says-ai-makes-it-much-easier-to-make-movies#comments
+                        - img "Comments" [ref=e1102]
+                        - generic [ref=e1104]: "49"
+                      - generic [ref=e1105]: "|"
+                      - button "Copy link" [ref=e1108]:
+                        - img "Link" [ref=e1109]
+                - article [ref=e1111] [cursor=pointer]:
+                  - link "Apple Intelligence approved in China.":
+                    - /url: /tech/965872/apple-intelligence-approved-in-china
+                  - generic [ref=e1112]:
+                    - generic [ref=e1113]:
+                      - generic [ref=e1114]:
+                        - img "Thomas Ricker" [ref=e1116]
+                        - generic [ref=e1117]:
+                          - generic [ref=e1118]: Thomas Ricker
+                          - time [ref=e1120]: Jul 15
+                      - generic [ref=e1121]:
+                        - text: Apple Intelligence approved in China.
+                        - paragraph [ref=e1123]:
+                          - text: Apple’s on-device generative AI service has officially been registered with China’s cyberspace regulator, clearing a major hurdle for device rollout. To navigate local regulations, Apple is tapping domestic tech giants, integrating Alibaba’s Qwen and Baidu’s AI models to power the experience for Chinese users,
+                          - link "as reported last year" [ref=e1124]:
+                            - /url: /news/611992/apple-intelligence-ai-china-alibaba-iphone
+                          - text: .
+                        - paragraph [ref=e1126]:
+                          - text: Meanwhile, Apple and the EU are waiting to see
+                          - link "who blinks first" [ref=e1127]:
+                            - /url: /ai-artificial-intelligence/947051/apple-europe-dma-siri-ai
+                          - text: .
+                      - generic [ref=e1130]:
+                        - link "Apple Intelligence AI service registered with China's cyberspace regulator" [ref=e1131]:
+                          - /url: https://www.reuters.com/technology/apple-intelligence-ai-service-registered-with-chinas-cyberspace-regulator-2026-07-15/
+                        - paragraph [ref=e1132]: "[reuters.com]"
+                    - generic [ref=e1133]:
+                      - link "Comments6" [ref=e1136]:
+                        - /url: /tech/965872/apple-intelligence-approved-in-china#comments
+                        - img "Comments" [ref=e1137]
+                        - generic [ref=e1139]: "6"
+                      - generic [ref=e1140]: "|"
+                      - button "Copy link" [ref=e1143]:
+                        - img "Link" [ref=e1144]
+                - article [ref=e1146] [cursor=pointer]:
+                  - link "AI’s power bill is here.":
+                    - /url: /news/965837/ais-power-bill-is-here
+                  - generic [ref=e1147]:
+                    - generic [ref=e1148]:
+                      - generic [ref=e1149]:
+                        - img "Thomas Ricker" [ref=e1151]
+                        - generic [ref=e1152]:
+                          - generic [ref=e1153]: Thomas Ricker
+                          - time [ref=e1155]: Jul 15
+                      - generic [ref=e1156]:
+                        - text: AI’s power bill is here.
+                        - paragraph [ref=e1158]: The largest US electrical grid operator, PJM, will add $6.3 billion in electricity costs for consumers across 13 states due to the booming energy demands of data centers. The rate hikes will hit millions of households and businesses over the next two years, adding to the $29 billion in costs that data centers have added to PJM regions since 2024.
+                      - generic [ref=e1161]:
+                        - link "Data Centers to Add Billions in Power Costs in 13 States" [ref=e1162]:
+                          - /url: https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html
+                        - paragraph [ref=e1163]: "[nytimes.com]"
+                    - generic [ref=e1164]:
+                      - link "Comments19" [ref=e1167]:
+                        - /url: /news/965837/ais-power-bill-is-here#comments
+                        - img "Comments" [ref=e1168]
+                        - generic [ref=e1170]: "19"
+                      - generic [ref=e1171]: "|"
+                      - button "Copy link" [ref=e1174]:
+                        - img "Link" [ref=e1175]
+                - article [ref=e1177] [cursor=pointer]:
+                  - link "ChatGPT was down for about 45 minutes.":
+                    - /url: /ai-artificial-intelligence/965771/openai-chatgpt-down-outage-elevated-errors-login-issues
+                  - generic [ref=e1178]:
+                    - generic [ref=e1179]:
+                      - generic [ref=e1180]:
+                        - img "Jay Peters" [ref=e1182]
+                        - generic [ref=e1183]:
+                          - generic [ref=e1184]: Jay Peters
+                          - time [ref=e1186]: Jul 15
+                      - generic [ref=e1187]:
+                        - text: ChatGPT was down for about 45 minutes.
+                        - paragraph [ref=e1189]:
+                          - text: OpenAI,
+                          - link "on its status website" [ref=e1190]:
+                            - /url: https://status.openai.com/incidents/01KXHH1BJ9BS0FVE2MGEJ9FZ5M
+                          - text: ", confirmed that there were “elevated errors” affecting ChatGPT. During the outage, when I tried to access ChatGPT on the web, all that loaded was an error message. The company confirmed impacted services had recovered at 8:39PM ET."
+                        - paragraph [ref=e1192]:
+                          - emphasis [ref=e1193]: "Update: OpenAI says the issues are resolved."
+                      - generic [ref=e1196]:
+                        - link "Elevated errors affecting ChatGPT - OpenAI Status" [ref=e1197]:
+                          - /url: https://status.openai.com/incidents/01KXHH1BJ9BS0FVE2MGEJ9FZ5M
+                        - paragraph [ref=e1198]: "[OpenAI Status]"
+                    - generic [ref=e1199]:
+                      - link "Comments13" [ref=e1202]:
+                        - /url: /ai-artificial-intelligence/965771/openai-chatgpt-down-outage-elevated-errors-login-issues#comments
+                        - img "Comments" [ref=e1203]
+                        - generic [ref=e1205]: "13"
+                      - generic [ref=e1206]: "|"
+                      - button "Copy link" [ref=e1209]:
+                        - img "Link" [ref=e1210]
+                - article [ref=e1212] [cursor=pointer]:
+                  - link "Another turn in the Apple v. OpenAI dispute.":
+                    - /url: /tech/965703/another-turn-in-the-apple-v-openai-dispute
+                  - generic [ref=e1213]:
+                    - generic [ref=e1214]:
+                      - generic [ref=e1215]:
+                        - img "Jay Peters" [ref=e1217]
+                        - generic [ref=e1218]:
+                          - generic [ref=e1219]: Jay Peters
+                          - time [ref=e1221]: Jul 15
+                      - generic [ref=e1222]:
+                        - text: Another turn in the Apple v. OpenAI dispute.
+                        - paragraph [ref=e1224]:
+                          - text: Apple’s lawsuit
+                          - link "said that" [ref=e1225]:
+                            - /url: /tech/964350/apple-openai-lawsuit-trade-secrets
+                          - text: OpenAI “never responded” to outreach in February. But
+                          - link [ref=e1226]:
+                            - /url: https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376
+                            - emphasis [ref=e1227]: NBC News
+                            - text: reports
+                          - text: OpenAI did respond, though communication stopped after one of Apple’s lawyers apparently mixed up OpenAI staffers with the last names Wang and Chang.
+                    - generic [ref=e1231]:
+                      - link "Comments8" [ref=e1234]:
+                        - /url: /tech/965703/another-turn-in-the-apple-v-openai-dispute#comments
+                        - img "Comments" [ref=e1235]
+                        - generic [ref=e1237]: "8"
+                      - generic [ref=e1238]: "|"
+                      - button "Copy link" [ref=e1241]:
+                        - img "Link" [ref=e1242]
+                - generic [ref=e1244]:
+                  - text: advertisement
+                  - generic [ref=e1245]: AD
+                - article [ref=e1246] [cursor=pointer]:
+                  - link "Meta’s AI can now dub your voice in more languages on Instagram and Facebook.":
+                    - /url: /tech/965660/metas-ai-can-now-dub-your-voice-in-more-languages-on-instagram-and-facebook
+                  - generic [ref=e1247]:
+                    - generic [ref=e1248]:
+                      - generic [ref=e1249]:
+                        - img "Jay Peters" [ref=e1251]
+                        - generic [ref=e1252]:
+                          - generic [ref=e1253]: Jay Peters
+                          - time [ref=e1255]: Jul 15
+                      - generic [ref=e1256]:
+                        - text: Meta’s AI can now dub your voice in more languages on Instagram and Facebook.
+                        - paragraph [ref=e1258]:
+                          - text: The
+                          - link "AI translations" [ref=e1259]:
+                            - /url: /news/761665/meta-ai-translation-facebook-instagram-reels
+                          - text: are expanding to Japanese, Korean, French, German, and Italian on Instagram and Bahasa, Indonesian, Arabic, French, Vietnamese, and Thai on Facebook,
+                          - link "according to Instagram boss Adam Mosseri" [ref=e1260]:
+                            - /url: https://www.instagram.com/p/DaxpKQfRaSV/
+                          - text: .
+                    - generic [ref=e1264]:
+                      - link "Comments0" [ref=e1267]:
+                        - /url: /tech/965660/metas-ai-can-now-dub-your-voice-in-more-languages-on-instagram-and-facebook#comments
+                        - img "Comments" [ref=e1268]
+                        - generic [ref=e1270]: "0"
+                      - generic [ref=e1271]: "|"
+                      - button "Copy link" [ref=e1274]:
+                        - img "Link" [ref=e1275]
+                - generic [ref=e1277]:
+                  - img "OpenAI may announce a ChatGPT smart speaker this year" [ref=e1279]
+                  - generic [ref=e1282]:
+                    - link "OpenAI may announce a ChatGPT smart speaker this year" [ref=e1285] [cursor=pointer]:
+                      - /url: /ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
+                    - generic [ref=e1286]:
+                      - generic [ref=e1288]:
+                        - generic [ref=e1289]: Emma Roth
+                        - generic [ref=e1290]: and Jay Peters
+                      - time [ref=e1292]: Jul 15
+                      - generic [ref=e1293]:
+                        - text: "|"
+                        - link "Comments14" [ref=e1294] [cursor=pointer]:
+                          - /url: /ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device#comments
+                          - img "Comments" [ref=e1295]
+                          - generic [ref=e1297]: "14"
+                - article [ref=e1298] [cursor=pointer]:
+                  - link "OpenAI has a new statement about Apple’s lawsuit.":
+                    - /url: /tech/965649/openai-has-a-new-statement-about-apples-lawsuit
+                  - generic [ref=e1299]:
+                    - generic [ref=e1300]:
+                      - generic [ref=e1301]:
+                        - img "Jay Peters" [ref=e1303]
+                        - generic [ref=e1304]:
+                          - generic [ref=e1305]: Jay Peters
+                          - time [ref=e1307]: Jul 15
+                      - generic [ref=e1308]:
+                        - text: OpenAI has a new statement about Apple’s lawsuit.
+                        - paragraph [ref=e1310]:
+                          - text: Here it is,
+                          - link [ref=e1311]:
+                            - /url: https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit
+                            - text: given to
+                            - emphasis [ref=e1312]: Bloomberg
+                          - text: ":"
+                        - blockquote [ref=e1314]:
+                          - paragraph [ref=e1315]: While we take these allegations seriously, we’re not aware of any evidence that this complaint has merit. We believe in fair competition and allowing people the freedom to work wherever they choose, and we’re focused on building innovative technology that empowers people everywhere.
+                        - paragraph [ref=e1317]:
+                          - text: Apple sued OpenAI
+                          - link "on Friday" [ref=e1318]:
+                            - /url: /tech/964350/apple-openai-lawsuit-trade-secrets
+                          - text: ", alleging the company stole hardware secrets."
+                    - generic [ref=e1319]:
+                      - link "Comments6" [ref=e1322]:
+                        - /url: /tech/965649/openai-has-a-new-statement-about-apples-lawsuit#comments
+                        - img "Comments" [ref=e1323]
+                        - generic [ref=e1325]: "6"
+                      - generic [ref=e1326]: "|"
+                      - button "Copy link" [ref=e1329]:
+                        - img "Link" [ref=e1330]
+                - generic [ref=e1332]:
+                  - img "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage" [ref=e1334]
+                  - generic [ref=e1337]:
+                    - link "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage" [ref=e1340] [cursor=pointer]:
+                      - /url: /ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
+                    - generic [ref=e1341]:
+                      - generic [ref=e1342]: Stevie Bonifield
+                      - time [ref=e1346]: Jul 15
+                      - generic [ref=e1347]:
+                        - text: "|"
+                        - link "Comments23" [ref=e1348] [cursor=pointer]:
+                          - /url: /ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload#comments
+                          - img "Comments" [ref=e1349]
+                          - generic [ref=e1351]: "23"
+              - navigation [ref=e1352]:
+                - heading "Pagination" [level=2] [ref=e1353]
+                - generic [ref=e1355]: Page 1 of 15
+                - link "Next" [ref=e1357] [cursor=pointer]:
+                  - /url: /ai-artificial-intelligence/archives/2
+          - text: /
+    - contentinfo [ref=e1360]:
+      - generic [ref=e1361]:
+        - text: advertisement
+        - generic [ref=e1362]: AD
+      - generic [ref=e1364]:
+        - generic [ref=e1365]:
+          - link "The Verge" [ref=e1366] [cursor=pointer]:
+            - /url: /
+            - img "The Verge" [ref=e1367]
+          - list [ref=e1370]:
+            - listitem [ref=e1371]:
+              - link "Facebook" [ref=e1372] [cursor=pointer]:
+                - /url: https://www.facebook.com/verge
+                - img "Facebook" [ref=e1373]
+            - listitem [ref=e1375]:
+              - link "Threads" [ref=e1376] [cursor=pointer]:
+                - /url: https://www.threads.net/@verge
+                - img "Threads" [ref=e1377]
+            - listitem [ref=e1379]:
+              - link "Instagram" [ref=e1380] [cursor=pointer]:
+                - /url: https://www.instagram.com/verge
+                - img "Instagram" [ref=e1381]
+            - listitem [ref=e1383]:
+              - link "Youtube" [ref=e1384] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/theverge
+                - img "Youtube" [ref=e1385]
+            - listitem [ref=e1387]:
+              - link "RSS" [ref=e1388] [cursor=pointer]:
+                - /url: https://www.theverge.com/rss/index.xml
+                - img "RSS" [ref=e1389]
+        - generic [ref=e1391]:
+          - list [ref=e1392]:
+            - listitem [ref=e1393]:
+              - link "Contact" [ref=e1394] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e1395]:
+              - link "Tip Us" [ref=e1396] [cursor=pointer]:
+                - /url: /c/tech/22579076/how-to-tip-the-verge-email-signal-and-more
+            - listitem [ref=e1397]:
+              - link "Community Guidelines" [ref=e1398] [cursor=pointer]:
+                - /url: /community-guidelines
+            - listitem [ref=e1399]:
+              - link "Archives" [ref=e1400] [cursor=pointer]:
+                - /url: /archives/full
+            - listitem [ref=e1401]:
+              - link "About" [ref=e1402] [cursor=pointer]:
+                - /url: /about-the-verge
+            - listitem [ref=e1403]:
+              - link "Ethics Statement" [ref=e1404] [cursor=pointer]:
+                - /url: /ethics-statement
+            - listitem [ref=e1405]:
+              - link "How We Rate and Review Products" [ref=e1406] [cursor=pointer]:
+                - /url: /pages/how-we-rate
+          - list [ref=e1407]:
+            - listitem [ref=e1408]:
+              - button "Manage Privacy Settings" [ref=e1409] [cursor=pointer]
+            - listitem [ref=e1410]:
+              - link "Terms of Use" [ref=e1411] [cursor=pointer]:
+                - /url: https://www.voxmedia.com/legal/terms-of-use
+            - listitem [ref=e1412]:
+              - link "Privacy Notice" [ref=e1413] [cursor=pointer]:
+                - /url: https://www.voxmedia.com/legal/privacy-notice
+            - listitem [ref=e1414]:
+              - link "Cookie Policy" [ref=e1415] [cursor=pointer]:
+                - /url: https://www.voxmedia.com/legal/cookie-policy
+            - listitem [ref=e1416]:
+              - link "Licensing FAQ" [ref=e1417] [cursor=pointer]:
+                - /url: https://www.voxmedia.com/pages/licensing
+            - listitem [ref=e1418]:
+              - link "Accessibility" [ref=e1419] [cursor=pointer]:
+                - /url: https://www.voxmedia.com/legal/accessibility
+            - listitem [ref=e1420]:
+              - link "Platform Status" [ref=e1421] [cursor=pointer]:
+                - /url: https://status.voxmedia.com
+        - paragraph [ref=e1422]:
+          - text: © 2026
+          - link "Vox Media" [ref=e1423] [cursor=pointer]:
+            - /url: https://www.voxmedia.com
+          - text: ", LLC. All Rights Reserved"
+  - alert [ref=e1424]
