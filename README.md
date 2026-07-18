@@ -188,6 +188,8 @@ Any specific format or instructions for the email? (leave blank for default): Fo
 
 That's it. Vanguard is now running autonomously. Press `Ctrl+C` to stop.
 
+![Vanguard Terminal — running server.py](terminal_mockup.png)
+
 ---
 
 ## ⚙️ Configuration Reference
@@ -267,6 +269,18 @@ A single-line, concrete email subject. Never generic — always specific to the 
 ```
 OpenAI's $230 keypad, Suno's scraped 2M songs, EU cracks open Google
 ```
+
+### 📧 What Subscribers Receive
+
+Every subscriber gets a clean, mobile-friendly email that looks like this (rendered from `outputs/output.html`):
+
+> **Subject:** OpenAI's $230 keypad, Suno's scraped 2M songs, EU cracks open Google
+>
+> **From:** Your Gmail account
+>
+> A dark navy masthead with the newsletter name → intro paragraph → 5–8 story items (headline + 2–4 sentence summary + source) → footer sign-off.
+>
+> Compatible with Gmail, Outlook, and Apple Mail out of the box.
 
 ---
 
