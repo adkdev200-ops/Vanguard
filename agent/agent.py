@@ -19,7 +19,9 @@ with open(_BASE_DIR / "prompts" / "systemprompt.md") as f:
     SYSTEM_PROMPT = f.read()
 
 with open(_BASE_DIR / "configs" / "mcp_servers.json") as f:
-    MCP_SERVERS = json.load(f)
+    config_str = f.read()
+    config_str = config_str.replace("<OUTPUTS_DIR>", str(_BASE_DIR / "outputs"))
+    MCP_SERVERS = json.loads(config_str)
 
 
 class ChatState(TypedDict):

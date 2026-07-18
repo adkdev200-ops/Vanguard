@@ -17,3 +17,5 @@ Rules:
 Example logic:
 If searching for "Official Nepal election results" and they are not yet published but expected at 15:00 NPT, set needs_followup=true and populate next_check accordingly.
 If the information is already found, or it's a general topic like "Weekly dose of AI", set needs_followup=false.
+
+CRITICAL INSTRUCTION: You must output ONLY valid JSON. Do not include any markdown formatting, code blocks (like ```json), backticks, or explanatory text before or after the JSON object.

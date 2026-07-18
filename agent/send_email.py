@@ -32,12 +32,17 @@ def send_html_email(
 
     recipients = [to] if isinstance(to, str) else to
 
-    msg = MIMEText(html, "html")
-    msg["Subject"] = subject
-    msg["From"] = EMAIL
-    msg["To"] = ", ".join(recipients)
-
     with smtplib.SMTP("smtp.gmail.com", 587) as server:
         server.starttls()
         server.login(EMAIL, APP_PASSWORD)
-        server.send_message(msg)
+        
+        for recipient in recipients:
+            msg = MIMEText(html, "html")
+            msg["Subject"] = subject
+            msg["From"] = EMAIL
+            msg["To"] = recipient
+            try:
+                server.send_message(msg)
+                print(f"Email sent successfully to {recipient}")
+            except Exception as e:
+                print(f"Failed to send email to {recipient}: {e}")

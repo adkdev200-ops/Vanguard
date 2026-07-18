@@ -56,10 +56,11 @@ class SuperState(TypedDict):
 model = ChatOllama(model="minimax-m3:cloud")
 followup_model = model.with_structured_output(FollowUp)
 
-emails = pd.read_csv(_BASE_DIR / "configs" / "emails.csv")
-
-with open(_BASE_DIR / "memory" / "failures.txt", "r") as f:
-    previous_failures = f.read()
+try:
+    with open(_BASE_DIR / "memory" / "failures.txt", "r") as f:
+        previous_failures = f.read()
+except FileNotFoundError:
+    previous_failures = ""
 
 with open(_BASE_DIR / "prompts" / "post_learning.md", "r") as f:
     post_learner_prompts = f.read()
@@ -85,14 +86,27 @@ async def generateworkflow(checkpointer):
         return {}
 
     async def followup_checker_node(state: SuperState):
-        response = await followup_model.ainvoke(
-            [
-                SystemMessage(content=followup_checker),
-                *state["messages"],
-            ]
-        )
-
-        return {"followup": [response]}
+        try:
+            response = await followup_model.ainvoke(
+                [
+                    SystemMessage(content=followup_checker),
+                    *state["messages"],
+                ]
+            )
+            return {"followup": [response]}
+        except Exception as e:
+            print(f"Failed to parse structured output from followup model: {e}")
+            from datetime import datetime, timezone
+            fallback = FollowUp(
+                needs_followup=False,
+                query="Fallback due to parsing error",
+                research_time=datetime.now(timezone.utc),
+                status="error",
+                attempts=["Parsing error"],
+                next_check=datetime.now(timezone.utc),
+                reason="Parsing error"
+            )
+            return {"followup": [fallback]}
 
     async def researcher(state: SuperState):
         workflow, config = await generate_workflow()
@@ -141,14 +155,25 @@ async def generateworkflow(checkpointer):
     async def send_email(state: SuperState):
         output_dir = _BASE_DIR / "outputs"
 
-        with open(output_dir / "output.html", "r") as f:
-            html_content = f.read()
+        try:
+            with open(output_dir / "output.html", "r") as f:
+                html_content = f.read()
 
-        with open(output_dir / "subject.txt", "r") as f:
-            subject = f.read().strip()
+            with open(output_dir / "subject.txt", "r") as f:
+                subject = f.read().strip()
+        except FileNotFoundError as e:
+            print(f"Error: Could not find output files for email: {e}")
+            return {}
 
-        email_list = emails["email"].tolist()
-        send_html_email(to=email_list, subject=subject, html=html_content)
+        try:
+            emails_df = pd.read_csv(_BASE_DIR / "configs" / "emails.csv")
+            email_list = emails_df["email"].dropna().tolist()
+        except Exception as e:
+            print(f"Error reading emails.csv: {e}")
+            return {}
+
+        if email_list:
+            send_html_email(to=email_list, subject=subject, html=html_content)
 
         return {}
 
